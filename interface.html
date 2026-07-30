@@ -64,6 +64,22 @@
   .cal-day.sel { background: var(--accent); color: #fff; }
   .cal-day:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 
+  /* Barre de contrôles + panneau de filtres */
+  .controls { display: flex; gap: 8px; flex-wrap: wrap; margin: 14px 0 0; }
+  .filter-panel { margin-top: 10px; max-width: 420px; background: var(--surface);
+    border: 1px solid var(--line); border-radius: 14px; padding: 16px; display: grid; gap: 12px; }
+  .filter-panel[hidden] { display: none; }
+  .filter-row { display: flex; flex-direction: column; gap: 5px; }
+  .filter-row label { font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase;
+    color: var(--ink-faint); font-weight: 700; }
+  .filter-row select { background: var(--surface); border: 1px solid var(--line); border-radius: 9px;
+    padding: 8px 10px; color: var(--ink); font-family: var(--sans); font-size: 0.92rem; }
+  .filter-row select:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+  .filter-reset { justify-self: start; background: none; border: 1px solid var(--line);
+    border-radius: 999px; padding: 6px 14px; font-family: var(--sans); font-size: 0.82rem;
+    color: var(--ink-soft); cursor: pointer; font-weight: 600; }
+  .filter-reset:hover { border-color: var(--accent); color: var(--accent); }
+
   .digest-title { font-family: var(--serif); font-weight: 600;
     font-size: clamp(1.7rem, 5vw, 2.3rem); line-height: 1.12; text-wrap: balance;
     margin: 22px 0 8px; letter-spacing: -0.015em; text-transform: capitalize; }
@@ -148,14 +164,47 @@
     <h1 class="digest-title" id="titre">—</h1>
     <p class="lede">Le strict minimum du jour, classé par importance. Une question&nbsp;? Déplie-la ou pose la tienne.</p>
 
-    <div class="calbar">
+    <div class="controls">
       <button class="cal-toggle" id="calToggle" aria-expanded="false" aria-controls="calPanel">
         <span aria-hidden="true">📅</span><span>Changer de jour</span><span class="chev" aria-hidden="true">▾</span>
       </button>
-      <div class="cal-panel" id="calPanel" hidden>
-        <div class="cal-month">Juillet 2026</div>
-        <div class="cal-grid" id="cal"></div>
+      <button class="cal-toggle" id="filterToggle" aria-expanded="false" aria-controls="filterPanel">
+        <span aria-hidden="true">⚙</span><span>Filtrer</span><span class="chev" aria-hidden="true">▾</span>
+      </button>
+    </div>
+    <div class="cal-panel" id="calPanel" hidden>
+      <div class="cal-month">Juillet 2026</div>
+      <div class="cal-grid" id="cal"></div>
+    </div>
+    <div class="filter-panel" id="filterPanel" hidden>
+      <div class="filter-row">
+        <label for="fNombre">Nombre de dépêches</label>
+        <select id="fNombre">
+          <option value="">Toutes</option>
+          <option value="5">5</option><option value="4">4</option>
+          <option value="3">3</option><option value="2">2</option><option value="1">1</option>
+        </select>
       </div>
+      <div class="filter-row">
+        <label for="fScore">Importance minimale</label>
+        <select id="fScore">
+          <option value="0">Toutes</option>
+          <option value="5">à partir de 5 / 10</option>
+          <option value="6">à partir de 6 / 10</option>
+          <option value="7">à partir de 7 / 10</option>
+          <option value="8">à partir de 8 / 10</option>
+          <option value="9">à partir de 9 / 10</option>
+        </select>
+      </div>
+      <div class="filter-row">
+        <label for="fTheme">Thème</label>
+        <select id="fTheme"></select>
+      </div>
+      <div class="filter-row">
+        <label for="fSous">Sous-thème</label>
+        <select id="fSous"></select>
+      </div>
+      <button class="filter-reset" id="fReset" type="button">Réinitialiser les filtres</button>
     </div>
 
     <div class="meta" id="meta"></div>
@@ -191,6 +240,66 @@
     calToggle.setAttribute("aria-expanded", ouvert ? "true" : "false");
   }
   calToggle.addEventListener("click", () => ouvrirCal(calPanel.hidden));
+
+  // ---- Filtres ----
+  const filterToggle = document.getElementById("filterToggle");
+  const filterPanel = document.getElementById("filterPanel");
+  const fNombre = document.getElementById("fNombre");
+  const fScore = document.getElementById("fScore");
+  const fTheme = document.getElementById("fTheme");
+  const fSous = document.getElementById("fSous");
+  const fReset = document.getElementById("fReset");
+
+  let depechesJour = [];  // dépêches du jour choisi (avant filtres)
+
+  filterToggle.addEventListener("click", () => {
+    filterPanel.hidden = !filterPanel.hidden;
+    filterToggle.setAttribute("aria-expanded", filterPanel.hidden ? "false" : "true");
+  });
+
+  function segments(topic) {
+    return (topic || "").split("·").map(s => s.trim()).filter(Boolean);
+  }
+  function remplirSelect(sel, valeurs, labelTous) {
+    const actuel = sel.value;
+    sel.innerHTML = "";
+    const o0 = document.createElement("option"); o0.value = ""; o0.textContent = labelTous; sel.appendChild(o0);
+    valeurs.forEach(v => { const o = document.createElement("option"); o.value = v; o.textContent = v; sel.appendChild(o); });
+    sel.value = valeurs.includes(actuel) ? actuel : "";
+  }
+  function majThemes() {
+    const themes = [...new Set(depechesJour.map(d => segments(d.topic)[0]).filter(Boolean))].sort();
+    remplirSelect(fTheme, themes, "Tous les thèmes");
+    majSousThemes();
+  }
+  function majSousThemes() {
+    const t = fTheme.value;
+    const base = t ? depechesJour.filter(d => segments(d.topic)[0] === t) : depechesJour;
+    const sous = [...new Set(base.flatMap(d => segments(d.topic).slice(1)))].sort();
+    remplirSelect(fSous, sous, "Tous les sous-thèmes");
+  }
+  function depechesFiltrees() {
+    const scoreMin = parseInt(fScore.value || "0", 10);
+    const t = fTheme.value, st = fSous.value;
+    let liste = depechesJour.filter(d => {
+      if (d.score < scoreMin) return false;
+      const segs = segments(d.topic);
+      if (t && segs[0] !== t) return false;
+      if (st && !segs.slice(1).includes(st)) return false;
+      return true;
+    });
+    liste = liste.slice().sort((a, b) => b.score - a.score);
+    const n = parseInt(fNombre.value || "0", 10);
+    if (n > 0) liste = liste.slice(0, n);
+    return liste;
+  }
+  fNombre.addEventListener("change", renderListe);
+  fScore.addEventListener("change", renderListe);
+  fTheme.addEventListener("change", () => { majSousThemes(); renderListe(); });
+  fSous.addEventListener("change", renderListe);
+  fReset.addEventListener("click", () => {
+    fNombre.value = ""; fScore.value = "0"; fTheme.value = ""; majSousThemes(); renderListe();
+  });
 
   function cle(jour) { return `2026-07-${String(jour).padStart(2, "0")}`; }
   function enMots(dateStr) {
@@ -233,21 +342,33 @@
   }
 
   function rendre(dateStr) {
-    const depeches = DIGESTS[dateStr] || [];
+    depechesJour = DIGESTS[dateStr] || [];
     titre.textContent = enMots(dateStr);
+    majThemes();          // repopule les thèmes / sous-thèmes selon le jour
+    renderListe();
+  }
+
+  function renderListe() {
+    const depeches = depechesFiltrees();
     meta.innerHTML = "";
     toc.innerHTML = "";
     feed.innerHTML = "";
 
-    const s1 = document.createElement("span"); s1.textContent = depeches.length + " dépêche" + (depeches.length > 1 ? "s" : "");
+    const total = depechesJour.length, affich = depeches.length;
+    const s1 = document.createElement("span");
+    s1.textContent = (affich === total)
+      ? total + " dépêche" + (total > 1 ? "s" : "")
+      : affich + " / " + total + " dépêches";
     const s2 = document.createElement("span"); s2.textContent = "Source · @MKINFOSWORLD";
     meta.append(s1, s2);
 
+    if (!depechesJour.length) {
+      const v = document.createElement("div"); v.className = "vide";
+      v.textContent = "Aucune dépêche pour ce jour."; feed.appendChild(v); return;
+    }
     if (!depeches.length) {
       const v = document.createElement("div"); v.className = "vide";
-      v.textContent = "Aucune dépêche pour ce jour.";
-      feed.appendChild(v);
-      return;
+      v.textContent = "Aucune dépêche ne correspond à tes filtres."; feed.appendChild(v); return;
     }
 
     depeches.forEach((item, i) => {
