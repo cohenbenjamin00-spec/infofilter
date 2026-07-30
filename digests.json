@@ -10435,95 +10435,380 @@
   {
    "score": 10,
    "topic": "Iran · États-Unis",
-   "fait": "L'armée américaine a achevé une vaste série de frappes aériennes ciblées contre des dizaines d'installations des Gardiens de la révolution en Iran.",
+   "fait": "Le CENTCOM a achevé une vaste vague de frappes contre des dizaines de cibles des Gardiens de la révolution en Iran.",
    "questions": [
     {
-     "q": "Pourquoi les États-Unis ont-ils mené ces frappes en Iran ?",
-     "a": "Selon le CENTCOM, ces frappes constituent une réponse à des tentatives d'attaques aux missiles attribuées à l'Iran contre des forces américaines stationnées au Moyen-Orient."
+     "q": "Quelles cibles ont été visées en Iran ?",
+     "a": "Selon le CENTCOM : des dizaines d'objectifs des Gardiens de la révolution — centres de commandement, sites de stockage et de lancement de missiles, sites de drones, défenses aériennes côtières et infrastructures navales."
     },
     {
-     "q": "Quels types d'infrastructures iraniennes ont été visés ?",
-     "a": "L'opération a ciblé des centres de commandement, des dépôts de missiles et de drones, des systèmes de défense aérienne et des infrastructures navales des Gardiens de la révolution."
+     "q": "Pourquoi les États-Unis ont-ils frappé ?",
+     "a": "En réponse à une tentative d'attaque aux missiles attribuée à Téhéran contre des forces américaines stationnées en Jordanie ; l'objectif affiché est d'affaiblir les capacités militaires iraniennes."
     },
     {
-     "q": "Quel est le bilan des tirs de missiles iraniens durant la nuit ?",
-     "a": "Tous les missiles balistiques lancés par l'Iran contre des objectifs américains ont été interceptés sans causer de dégâts ni faire de victimes."
+     "q": "Combien de soldats américains sont déployés dans la région ?",
+     "a": "Le CENTCOM indique que plus de 50 000 soldats américains sont actuellement déployés au Moyen-Orient dans le cadre du renforcement militaire décidé par Washington."
+    }
+   ]
+  },
+  {
+   "score": 9,
+   "topic": "Iran · Jordanie",
+   "fait": "L'Iran a tiré des missiles sur une base aérienne américaine en Jordanie ; l'armée jordanienne affirme en avoir intercepté cinq, sans victime.",
+   "questions": [
+    {
+     "q": "Quel bilan côté jordanien ?",
+     "a": "L'armée jordanienne indique avoir intercepté cinq missiles iraniens, sans aucune victime à déplorer."
+    },
+    {
+     "q": "Que revendiquent les Gardiens de la révolution ?",
+     "a": "Les Gardiens affirment que la frappe a détruit trois avions F-35 et en a endommagé trois autres sur la base en Jordanie."
+    },
+    {
+     "q": "Ces revendications iraniennes sont-elles confirmées ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour : seule la revendication iranienne est rapportée, sans confirmation indépendante."
     }
    ]
   },
   {
    "score": 8,
-   "topic": "Israël · Hamas",
-   "fait": "Des négociations sous médiation égyptienne entre Israël et le Hamas ont enregistré des avancées significatives concernant le cessez-le-feu à Gaza.",
+   "topic": "États-Unis · Iran · Escalade",
+   "fait": "Washington a prévenu Israël de son intention de frapper de nouveau l'Iran dans la nuit ; Israël se prépare à un élargissement de la campagne.",
    "questions": [
     {
-     "q": "Quels sujets principaux sont abordés dans ces négociations ?",
-     "a": "Les discussions portent sur le désarmement, le mécanisme de gouvernance de la bande de Gaza et la poursuite du fonctionnement des structures civiles."
+     "q": "Que se prépare-t-il pour la nuit ?",
+     "a": "Les États-Unis ont informé Israël qu'ils comptaient mener de nouvelles frappes en Iran cette nuit ; Israël se prépare à un possible élargissement ordonné par Trump."
     },
     {
-     "q": "Qui assure la médiation des pourparlers ?",
-     "a": "Les négociations sont menées sous la médiation de l'Égypte et d'émissaires internationaux."
+     "q": "Quelle est l'humeur à Washington ?",
+     "a": "Selon NBC, Donald Trump aurait élevé la voix contre ses conseillers, leur reprochant l'absence de progrès dans la guerre contre l'Iran."
     },
     {
-     "q": "Un accord définitif a-t-il été conclu ?",
-     "a": "Non, aucun accord définitif n'a encore été officiellement annoncé à ce stade."
+     "q": "L'Iran compte-t-il riposter ?",
+     "a": "L'armée iranienne affirme que ses ripostes aux frappes américaines se poursuivront tout au long de la journée."
+    }
+   ]
+  },
+  {
+   "score": 8,
+   "topic": "Israël · Espionnage",
+   "fait": "Un chauffeur d'ambulance israélien, Amir Titi (34 ans), est inculpé à Haïfa pour avoir espionné des hôpitaux au profit du renseignement iranien.",
+   "questions": [
+    {
+     "q": "Qu'a-t-il transmis à l'Iran ?",
+     "a": "Il aurait exploité son accès aux hôpitaux pour photographier les dispositifs de sécurité, en temps normal comme en urgence, et aurait photographié une haute personnalité en visite."
+    },
+    {
+     "q": "Quelles autres missions lui étaient confiées ?",
+     "a": "Photographier la place des Otages à Tel-Aviv avec une pancarte, filmer une manifestation à Haïfa, et faire des repérages près du domicile d'un responsable sécuritaire dans le Sharon."
+    },
+    {
+     "q": "Comment était-il payé ?",
+     "a": "Il aurait reçu plusieurs dizaines de milliers de shekels, versés via des comptes bancaires de membres de sa famille et un portefeuille numérique."
+    }
+   ]
+  },
+  {
+   "score": 8,
+   "topic": "Israël · Hamas · Gaza",
+   "fait": "Des progrès significatifs sont annoncés dans les négociations Israël-Hamas sous médiation égyptienne ; un accord pourrait être annoncé dans la journée.",
+   "questions": [
+    {
+     "q": "Sur quels points portent les avancées ?",
+     "a": "Selon des sources proches du Hamas : le désarmement, le mécanisme de gouvernance de Gaza et la poursuite du fonctionnement des structures civiles."
+    },
+    {
+     "q": "Un accord est-il conclu ?",
+     "a": "Non : à ce stade aucun accord définitif n'a été officiellement annoncé, même si des responsables israéliens confirment des progrès."
+    },
+    {
+     "q": "Qui assure la médiation ?",
+     "a": "L'Égypte et des émissaires internationaux mènent la médiation entre Israël et le Hamas."
     }
    ]
   },
   {
    "score": 7,
-   "topic": "Israël · Espionnage",
-   "fait": "Un citoyen israélien travaillant comme chauffeur d'ambulance a été inculpé pour avoir accompli des missions d'espionnage au profit du renseignement iranien.",
+   "topic": "Gaza · Tsahal",
+   "fait": "Tsahal a éliminé Ahmed Louh, chef de la cellule de tireurs d'élite du bataillon de Nuseirat du Hamas, et un participant à l'infiltration du 7 octobre.",
    "questions": [
     {
-     "q": "Quel rôle professionnel occupait le suspect arrêté ?",
-     "a": "Le suspect travaillait comme chauffeur d'ambulance et résidait à Bi'ina, en Galilée."
+     "q": "Qui était Ahmed Louh ?",
+     "a": "Le dernier chef encore actif de la cellule de tireurs d'élite du bataillon de Nuseirat du Hamas, éliminé lors d'une frappe plus tôt dans la semaine."
     },
     {
-     "q": "Quelles informations le suspect a-t-il transmises à l'Iran ?",
-     "a": "Il a transmis des informations et des photographies des dispositifs hospitaliers en période normale et d'urgence, et a photographié des manifestations ainsi que des personnalités publiques."
+     "q": "Qui est l'autre terroriste éliminé ?",
+     "a": "Mahmoud Taroush, commandant de section de la branche armée du Hamas, qui avait participé à l'infiltration en Israël lors du massacre du 7 octobre."
     },
     {
-     "q": "Quelle compensation financière le suspect a-t-il reçue ?",
-     "a": "Il a reçu plusieurs dizaines de milliers de shekels transférés sur des comptes familiaux et via un portefeuille numérique."
+     "q": "Où ces frappes ont-elles eu lieu ?",
+     "a": "Dans le sud de la bande de Gaza pour Louh, et dans le nord de la bande de Gaza pour Taroush."
     }
    ]
   },
   {
-   "score": 6,
+   "score": 7,
    "topic": "Tsahal · Discipline",
-   "fait": "Des dizaines de soldats de la brigade Guivati ont abandonné sans autorisation la base de Sde Teiman après une dispute avec leur commandant.",
+   "fait": "Des dizaines de soldats de la brigade Guivati ont quitté sans autorisation la base de Sde Teiman après que leur commandant a brisé des symboles de leur unité.",
    "questions": [
     {
-     "q": "Pourquoi les soldats ont-ils quitté leur base ?",
-     "a": "Ils ont quitté la base après que le commandant du bataillon a détruit des plaques et symboles traditionnels conservés par la compagnie dans un conteneur."
+     "q": "Qu'a fait le commandant du bataillon ?",
+     "a": "Il a brisé devant les soldats les « pogim », des plaques métalliques portant les devises et symboles de cohésion des sections et compagnies du bataillon."
     },
     {
-     "q": "Dans quelle base militaire cet incident a-t-il eu lieu ?",
-     "a": "L'incident s'est déroulé à la base de Sde Teiman."
+     "q": "Comment Tsahal réagit-il ?",
+     "a": "Tsahal parle d'un comportement non conforme à ses valeurs, précise que le commandant retirait des panneaux liés à des pratiques hors règlement, et enquête via la chaîne de commandement."
     },
     {
-     "q": "Quelle a été la réaction de l'armée israélienne ?",
-     "a": "Tsahal a indiqué que ce comportement n'est pas conforme aux valeurs de l'armée et qu'une enquête de la chaîne de commandement est en cours."
+     "q": "Que disent les soldats concernés ?",
+     "a": "Ils affirment revenir de longs mois de combats à Gaza et au Liban, jugent la destruction de ces symboles injustifiée, et déclarent ne plus vouloir se taire."
     }
    ]
   },
   {
    "score": 6,
-   "topic": "Bande de Gaza · Tsahal",
-   "fait": "L'armée israélienne a éliminé deux responsables du Hamas et détruit quatre dépôts d'armes lors d'opérations dans la bande de Gaza.",
+   "topic": "Liban · Tsahal",
+   "fait": "Des avions israéliens ont survolé Beyrouth ; le Commandement Nord annonce une très forte explosion au Liban dans la nuit et alerte les habitants de Metoula.",
    "questions": [
     {
-     "q": "Quels membres du Hamas ont été éliminés ?",
-     "a": "Tsahal a éliminé Ahmed Hisham Mahmoud Louh, chef des tireurs d'élite du bataillon de Nuseirat, ainsi que Mahmoud Ali Mahmoud Taroush, commandant de section impliqué dans l'infiltration du 7 octobre."
+     "q": "Quelle consigne pour les habitants de Metoula ?",
+     "a": "Le Commandement Nord les invite à ouvrir leurs fenêtres afin d'éviter qu'elles ne se brisent sous l'effet de l'onde de choc de l'explosion prévue."
     },
     {
-     "q": "Que contenaient les dépôts d'armes détruits par Tsahal ?",
-     "a": "Les dépôts abritaient des fusils Kalachnikov, des engins explosifs, des lanceurs de missiles antichars et des munitions."
+     "q": "Que s'est-il passé dans le ciel de Beyrouth ?",
+     "a": "On rapporte que des avions de combat israéliens sont entrés dans l'espace aérien de Beyrouth."
     },
     {
-     "q": "Quelle accusation Tsahal porte-t-elle contre le Hamas ?",
-     "a": "L'armée israélienne accuse le Hamas de violer le cessez-le-feu en tentant de reconstituer ses capacités militaires."
+     "q": "Quelle est la cause de l'explosion annoncée ?",
+     "a": "Le Commandement Nord l'attribue aux opérations de ses forces, sans autre précision dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Gaza · Armes",
+   "fait": "Dans la nuit, Tsahal et le Shin Bet ont détruit quatre dépôts d'armes du Hamas dans la bande de Gaza.",
+   "questions": [
+    {
+     "q": "Que contenaient ces dépôts ?",
+     "a": "Des fusils Kalachnikov, des engins explosifs, des lanceurs de missiles antichars, des munitions et d'autres équipements militaires."
+    },
+    {
+     "q": "À quoi ces armes étaient-elles destinées ?",
+     "a": "Selon Tsahal, à des attaques du Hamas contre les forces israéliennes de la « ligne jaune » et contre des civils israéliens."
+    },
+    {
+     "q": "Que dit Tsahal sur le cessez-le-feu ?",
+     "a": "Tsahal affirme que le Hamas continue de violer systématiquement l'accord de cessez-le-feu en tentant de reconstituer ses capacités militaires."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Judée-Samarie · Attentat",
+   "fait": "Près de Beita, un terroriste a foncé en voiture sur une force de Tsahal ; les soldats l'ont neutralisé, sans faire de blessé israélien.",
+   "questions": [
+    {
+     "q": "Comment l'attaque a-t-elle été stoppée ?",
+     "a": "Les soldats ont appliqué la procédure d'interpellation, incluant des tirs vers le terroriste qui n'obtempérait pas, et l'ont neutralisé."
+    },
+    {
+     "q": "Y a-t-il eu des blessés israéliens ?",
+     "a": "Non, aucun soldat n'a été blessé lors de l'incident."
+    },
+    {
+     "q": "Où cela s'est-il produit ?",
+     "a": "Dans le secteur du village de Beita, dans la zone de la brigade de Samarie, près d'Itamar."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Judée-Samarie · Sécurité",
+   "fait": "Les forces de sécurité ont achevé une vaste opération à Beit Ummar, perquisitionnant plus de 170 sites et arrêtant plusieurs suspects recherchés.",
+   "questions": [
+    {
+     "q": "Pourquoi cette opération ?",
+     "a": "Des individus recherchés avaient ouvert le feu depuis Beit Ummar dans le cadre d'un conflit entre familles ; les forces craignaient que ces tirs ne visent des localités israéliennes."
+    },
+    {
+     "q": "Quel bilan de l'opération ?",
+     "a": "Plus de 170 sites inspectés, plusieurs suspects recherchés arrêtés, et diverses armes et équipements militaires saisis."
+    },
+    {
+     "q": "Qui a mené l'opération ?",
+     "a": "Les forces de la brigade Etzion, guidées par le Shin Bet, avec la Police des frontières (Magav)."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Iran · Menaces",
+   "fait": "Les Gardiens de la révolution menacent de frapper prochainement le Koweït, Bahreïn et la Jordanie, et promettent de poursuivre leurs ripostes.",
+   "questions": [
+    {
+     "q": "Quels pays sont visés par la menace ?",
+     "a": "Les Gardiens de la révolution citent le Koweït, Bahreïn et la Jordanie."
+    },
+    {
+     "q": "Que dit l'armée iranienne sur ses ripostes ?",
+     "a": "Elle affirme que ses ripostes aux « crimes » américains se poursuivront tout au long de la journée."
+    },
+    {
+     "q": "Ces attaques ont-elles eu lieu ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour : il s'agit de menaces annoncées, sans exécution rapportée."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Israël · Syrie",
+   "fait": "Deux citoyens israéliens ont franchi la frontière vers la Syrie depuis le mont Hermon ; une force de Tsahal les a localisés et ramenés en Israël.",
+   "questions": [
+    {
+     "q": "Qu'est-il arrivé aux deux individus ?",
+     "a": "Ils ont été localisés par une force de Tsahal, ramenés en Israël, interpellés puis remis à la police pour la suite de la procédure."
+    },
+    {
+     "q": "Comment Tsahal qualifie-t-il l'incident ?",
+     "a": "Tsahal le condamne fermement, estimant qu'il perturbe gravement les opérations militaires et met en danger la sécurité des soldats du secteur."
+    },
+    {
+     "q": "Où cela s'est-il produit ?",
+     "a": "Dans le secteur du mont Hermon, à la frontière avec la Syrie."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Israël · Médias",
+   "fait": "Un habitant de Ramat Gan a été arrêté pour avoir dégradé les portes des locaux de Channel 12 News et laissé une lettre de menaces visant des journalistes.",
+   "questions": [
+    {
+     "q": "Que reproche-t-on au suspect ?",
+     "a": "Avoir endommagé les portes des bureaux de Channel 12 (jets de pierres) et laissé une lettre de menaces visant apparemment des personnalités publiques et des journalistes."
+    },
+    {
+     "q": "Quand les faits ont-ils été constatés ?",
+     "a": "Le 28 juillet, lors d'une patrouille de routine, des policiers ont constaté la dégradation de la porte d'entrée boulevard Haskala à Tel-Aviv."
+    },
+    {
+     "q": "Qui est le suspect ?",
+     "a": "Un habitant de Ramat Gan âgé d'une quarantaine d'années, placé en garde à vue pour interrogatoire."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Défense · Israël",
+   "fait": "Le ministre de la Défense Israël Katz a tenu une évaluation de la situation sécuritaire avec le chef d'état-major et les chefs du renseignement.",
+   "questions": [
+    {
+     "q": "Qui participait à la réunion ?",
+     "a": "Le chef d'état-major Eyal Zamir, les chefs des Opérations et du renseignement militaire, le COGAT, ainsi que des représentants du Shin Bet et du Mossad."
+    },
+    {
+     "q": "Qu'a ordonné le ministre ?",
+     "a": "Katz a souligné la détermination d'Israël à protéger ses citoyens et a ordonné de maintenir le niveau élevé de préparation de Tsahal."
+    },
+    {
+     "q": "Sur quoi a porté l'évaluation ?",
+     "a": "Sur l'évaluation du renseignement, la situation opérationnelle, la préparation de Tsahal et les plans pour différents scénarios sur les zones de confrontation."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Tsahal · Réseaux sociaux",
+   "fait": "Le porte-parole de Tsahal a ordonné la fermeture temporaire de dizaines de comptes d'unités militaires sur les réseaux sociaux, jusqu'à la fin des élections.",
+   "questions": [
+    {
+     "q": "Quels comptes sont concernés ?",
+     "a": "Des dizaines de comptes gérés par les unités, à partir du niveau de la division (Ougda) et en dessous — la quasi-totalité des divisions et brigades."
+    },
+    {
+     "q": "Pourquoi cette décision ?",
+     "a": "Le porte-parole invoque la période électorale et la nécessité de préserver le caractère institutionnel et l'unité du message de Tsahal."
+    },
+    {
+     "q": "Quand la mesure s'applique-t-elle ?",
+     "a": "La directive entre en vigueur immédiatement, au moins jusqu'à la fin des élections."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Israël · Défense antiaérienne",
+   "fait": "Rafael a réussi en Israël un essai amélioré du système de défense aérienne SPYDER, avec des interceptions directes de menaces à faible signature radar.",
+   "questions": [
+    {
+     "q": "Qu'a démontré l'essai ?",
+     "a": "Une interception directe (« Hit-to-Kill ») détruisant avec précision plusieurs types de menaces, dont des drones à faible signature radar, dans des scénarios complexes."
+    },
+    {
+     "q": "Sur quoi repose le système SPYDER ?",
+     "a": "Sur les missiles Python et Derby ; il a récemment été sélectionné par la Roumanie et équipe plusieurs pays de l'UE et de l'OTAN."
+    },
+    {
+     "q": "D'où viennent les améliorations testées ?",
+     "a": "De mises à jour logicielles et de nouvelles capacités issues des enseignements de la guerre en Israël."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Chine · Yémen",
+   "fait": "La Chine a demandé aux Houthis de cesser le blocus de Bab-el-Mandeb, prévenant qu'elle ne « paierait pas le prix » de ce blocus comme à Ormuz.",
+   "questions": [
+    {
+     "q": "Que reproche la Chine aux Houthis ?",
+     "a": "De bloquer une voie commerciale mondiale ; Pékin juge que bloquer ces routes n'est pas une solution aux conflits."
+    },
+    {
+     "q": "Quelle comparaison la Chine fait-elle ?",
+     "a": "Elle évoque le détroit d'Ormuz, affirmant qu'elle ne paiera pas le prix du blocus de Bab-el-Mandeb comme cela s'est produit à Hormuz."
+    },
+    {
+     "q": "Quelle voie est concernée ?",
+     "a": "Le détroit de Bab-el-Mandeb, au large du Yémen, une route stratégique du commerce maritime mondial."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Hamas · Turquie",
+   "fait": "Le Hamas a diffusé des images d'une rencontre entre Khalil al-Hayya, son nouveau chef du bureau politique en Turquie, et le ministre turc des Affaires étrangères.",
+   "questions": [
+    {
+     "q": "Quel est le nouveau rôle de Khalil al-Hayya ?",
+     "a": "Il est présenté comme le chef du bureau politique du Hamas en Turquie."
+    },
+    {
+     "q": "Qui a-t-il rencontré ?",
+     "a": "Le ministre turc des Affaires étrangères, d'après les images diffusées par le Hamas."
+    },
+    {
+     "q": "Où a eu lieu la rencontre ?",
+     "a": "En Turquie, selon la communication du Hamas ; les messages du jour ne donnent pas d'autre détail."
+    }
+   ]
+  },
+  {
+   "score": 4,
+   "topic": "Israël · États-Unis",
+   "fait": "Netanyahou a démenti l'affirmation de J.D. Vance selon laquelle Israël chercherait à influencer l'opinion américaine pour poursuivre la guerre contre l'Iran.",
+   "questions": [
+    {
+     "q": "Qu'a répondu Netanyahou ?",
+     "a": "Il a qualifié l'affirmation de « tout simplement faux », affirmant avoir parlé avec le vice-président le matin même et « clarifié la situation »."
+    },
+    {
+     "q": "Que disait J.D. Vance ?",
+     "a": "Selon les messages, Vance affirmait qu'Israël cherchait à influencer l'opinion publique américaine afin de poursuivre la guerre contre l'Iran."
+    },
+    {
+     "q": "Qui fixe la politique israélienne selon Netanyahou ?",
+     "a": "Netanyahou affirme que la politique du gouvernement est définie par lui, même si des membres du système peuvent avoir leurs propres opinions."
     }
    ]
   }

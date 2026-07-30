@@ -81,17 +81,20 @@
   .filter-reset:hover { border-color: var(--accent); color: var(--accent); }
 
   /* Barème d'importance */
-  .info-panel { margin-top: 10px; max-width: 440px; background: var(--surface);
+  .info-panel { margin-top: 10px; max-width: 640px; background: var(--surface);
     border: 1px solid var(--line); border-radius: 14px; padding: 16px; }
   .info-panel[hidden] { display: none; }
   .info-title { font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase;
-    color: var(--ink-faint); font-weight: 700; margin-bottom: 10px; }
-  table.bareme { border-collapse: collapse; width: 100%; }
-  table.bareme td { padding: 8px 6px; border-top: 1px solid var(--line); font-size: 0.92rem;
-    color: var(--ink-soft); vertical-align: top; }
-  table.bareme tr:first-child td { border-top: none; }
-  table.bareme td.lvl { white-space: nowrap; font-variant-numeric: tabular-nums;
-    font-weight: 700; color: var(--accent); width: 3.4em; }
+    color: var(--ink-faint); font-weight: 700; margin-bottom: 12px; }
+  .bareme-scroll { overflow-x: auto; }
+  table.bareme { border-collapse: collapse; width: 100%; font-size: 0.9rem; }
+  table.bareme th { text-align: left; padding: 6px 10px 9px; border-bottom: 2px solid var(--line);
+    font-size: 11px; letter-spacing: 0.05em; text-transform: uppercase; color: var(--ink-faint);
+    font-weight: 700; white-space: nowrap; }
+  table.bareme td { padding: 9px 10px; border-top: 1px solid var(--line); color: var(--ink-soft);
+    vertical-align: top; }
+  table.bareme td.note { text-align: center; font-variant-numeric: tabular-nums; font-weight: 700;
+    color: var(--accent); white-space: nowrap; }
 
   .digest-title { font-family: var(--serif); font-weight: 600;
     font-size: clamp(1.7rem, 5vw, 2.3rem); line-height: 1.12; text-wrap: balance;
@@ -224,14 +227,21 @@
       <button class="filter-reset" id="fReset" type="button">Réinitialiser les filtres</button>
     </div>
     <div class="info-panel" id="infoPanel" hidden>
-      <div class="info-title">Barème d'importance (1 à 10)</div>
-      <table class="bareme">
-        <tr><td class="lvl">9–10</td><td>Événement majeur — tout le monde en parlera demain.</td></tr>
-        <tr><td class="lvl">7–8</td><td>Important — de vraies conséquences.</td></tr>
-        <tr><td class="lvl">5–6</td><td>Intéressant, mais sans suite immédiate.</td></tr>
-        <tr><td class="lvl">3–4</td><td>Mineur.</td></tr>
-        <tr><td class="lvl">1–2</td><td>Anecdotique.</td></tr>
-      </table>
+      <div class="info-title">Comprendre la note d'importance</div>
+      <div class="bareme-scroll">
+        <table class="bareme">
+          <thead>
+            <tr><th>Dépêche réelle</th><th>Note /10</th><th>Pourquoi</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Accord USA–Iran signé, sanctions levées</td><td class="note">9</td><td>Tournant géopolitique majeur</td></tr>
+            <tr><td>Soldat israélien tombé au Sud-Liban</td><td class="note">7</td><td>Événement grave, impact humain direct</td></tr>
+            <tr><td>Frappe de drone élimine un terroriste Hezbollah</td><td class="note">6</td><td>Significatif, dans la continuité</td></tr>
+            <tr><td>Arrestation d'un voleur de voitures</td><td class="note">2</td><td>Fait divers local</td></tr>
+            <tr><td>Pub pour une montre Rolex</td><td class="note">0</td><td>Publicité → filtrée</td></tr>
+          </tbody>
+        </table>
+      </div>
     </div>
 
     <div class="meta" id="meta"></div>
@@ -240,9 +250,8 @@
     <main class="feed" id="feed"></main>
 
     <footer class="foot">
-      Prototype. Les dépêches et les réponses préparées viennent des messages réels de chaque jour
-      (source&nbsp;: @MKINFOSWORLD). La case «&nbsp;pose ta propre question&nbsp;» interroge l'IA
-      quand la page est ouverte via le serveur local.
+      Prototype. Les dépêches et les réponses préparées viennent des messages réels de chaque jour.
+      La case «&nbsp;pose ta propre question&nbsp;» interroge l'IA quand la page est ouverte via le serveur local.
     </footer>
 
   </div>
@@ -393,8 +402,7 @@
     s1.textContent = (affich === total)
       ? total + " dépêche" + (total > 1 ? "s" : "")
       : affich + " / " + total + " dépêches";
-    const s2 = document.createElement("span"); s2.textContent = "Source · @MKINFOSWORLD";
-    meta.append(s1, s2);
+    meta.append(s1);
 
     if (!depechesJour.length) {
       const v = document.createElement("div"); v.className = "vide";
@@ -438,7 +446,7 @@
         const btn = document.createElement("button");
         btn.className = "q"; btn.setAttribute("aria-expanded", "false");
         const id = "ans-" + i + "-" + j; btn.setAttribute("aria-controls", id);
-        btn.innerHTML = '<span class="qmark">?</span><span class="qtext"></span><span class="chev">▸</span>';
+        btn.innerHTML = '<span class="qtext"></span><span class="chev">▸</span>';
         btn.querySelector(".qtext").textContent = qa.q;
         const wrap = document.createElement("div"); wrap.className = "answer-wrap"; wrap.id = id;
         const inner = document.createElement("div"); inner.className = "answer-inner";
