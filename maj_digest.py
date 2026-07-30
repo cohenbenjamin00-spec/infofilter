@@ -44,11 +44,15 @@ CONSIGNE = (
     "cas de contradiction, garde le plus recent.\n"
     "- Garde le FAIT, retire tout commentaire, opinion, emoji, « URGENT », "
     "« partagez ».\n"
-    "- Note chaque evenement de 0 a 10 selon son importance ; garde les 5 mieux "
-    "notes (moins de 5 si journee calme ; jamais de remplissage).\n"
+    "- Note chaque evenement de 1 a 10 selon son importance.\n"
+    "- Liste TOUS les evenements DISTINCTS et reels du jour, jusqu'a 20 maximum, "
+    "classes par importance decroissante. REGLE ABSOLUE : chaque depeche est un "
+    "evenement DIFFERENT ; jamais deux depeches sur le meme evenement (meme "
+    "reformule) ; aucun doublon. Ne complete JAMAIS pour atteindre 20 : s'il y a "
+    "moins d'evenements distincts (journee calme), mets-en moins.\n"
     "- Pour chaque evenement : \"fait\" (UNE phrase factuelle de 25 mots maximum, "
     "comprehensible seule, chiffres/noms/lieux, sans commentaire), \"topic\" (2 a "
-    "4 mots, ex. « Iran · Etats-Unis »), \"score\" (entier 0-10), \"questions\" "
+    "4 mots, ex. « Iran · Etats-Unis »), \"score\" (entier 1-10), \"questions\" "
     "(3 ou 4 questions, chacune {\"q\":\"...\",\"a\":\"...\"}, reponse fondee "
     "UNIQUEMENT sur les messages du jour, 1 a 3 phrases ; si l'info n'y est pas : "
     "« Cette information n'apparait pas dans les messages du jour. »).\n"
@@ -136,10 +140,10 @@ def rediger_digest(cle, jour, msgs):
                 contents=f"Date : {jour}\n\nMessages du jour :\n{contexte}",
                 config=types.GenerateContentConfig(
                     system_instruction=CONSIGNE, temperature=0.3,
-                    max_output_tokens=8192, response_mime_type="application/json"),
+                    max_output_tokens=32000, response_mime_type="application/json"),
             )
             data = json.loads((r.text or "").strip())
-            dep = data.get("depeches", [])[:5]
+            dep = data.get("depeches", [])[:20]
             return [{
                 "score": int(d.get("score", 0)),
                 "topic": str(d.get("topic", "")).strip(),
