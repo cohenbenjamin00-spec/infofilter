@@ -2963,5 +2963,102 @@
     }
    ]
   }
+ ],
+ "2026-07-30": [
+  {
+   "score": 10,
+   "topic": "Iran · États-Unis",
+   "fait": "L'armée américaine a achevé une vaste série de frappes aériennes ciblées contre des dizaines d'installations des Gardiens de la révolution en Iran.",
+   "questions": [
+    {
+     "q": "Pourquoi les États-Unis ont-ils mené ces frappes en Iran ?",
+     "a": "Selon le CENTCOM, ces frappes constituent une réponse à des tentatives d'attaques aux missiles attribuées à l'Iran contre des forces américaines stationnées au Moyen-Orient."
+    },
+    {
+     "q": "Quels types d'infrastructures iraniennes ont été visés ?",
+     "a": "L'opération a ciblé des centres de commandement, des dépôts de missiles et de drones, des systèmes de défense aérienne et des infrastructures navales des Gardiens de la révolution."
+    },
+    {
+     "q": "Quel est le bilan des tirs de missiles iraniens durant la nuit ?",
+     "a": "Tous les missiles balistiques lancés par l'Iran contre des objectifs américains ont été interceptés sans causer de dégâts ni faire de victimes."
+    }
+   ]
+  },
+  {
+   "score": 8,
+   "topic": "Israël · Hamas",
+   "fait": "Des négociations sous médiation égyptienne entre Israël et le Hamas ont enregistré des avancées significatives concernant le cessez-le-feu à Gaza.",
+   "questions": [
+    {
+     "q": "Quels sujets principaux sont abordés dans ces négociations ?",
+     "a": "Les discussions portent sur le désarmement, le mécanisme de gouvernance de la bande de Gaza et la poursuite du fonctionnement des structures civiles."
+    },
+    {
+     "q": "Qui assure la médiation des pourparlers ?",
+     "a": "Les négociations sont menées sous la médiation de l'Égypte et d'émissaires internationaux."
+    },
+    {
+     "q": "Un accord définitif a-t-il été conclu ?",
+     "a": "Non, aucun accord définitif n'a encore été officiellement annoncé à ce stade."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Israël · Espionnage",
+   "fait": "Un citoyen israélien travaillant comme chauffeur d'ambulance a été inculpé pour avoir accompli des missions d'espionnage au profit du renseignement iranien.",
+   "questions": [
+    {
+     "q": "Quel rôle professionnel occupait le suspect arrêté ?",
+     "a": "Le suspect travaillait comme chauffeur d'ambulance et résidait à Bi'ina, en Galilée."
+    },
+    {
+     "q": "Quelles informations le suspect a-t-il transmises à l'Iran ?",
+     "a": "Il a transmis des informations et des photographies des dispositifs hospitaliers en période normale et d'urgence, et a photographié des manifestations ainsi que des personnalités publiques."
+    },
+    {
+     "q": "Quelle compensation financière le suspect a-t-il reçue ?",
+     "a": "Il a reçu plusieurs dizaines de milliers de shekels transférés sur des comptes familiaux et via un portefeuille numérique."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Tsahal · Discipline",
+   "fait": "Des dizaines de soldats de la brigade Guivati ont abandonné sans autorisation la base de Sde Teiman après une dispute avec leur commandant.",
+   "questions": [
+    {
+     "q": "Pourquoi les soldats ont-ils quitté leur base ?",
+     "a": "Ils ont quitté la base après que le commandant du bataillon a détruit des plaques et symboles traditionnels conservés par la compagnie dans un conteneur."
+    },
+    {
+     "q": "Dans quelle base militaire cet incident a-t-il eu lieu ?",
+     "a": "L'incident s'est déroulé à la base de Sde Teiman."
+    },
+    {
+     "q": "Quelle a été la réaction de l'armée israélienne ?",
+     "a": "Tsahal a indiqué que ce comportement n'est pas conforme aux valeurs de l'armée et qu'une enquête de la chaîne de commandement est en cours."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Bande de Gaza · Tsahal",
+   "fait": "L'armée israélienne a éliminé deux responsables du Hamas et détruit quatre dépôts d'armes lors d'opérations dans la bande de Gaza.",
+   "questions": [
+    {
+     "q": "Quels membres du Hamas ont été éliminés ?",
+     "a": "Tsahal a éliminé Ahmed Hisham Mahmoud Louh, chef des tireurs d'élite du bataillon de Nuseirat, ainsi que Mahmoud Ali Mahmoud Taroush, commandant de section impliqué dans l'infiltration du 7 octobre."
+    },
+    {
+     "q": "Que contenaient les dépôts d'armes détruits par Tsahal ?",
+     "a": "Les dépôts abritaient des fusils Kalachnikov, des engins explosifs, des lanceurs de missiles antichars et des munitions."
+    },
+    {
+     "q": "Quelle accusation Tsahal porte-t-elle contre le Hamas ?",
+     "a": "L'armée israélienne accuse le Hamas de violer le cessez-le-feu en tentant de reconstituer ses capacités militaires."
+    }
+   ]
+  }
  ]
 }
