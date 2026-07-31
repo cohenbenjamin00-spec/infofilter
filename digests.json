@@ -10812,5 +10812,292 @@
     }
    ]
   }
+ ],
+ "2026-07-31": [
+  {
+   "score": 9,
+   "topic": "Iran · Escalade",
+   "fait": "L'Iran se déclare non lié par le mémorandum d'entente avec les États-Unis, autorisant ses forces à agir contre tout pays de la région.",
+   "questions": [
+    {
+     "q": "Quelle est la position officielle transmise par les Gardiens de la révolution ?",
+     "a": "La porte-parole des Gardiens de la révolution a déclaré que Téhéran n'est plus tenu par le mémorandum d'entente conclu avec les États-Unis et peut agir librement au Moyen-Orient."
+    },
+    {
+     "q": "Qui a donné ces directives au niveau iranien ?",
+     "a": "Les forces armées iraniennes sont autorisées à agir conformément aux directives du Guide suprême, Mojtaba Khamenei."
+    },
+    {
+     "q": "Quelle menace directe a été formulée envers un pays voisin ?",
+     "a": "L'armée iranienne a menacé le Koweït pour avoir autorisé les États-Unis à mener des frappes depuis son territoire contre l'Iran."
+    }
+   ]
+  },
+  {
+   "score": 8,
+   "topic": "Iran · Israël",
+   "fait": "Israël se prépare à une escalade immédiate avec l'Iran alors que des avions-ravitailleurs américains supplémentaires arrivent sur place.",
+   "questions": [
+    {
+     "q": "Pourquoi de nouveaux avions-ravitailleurs américains arrivent-ils en Israël ?",
+     "a": "Ils sont déployés en raison de l'escalade sécuritaire et de la préparation à des frappes intensifiées, malgré les craintes de perturbations à l'aéroport Ben Gourion."
+    },
+    {
+     "q": "Quelles discussions l'appareil sécuritaire israélien mène-t-il avec Washington ?",
+     "a": "Israël discute avec l'administration américaine de la planification d'une campagne militaire prolongée et de la répartition des objectifs à frapper en Iran."
+    },
+    {
+     "q": "Quelle annonce Donald Trump a-t-il faite concernant l'Iran ?",
+     "a": "Le président Donald Trump a déclaré que les États-Unis continueront à porter des coups sévères à l'Iran."
+    }
+   ]
+  },
+  {
+   "score": 8,
+   "topic": "Iran · Missiles",
+   "fait": "L'Iran a tiré une salve de cinq à six missiles balistiques en direction d'un pays du Golfe.",
+   "questions": [
+    {
+     "q": "Combien de missiles ont été lancés lors de cette salve ?",
+     "a": "Selon les premières informations, il s'agirait d'une salve de 5 à 6 missiles balistiques."
+    },
+    {
+     "q": "Quelle était la cible visée par ces tirs ?",
+     "a": "Les missiles seraient dirigés vers l'un des pays du Golfe."
+    },
+    {
+     "q": "Y a-t-il eu des victimes signalées ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 8,
+   "topic": "Gaza · Désarmement",
+   "fait": "Le Hamas refuse tout désarmement avant un retrait complet des forces israéliennes de la bande de Gaza.",
+   "questions": [
+    {
+     "q": "Qui est l'organisme palestinien désigné par le Hamas pour gérer le désarmement ?",
+     "a": "Le Hamas affirme qu'un comité national palestinien sera responsable du processus de désarmement, à l'exclusion d'Israël."
+    },
+    {
+     "q": "Quelle ingérence iranienne les États-Unis affirment-ils avoir déjouée ?",
+     "a": "Selon un responsable américain, les États-Unis ont contrecarré une tentative de l'Iran de faire pression sur le Hamas pour retarder l'accord de désarmement."
+    },
+    {
+     "q": "Quelle condition préalable pose Ghazi Hamad pour aborder la reconstruction ?",
+     "a": "Ghazi Hamad lie la reconstruction et le désarmement au retrait préalable des forces israéliennes de la bande de Gaza."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Gaza · Élimination",
+   "fait": "Tsahal et le Shin Bet ont éliminé Abd al-Rahim Kardi, cadre du Hamas impliqué dans la détention d'otages israéliennes.",
+   "questions": [
+    {
+     "q": "Quelle était la profession d'Abd al-Rahim Kardi en dehors de ses fonctions militaires ?",
+     "a": "Il exerçait également comme médecin à l'hôpital Al-Shifa."
+    },
+    {
+     "q": "Quel rôle a joué Kardi après le 7 octobre ?",
+     "a": "Il a participé à l'infiltration en Israël et à la détention des otages Romi Gonen et Noa Marciano."
+    },
+    {
+     "q": "Où s'est déroulée la frappe qui l'a visé ?",
+     "a": "La frappe aérienne a été menée dans le secteur de la ville de Gaza."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Gaza · Élimination",
+   "fait": "Tsahal a éliminé Ahmed Hussein Mohammed Kafina, commandant de Kataeb al-Mujahideen impliqué dans le massacre du 7 octobre et des enlèvements.",
+   "questions": [
+    {
+     "q": "Quels otages sont mentionnés comme ayant été enlevés avec l'implication de Kafina ?",
+     "a": "Kafina a participé à l'enlèvement d'Avinatan Or et de Noa Argamani, et a coordonné l'enlèvement de Sudthisak Rinthalak."
+    },
+    {
+     "q": "Dans quelle partie de la bande de Gaza la frappe a-t-elle eu lieu ?",
+     "a": "La frappe aérienne de précision a été menée dans le sud de la bande de Gaza."
+    },
+    {
+     "q": "Quelle fonction occupait Kafina au sein de son organisation ?",
+     "a": "Il était commandant du secteur des camps du centre de l'organisation terroriste Kataeb al-Mujahideen."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Liban · Beaufort",
+   "fait": "L'armée israélienne a détruit les principaux axes du réseau de tunnels dans la région du château de Beaufort au Liban.",
+   "questions": [
+    {
+     "q": "Quel endroit précis a subi d'importantes destructions durant la nuit ?",
+     "a": "La région du Château de Beaufort dans le sud du Liban a subi une puissante explosion provoquant des destructions."
+    },
+    {
+     "q": "Quel était l'objectif militaire de cette explosion provoquée par Tsahal ?",
+     "a": "L'objectif était la destruction des principaux axes du réseau de tunnels dans la région."
+    },
+    {
+     "q": "Y a-t-il eu d'autres frappes signalées au Liban durant la journée ?",
+     "a": "Oui, l'armée de l'air israélienne a également frappé une cible du Hezbollah à Al-Mansouri."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "États-Unis · Israël",
+   "fait": "J.D. Vance et Benjamin Netanyahou se sont entretenus en privé à Washington au sujet des tensions militaires et de la stratégie iranienne.",
+   "questions": [
+    {
+     "q": "Quel jour cette rencontre s'est-elle déroulée ?",
+     "a": "La rencontre privée s'est tenue mardi à Washington."
+    },
+    {
+     "q": "Comment les responsables ont-ils qualifié l'atmosphère de cet entretien ?",
+     "a": "La rencontre a été décrite comme franche, directe et au final cordiale."
+    },
+    {
+     "q": "Quels sujets ont été abordés ?",
+     "a": "Ils ont évoqué plusieurs mois de tensions concernant la stratégie de guerre d'Israël et la politique américaine à l'égard de l'Iran."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Judée-Samarie · Bilan",
+   "fait": "Tsahal a arrêté plus de 200 personnes recherchées et saisi du matériel militaire lors d'opérations menées en Judée-Samarie cette semaine.",
+   "questions": [
+    {
+     "q": "Quel matériel terroriste a été saisi par les forces israéliennes ?",
+     "a": "Des armes airsoft, des fusils de chasse, un pistolet, un drone, des engins explosifs et des dizaines de milliers de shekels ont été saisis."
+    },
+    {
+     "q": "Quelles actions ont été entreprises concernant les habitations des terroristes ?",
+     "a": "Le relevé des habitations de deux terroristes a été achevé et l'une des maisons a été scellée en vue de sa démolition."
+    },
+    {
+     "q": "Combien d'engins explosifs ont été détruits au cours de la semaine ?",
+     "a": "Cinq engins explosifs ont été localisés et détruits."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Israël · Politique",
+   "fait": "Itamar Ben Gvir a rejeté le projet d'accord du Conseil de la paix qui prévoyait la fin des éliminations ciblées du Hamas.",
+   "questions": [
+    {
+     "q": "Pour quelle raison Ben Gvir s'oppose-t-il à la fin des éliminations ciblées ?",
+     "a": "Il estime que s'engager à mettre fin aux éliminations ciblées permettrait au Hamas de se réorganiser en vue du prochain massacre."
+    },
+    {
+     "q": "Quelles sont les trois mesures préconisées par Ben Gvir pour Gaza ?",
+     "a": "Il réclame la poursuite des éliminations ciblées, l'encouragement à l'émigration et la victoire d'Israël."
+    },
+    {
+     "q": "Quelle est la réaction du Premier ministre israélien à ce projet ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Gaza · Éliminations",
+   "fait": "Tsahal a éliminé Mohammed Al-Abed et Ahmed Ankar, deux responsables du Hamas impliqués dans le trafic d'armes et la préparation d'attaques.",
+   "questions": [
+    {
+     "q": "Quel était le rôle exact de Mohammed Al-Abed au sein du Hamas ?",
+     "a": "Il était responsable de l'approvisionnement, du trafic d'armes, de la contrebande et du creusement de tunnels."
+    },
+    {
+     "q": "Quand ces frappes ont-elles été effectuées ?",
+     "a": "Les frappes ont été menées par Tsahal mercredi."
+    },
+    {
+     "q": "Quels étaient les préparatifs récents imputés à ces deux terroristes ?",
+     "a": "Ils participaient ces dernières semaines à la préparation d'attaques contre les forces de Tsahal et les civils israéliens."
+    }
+   ]
+  },
+  {
+   "score": 4,
+   "topic": "Espagne · Crise migratoire",
+   "fait": "Donald Trump et des responsables israéliens ont vivement critiqué la gestion de l'afflux migratoire par l'Espagne dans son enclave de Ceuta.",
+   "questions": [
+    {
+     "q": "Qu'a déclaré Danny Danon à l'encontre du gouvernement espagnol ?",
+     "a": "Il a invité l'Espagne à expliquer pourquoi elle continue de détenir des territoires coloniaux en Afrique avant de faire la leçon à Israël."
+    },
+    {
+     "q": "Quelle proposition sarcastique Ben Gvir a-t-il adressée au Premier ministre espagnol ?",
+     "a": "Il l'a incité à ouvrir les portes de l'Espagne pour offrir un refuge aux habitants de Gaza qui souhaitent immigrer."
+    },
+    {
+     "q": "Quel avertissement Donald Trump a-t-il lancé sur Fox News ?",
+     "a": "Il a averti que la situation migratoire de Ceuta pourrait se produire en Amérique si le mauvais camp prend le pouvoir."
+    }
+   ]
+  },
+  {
+   "score": 4,
+   "topic": "Judée-Samarie · Naplouse",
+   "fait": "Des soldats de Tsahal ont tiré sur l'instigateur de jets de pierres après l'entrée de civils israéliens aux abords de Naplouse.",
+   "questions": [
+    {
+     "q": "Qu'ont fait les civils israéliens entrés dans la zone ?",
+     "a": "Un civil a tiré en l'air après des jets de pierres palestiniens, et un signalement fait état de dégradations dans un cimetière par des Israéliens."
+    },
+    {
+     "q": "Quelle règle Tsahal rappelle-t-il concernant les zones A ?",
+     "a": "Tsahal rappelle que l'entrée dans les zones A est interdite aux citoyens israéliens, extrêmement dangereuse et constitue une infraction."
+    },
+    {
+     "q": "Y a-t-il eu des blessés lors du tir du civil israélien ?",
+     "a": "Le tir en l'air du civil israélien n'a fait aucun blessé."
+    }
+   ]
+  },
+  {
+   "score": 3,
+   "topic": "Judée-Samarie · Metzad",
+   "fait": "Le coordinateur de la sécurité de Metzad a tiré aux jambes sur un Palestinien qui tentait de lui arracher son arme.",
+   "questions": [
+    {
+     "q": "Quel évènement a précédé l'intervention du coordinateur de sécurité ?",
+     "a": "Un affrontement s'est produit entre un civil israélien et des Palestiniens jetant des pierres près de Metzad."
+    },
+    {
+     "q": "Qu'est-il advenu du suspect après avoir été maîtrisé ?",
+     "a": "Il a été arrêté par une force de Tsahal et remis aux services de sécurité pour enquête."
+    },
+    {
+     "q": "Quel est l'état de santé du coordinateur de sécurité ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 3,
+   "topic": "Gaza · Rafah",
+   "fait": "Un Palestinien suspect a été légèrement blessé par balle par l'armée israélienne près de la place Al-Aalam à Rafah.",
+   "questions": [
+    {
+     "q": "Dans quelle partie de Gaza cet incident à Rafah a-t-il eu lieu ?",
+     "a": "L'incident est survenu à l'ouest de la ville de Rafah, près de la Place Al-Aalam."
+    },
+    {
+     "q": "Quelle est la gravité des blessures du suspect ?",
+     "a": "Son état est qualifié de très léger."
+    },
+    {
+     "q": "Pourquoi ce Palestinien a-t-il été ciblé ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  }
  ]
 }
