@@ -51,7 +51,13 @@
   .cal-panel { margin-top: 10px; max-width: 340px; background: var(--surface);
     border: 1px solid var(--line); border-radius: 14px; padding: 16px; }
   .cal-panel[hidden] { display: none; }
-  .cal-month { font-family: var(--serif); font-size: 1.05rem; font-weight: 600; margin-bottom: 10px; }
+  .cal-head { display: flex; align-items: center; justify-content: space-between; gap: 8px; margin-bottom: 10px; }
+  .cal-month { font-family: var(--serif); font-size: 1.05rem; font-weight: 600; text-align: center; flex: 1; }
+  .cal-nav { flex: none; width: 30px; height: 30px; background: none; border: 1px solid var(--line);
+    border-radius: 8px; font-size: 1.15rem; line-height: 1; color: var(--ink-soft); cursor: pointer; font-family: var(--sans); }
+  .cal-nav:hover:not(:disabled) { border-color: var(--accent); color: var(--accent); }
+  .cal-nav:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .cal-nav:disabled { opacity: .35; cursor: default; }
   .cal-grid { display: grid; grid-template-columns: repeat(7, 1fr); gap: 4px; }
   .cal-dow { font-size: 10px; letter-spacing: 0.06em; text-transform: uppercase;
     color: var(--ink-faint); text-align: center; font-weight: 700; padding-bottom: 6px; }
@@ -192,7 +198,11 @@
       </button>
     </div>
     <div class="cal-panel" id="calPanel" hidden>
-      <div class="cal-month">Juillet 2026</div>
+      <div class="cal-head">
+        <button class="cal-nav" id="calPrev" type="button" aria-label="Mois précédent">‹</button>
+        <div class="cal-month" id="calMonth">—</div>
+        <button class="cal-nav" id="calNext" type="button" aria-label="Mois suivant">›</button>
+      </div>
       <div class="cal-grid" id="cal"></div>
     </div>
     <div class="filter-panel" id="filterPanel" hidden>
@@ -266,7 +276,7 @@
   const DIGESTS = window.DIGESTS || {};
   const JOURS = ["dimanche","lundi","mardi","mercredi","jeudi","vendredi","samedi"];
   const DOW = ["L","M","M","J","V","S","D"];
-  const ANNEE = 2026, MOIS0 = 6; // juillet = mois 6 (0=janvier)
+  const MOIS_NOMS = ["janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre"];
 
   const cal = document.getElementById("cal");
   const feed = document.getElementById("feed");
@@ -349,43 +359,72 @@
     fNombre.value = "5"; fScore.value = "0"; fTheme.value = ""; majSousThemes(); renderListe();
   });
 
-  function cle(jour) { return `2026-07-${String(jour).padStart(2, "0")}`; }
   function enMots(dateStr) {
     const [y, m, d] = dateStr.split("-").map(Number);
     const dt = new Date(y, m - 1, d);
-    return `${JOURS[dt.getDay()]} ${d} juillet ${y}`;
+    const jourNum = d === 1 ? "1er" : d;
+    return `${JOURS[dt.getDay()]} ${jourNum} ${MOIS_NOMS[m - 1]} ${y}`;
   }
 
-  // Construction du calendrier
-  const premierDow = (new Date(ANNEE, MOIS0, 1).getDay() + 6) % 7; // 0 = lundi
-  const nbJours = new Date(ANNEE, MOIS0 + 1, 0).getDate();
-  const boutonsJour = {};
+  // ---- Calendrier dynamique (gère tous les mois présents) ----
+  const calMonth = document.getElementById("calMonth");
+  const calPrev = document.getElementById("calPrev");
+  const calNext = document.getElementById("calNext");
 
-  DOW.forEach(l => {
-    const h = document.createElement("div"); h.className = "cal-dow"; h.textContent = l; cal.appendChild(h);
-  });
-  for (let i = 0; i < premierDow; i++) {
-    const v = document.createElement("div"); v.className = "cal-day empty"; cal.appendChild(v);
-  }
-  for (let j = 1; j <= nbJours; j++) {
-    const b = document.createElement("button");
-    b.className = "cal-day"; b.textContent = j;
-    const k = cle(j);
-    if (DIGESTS[k] && DIGESTS[k].length) {
-      b.classList.add("has");
-      b.addEventListener("click", () => choisir(k));
-      boutonsJour[k] = b;
-    } else {
-      b.disabled = true;
+  const moisData = [...new Set(Object.keys(DIGESTS)
+    .filter(k => DIGESTS[k] && DIGESTS[k].length).map(k => k.slice(0, 7)))].sort();
+  let moisIndex = Math.max(0, moisData.length - 1);
+  let jourSelectionne = null;
+  let boutonsJour = {};
+
+  function pad2(n) { return String(n).padStart(2, "0"); }
+
+  function construireCal(moisStr) {
+    const [an, mois] = moisStr.split("-").map(Number);
+    cal.innerHTML = "";
+    boutonsJour = {};
+    const nom = MOIS_NOMS[mois - 1];
+    calMonth.textContent = nom.charAt(0).toUpperCase() + nom.slice(1) + " " + an;
+    DOW.forEach(l => {
+      const h = document.createElement("div"); h.className = "cal-dow"; h.textContent = l; cal.appendChild(h);
+    });
+    const premierDow = (new Date(an, mois - 1, 1).getDay() + 6) % 7; // 0 = lundi
+    const nbJours = new Date(an, mois, 0).getDate();
+    for (let i = 0; i < premierDow; i++) {
+      const v = document.createElement("div"); v.className = "cal-day empty"; cal.appendChild(v);
     }
-    cal.appendChild(b);
+    for (let j = 1; j <= nbJours; j++) {
+      const b = document.createElement("button");
+      b.className = "cal-day"; b.textContent = j;
+      const k = `${moisStr}-${pad2(j)}`;
+      if (DIGESTS[k] && DIGESTS[k].length) {
+        b.classList.add("has");
+        if (k === jourSelectionne) b.classList.add("sel");
+        b.addEventListener("click", () => choisir(k));
+        boutonsJour[k] = b;
+      } else {
+        b.disabled = true;
+      }
+      cal.appendChild(b);
+    }
+    calPrev.disabled = moisIndex <= 0;
+    calNext.disabled = moisIndex >= moisData.length - 1;
   }
+
+  calPrev.addEventListener("click", () => {
+    if (moisIndex > 0) { moisIndex--; construireCal(moisData[moisIndex]); }
+  });
+  calNext.addEventListener("click", () => {
+    if (moisIndex < moisData.length - 1) { moisIndex++; construireCal(moisData[moisIndex]); }
+  });
 
   function choisir(dateStr) {
-    Object.values(boutonsJour).forEach(b => b.classList.remove("sel"));
-    if (boutonsJour[dateStr]) boutonsJour[dateStr].classList.add("sel");
+    jourSelectionne = dateStr;
+    const m = dateStr.slice(0, 7);
+    if (moisData.includes(m)) moisIndex = moisData.indexOf(m);
+    construireCal(m);                               // affiche le bon mois + surligne le jour
     rendre(dateStr);
-    ouvrirCal(false);                              // on referme le calendrier
+    ouvrirCal(false);                               // on referme le calendrier
     window.scrollTo({ top: 0, behavior: "smooth" }); // et on remonte aux depeches
   }
 
