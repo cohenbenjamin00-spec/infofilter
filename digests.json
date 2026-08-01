@@ -11099,5 +11099,140 @@
     }
    ]
   }
+ ],
+ "2026-08-01": [
+  {
+   "score": 10,
+   "topic": "États-Unis · Iran",
+   "fait": "Donald Trump a approuvé de nouveaux plans de frappes et les États-Unis demandent à leurs ressortissants de quitter dix pays du Moyen-Orient.",
+   "questions": [
+    {
+     "q": "Quels pays sont concernés par les alertes d'évacuation américaines ?",
+     "a": "Les ambassades américaines dans dix pays ont émis des alertes : Oman, Irak, Émirats arabes unis, Qatar, Israël, Jordanie, Égypte, Arabie saoudite, Bahreïn et Koweït."
+    },
+    {
+     "q": "Quelle est la position des forces armées iraniennes face à ces menaces ?",
+     "a": "Le porte-parole des Gardiens de la révolution a annoncé que les forces armées iraniennes passent au niveau d'alerte maximal et activent les protocoles de situation de guerre."
+    },
+    {
+     "q": "Où se trouvait Trump lorsqu'il a approuvé ces plans de frappes ?",
+     "a": "Le président Donald Trump a approuvé les plans de frappes depuis son club de golf situé dans le New Jersey."
+    }
+   ]
+  },
+  {
+   "score": 8,
+   "topic": "Russie · Iran · États-Unis",
+   "fait": "La Russie fournit à l'Iran des renseignements électroniques par satellite pour l'aider à suivre et contrer les forces militaires américaines.",
+   "questions": [
+    {
+     "q": "Quels types de renseignements la Russie fournit-elle à l'Iran ?",
+     "a": "La Russie fournit des informations issues de satellites de surveillance et de l'écoute des signaux (SIGINT)."
+    },
+    {
+     "q": "Quel est l'objectif de cette assistance militaire russe pour Téhéran ?",
+     "a": "Elle permet à l'Iran d'améliorer ses défenses contre les frappes aériennes américaines et d'accroître l'efficacité de ses propres frappes contre les forces des États-Unis."
+    },
+    {
+     "q": "L'Iran s'est-il coordonné avec d'autres alliés dans la région ?",
+     "a": "Selon le New York Times, l'Iran s'est coordonné avec le Hezbollah, les Houthis et des milices chiites en Irak pour définir leur réponse aux frappes américaines."
+    }
+   ]
+  },
+  {
+   "score": 8,
+   "topic": "Koweït · Iran",
+   "fait": "Une attaque de drones iraniens a touché une installation gouvernementale et des véhicules civils au Koweït sans faire de victimes.",
+   "questions": [
+    {
+     "q": "Quels sites ont été touchés par l'attaque au Koweït ?",
+     "a": "L'attaque a touché une installation gouvernementale dans le nord du pays ainsi que des véhicules civils sur l'île de Boubyan."
+    },
+    {
+     "q": "Y a-t-il eu des blessés ou des morts lors de cette attaque ?",
+     "a": "L'armée koweïtienne a confirmé des dégâts matériels causés par des éclats, mais aucune victime n'est à déplorer."
+    },
+    {
+     "q": "Qui a attribué la responsabilité de cette attaque ?",
+     "a": "L'armée koweïtienne a explicitement désigné l'Iran comme responsable de cette attaque de drones dans son communiqué."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Gaza · Israël",
+   "fait": "L'armée israélienne a détruit cinq dépôts d'armes du Hamas et éliminé au moins quatre terroristes lors de frappes dans la bande de Gaza.",
+   "questions": [
+    {
+     "q": "Où se situait l'un des dépôts d'armes détruits par Tsahal ?",
+     "a": "L'un des dépôts était situé à proximité de l'hôpital des Martyrs d'Al-Aqsa à Deir al-Balah."
+    },
+    {
+     "q": "Quel type d'armement a été détruit dans ces dépôts ?",
+     "a": "Tsahal et le Shin Bet y ont détruit des fusils Kalachnikov, des engins explosifs, des lanceurs antichars et diverses munitions."
+    },
+    {
+     "q": "Quelle a été la réaction du Jihad islamique face aux opérations israéliennes ?",
+     "a": "Le Jihad islamique a déclaré que la poursuite des attaques israéliennes prouve que l'accord de cessez-le-feu ne parvient pas à arrêter la guerre."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Liban · Israël",
+   "fait": "Un officier israélien a été modérément blessé lors d'une opération au sud du Liban où plusieurs terroristes du Hezbollah ont été éliminés.",
+   "questions": [
+    {
+     "q": "Où la confrontation entre Tsahal et le Hezbollah s'est-elle déroulée ?",
+     "a": "Les combats ont eu lieu dans la zone de la crête d'Ali Taher, dans le sud du Liban."
+    },
+    {
+     "q": "Combien d'explosions provoquées par Tsahal ont été recensées au Liban ?",
+     "a": "Selon la chaîne libanaise MTV, 1 038 explosions provoquées par l'armée israélienne ont été enregistrées au sud du Liban depuis le 2 mars."
+    },
+    {
+     "q": "Quel est l'état du soldat israélien touché pendant l'opération ?",
+     "a": "Un officier combattant de Tsahal a été modérément blessé et a été évacué vers un hôpital pour y recevoir des soins."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Ouganda · Israël",
+   "fait": "Une statue en hommage à Yoni Netanyahu a été dévoilée par le chef d'état-major de l'armée ougandaise à l'aéroport d'Entebbe.",
+   "questions": [
+    {
+     "q": "Qui a inauguré la statue de Yoni Netanyahu en Ouganda ?",
+     "a": "La statue a été dévoilée par Muhoozi Kainerugaba, le chef d'état-major de l'armée ougandaise."
+    },
+    {
+     "q": "Pourquoi cet emplacement a-t-il été choisi pour la statue ?",
+     "a": "Elle a été installée au terminal de l'aéroport d'Entebbe, à l'endroit exact où Yoni Netanyahu est tombé lors du raid en 1976."
+    },
+    {
+     "q": "Quel rôle Yoni Netanyahu jouait-il lors de cette opération ?",
+     "a": "Il était le commandant de la Sayeret Matkal et a été le seul soldat israélien tué pendant la libération des otages."
+    }
+   ]
+  },
+  {
+   "score": 4,
+   "topic": "Cisjordanie · Israël",
+   "fait": "Un soldat israélien en permission a été arrêté après une altercation opposant des Palestiniens à un berger dans la région de Binyamin.",
+   "questions": [
+    {
+     "q": "De quoi le soldat arrêté est-il accusé par les habitants locaux ?",
+     "a": "Des habitants du village d'Al-Mughayyir l'accusent d'avoir blessé un enfant palestinien par balle lors de l'incident."
+    },
+    {
+     "q": "Quelle est la version présentée par l'avocat du soldat ?",
+     "a": "Son avocat affirme que le soldat est seulement venu secourir un berger attaqué et n'a fait aucun tir."
+    },
+    {
+     "q": "Comment les forces de Tsahal sont-elles intervenues sur place ?",
+     "a": "Les soldats arrivés en renfort ont dispersé les assaillants en utilisant des grenades lacrymogènes et assourdissantes."
+    }
+   ]
+  }
  ]
 }
