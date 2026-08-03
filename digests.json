@@ -11234,5 +11234,254 @@
     }
    ]
   }
+ ],
+ "2026-08-03": [
+  {
+   "score": 9,
+   "topic": "Gaza · Tsahal",
+   "fait": "L'armée israélienne et le Shin Bet ont éliminé à Gaza plusieurs cadres terroristes du Hamas et du Jihad islamique impliqués dans le 7 octobre.",
+   "questions": [
+    {
+     "q": "Qui sont les terroristes éliminés lors des frappes à Gaza ?",
+     "a": "Les terroristes éliminés sont Mahmoud Fatair du Jihad islamique, ainsi qu'Abdallah Adnan Taha Abu al-Taif et Jalal Sabih du Hamas."
+    },
+    {
+     "q": "À quels actes le terroriste Mahmoud Fatair avait-il participé ?",
+     "a": "Il a participé au massacre du 7 octobre, à la détention de l'otage Rom Braslavski et aux cérémonies de remise d'otages."
+    },
+    {
+     "q": "Dans quelles régions de la bande de Gaza les frappes ont-elles eu lieu ?",
+     "a": "Les frappes ont été menées dans les régions de Deir al-Balah et d'Al-Shati."
+    }
+   ]
+  },
+  {
+   "score": 8,
+   "topic": "États-Unis · Iran",
+   "fait": "Donald Trump et l'Iran s'opposent publiquement sur la tenue de négociations diplomatiques, le contrôle du détroit d'Ormuz et le programme nucléaire iranien.",
+   "questions": [
+    {
+     "q": "Quelle est la position du ministère iranien des Affaires étrangères sur les négociations avec les États-Unis ?",
+     "a": "L'Iran affirme n'avoir aucune discussion en cours avec la partie américaine et qu'aucune rencontre n'est programmée."
+    },
+    {
+     "q": "Avertissement adressé par Donald Trump aux dirigeants iraniens :",
+     "a": "Donald Trump a affirmé que l'Iran n'aura jamais l'arme nucléaire et qu'il s'agit de leur dernière chance de signer un accord."
+    },
+    {
+     "q": "Quelle est la situation au détroit d'Ormuz selon Donald Trump ?",
+     "a": "Donald Trump affirme que le détroit d'Ormuz est entièrement contrôlé par la marine américaine sous la forme d'un blocus maritime."
+    }
+   ]
+  },
+  {
+   "score": 8,
+   "topic": "Iran · États-Unis",
+   "fait": "Les Gardiens de la Révolution iraniens ont affirmé avoir abattu un drone américain MQ-9 à proximité du détroit d'Ormuz.",
+   "questions": [
+    {
+     "q": "Quel groupe revendique la destruction du drone américain ?",
+     "a": "Les Gardiens de la Révolution iraniens ont annoncé avoir abattu l'appareil."
+    },
+    {
+     "q": "Quel modèle de drone a été ciblé ?",
+     "a": "Il s'agit d'un drone américain de modèle MQ-9."
+    },
+    {
+     "q": "Dans quel secteur l'appareil a-t-il été abattu ?",
+     "a": "L'appareil a été abattu dans la zone située à proximité du détroit d'Ormuz."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Israël · Défense",
+   "fait": "La commission de la Défense de la Knesset a autorisé Tsahal à mobiliser jusqu'à 240 000 réservistes sous ordre 8 jusqu'en septembre 2026.",
+   "questions": [
+    {
+     "q": "Jusqu'à quelle date le dispositif d'urgence de mobilisation est-il prolongé ?",
+     "a": "Le dispositif d'urgence permettant de mobiliser sous ordre 8 est prolongé jusqu'au 30 septembre 2026."
+    },
+    {
+     "q": "Combien de réservistes Tsahal est-il autorisé à rappeler ?",
+     "a": "Tsahal est autorisé à mobiliser jusqu'à 240 000 réservistes."
+    },
+    {
+     "q": "Cette décision implique-t-elle la mobilisation immédiate de l'ensemble de ce contingent ?",
+     "a": "Non, cela ne signifie pas que 240 000 réservistes seront immédiatement rappelés, mais que l'armée dispose du pouvoir d'en appeler jusqu'à ce nombre selon les besoins opérationnels."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Judiciaire · Cisjordanie",
+   "fait": "Le parquet militaire a déposé un acte d'accusation contre le chef terroriste Kamal Khatib pour l'attentat mortel du 1er juillet 2024.",
+   "questions": [
+    {
+     "q": "Qui est le responsable terroriste poursuivi par la justice militaire ?",
+     "a": "Il s'agit de Kamal Khatib, chef du bataillon terroriste de Nur Shams."
+    },
+    {
+     "q": "Quel attentat lui est spécifiquement reproché ?",
+     "a": "Il est poursuivi pour l'attentat du 1er juillet 2024 au cours duquel un engin explosif déclenché à distance a tué le sergent-chef réserviste Yehuda Geto."
+    },
+    {
+     "q": "Quelle décision le tribunal militaire de Samarie a-t-il prise concernant sa détention ?",
+     "a": "Le tribunal a ordonné son maintien en détention jusqu'à la fin de la procédure judiciaire."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Israël · Société",
+   "fait": "Une étude indique que près de 91 000 Israéliens ont quitté le pays pour plus de trois mois en 2025, accentuant la fuite des cerveaux.",
+   "questions": [
+    {
+     "q": "Combien d'Israéliens sont restés à l'étranger au moins trois mois en 2025 ?",
+     "a": "En 2025, 90 922 Israéliens sont restés à l'étranger pendant au moins trois mois consécutifs."
+    },
+    {
+     "q": "Quelles catégories professionnelles sont principalement concernées par ces départs ?",
+     "a": "Les départs concernent en particulier des médecins, ingénieurs, titulaires de doctorats, universitaires et personnes à hauts revenus."
+    },
+    {
+     "q": "Quel était le volume moyen de départs prolongés avant le déclenchement de la guerre ?",
+     "a": "Durant la décennie précédant la guerre, la moyenne se situait autour de 60 000 départs prolongés par an."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Israël · Sécurité",
+   "fait": "La police israélienne a découvert à Ramlé un lance-roquettes, des grenades et des pistolets volés à l'armée dans un abri résidentiel.",
+   "questions": [
+    {
+     "q": "Quels équipements militaires ont été découverts par les forces de l'ordre ?",
+     "a": "La police a saisi un lance-roquettes LAW, quatre pistolets ainsi que quatre grenades à fragmentation provenant de Tsahal."
+    },
+    {
+     "q": "Dans quel lieu la cache d'armes était-elle aménagée ?",
+     "a": "La cache se trouvait dans l'abri d'un immeuble résidentiel à Ramlé."
+    },
+    {
+     "q": "Une arrestation a-t-elle eu lieu lors de l'opération ?",
+     "a": "Oui, un habitant de Lod âgé d'une vingtaine d'années a été arrêté pour détention illégale d'armes."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Iran · Israël",
+   "fait": "Les autorités iraniennes ont exécuté deux hommes accusés d'avoir collaboré avec les services de renseignement israéliens.",
+   "questions": [
+    {
+     "q": "Combien de personnes ont été exécutées par les autorités iraniennes ?",
+     "a": "Deux hommes ont été exécutés au cours de la nuit."
+    },
+    {
+     "q": "Quel chef d'accusation a motivé ces exécutions ?",
+     "a": "Ils étaient accusés d'avoir travaillé pour le compte d'Israël."
+    },
+    {
+     "q": "Quelle agence d'information a fait part de ces exécutions ?",
+     "a": "L'information a été rapportée par l'agence de presse iranienne Fars."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Cisjordanie · Faits divers",
+   "fait": "Un véhicule contenant une fillette de 8 ans a été volé près de Nabi Elias avant que l'enfant ne soit retrouvée saine et sauve.",
+   "questions": [
+    {
+     "q": "Où le vol de voiture s'est-il déroulé ?",
+     "a": "Le vol s'est produit près de Nabi Elias, en direction du secteur d'Azzoun."
+    },
+    {
+     "q": "Qu'est-il advenu de la fillette restée à l'intérieur du véhicule ?",
+     "a": "Elle a été déposée par le suspect au cœur du village de Nabi Elias où elle a été retrouvée saine et sauve."
+    },
+    {
+     "q": "Le voleur du véhicule a-t-il été appréhendé ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Israël · Égypte",
+   "fait": "Un tremblement de terre d'une magnitude de 5,7 survenu en Égypte a été ressenti en Israël sans faire de blessés ni de dégâts.",
+   "questions": [
+    {
+     "q": "Quelle était l'intensité du séisme ressenti ?",
+     "a": "Le séisme était d'une magnitude de 5,7."
+    },
+    {
+     "q": "Où se situait la zone d'origine de cette secousse ?",
+     "a": "Le tremblement de terre avait pour origine l'Égypte."
+    },
+    {
+     "q": "Des victimes ou des destructions ont-elles été répertoriées en Israël ?",
+     "a": "Aucun blessé ni dégât n'a été signalé à la suite de la secousse."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Israël · Gaza",
+   "fait": "Des responsables israéliens ont affirmé que Tsahal ne se retirera de Gaza qu'après la dissolution et le désarmement complet du Hamas.",
+   "questions": [
+    {
+     "q": "Quelle condition stricte pose Jérusalem pour le retrait des forces de Tsahal ?",
+     "a": "Les responsables israéliens affirment qu'aucun retrait ne se fera avant la dissolution et le désarmement complet du Hamas."
+    },
+    {
+     "q": "Quel message le Conseil pour la Paix a-t-il transmis au Premier ministre israélien ?",
+     "a": "Le directeur du Conseil pour la Paix lui a demandé de cesser les attaques dans la bande de Gaza conformément aux engagements de l'accord."
+    },
+    {
+     "q": "Au-delà de quelle ligne le retrait des troupes israéliennes est-il conditionné au désarmement ?",
+     "a": "Le retrait total des forces au-delà de la ligne jaune ne s'effectuera qu'après l'achèvement du désarmement dans la bande de Gaza."
+    }
+   ]
+  },
+  {
+   "score": 4,
+   "topic": "Liban · Tsahal",
+   "fait": "Un soldat réserviste israélien a été légèrement blessé lors d'un accident opérationnel dans le sud du Liban.",
+   "questions": [
+    {
+     "q": "Dans quelle région l'accident s'est-il produit ?",
+     "a": "L'incident est survenu dans le sud du Liban."
+    },
+    {
+     "q": "Quel est l'état de santé du militaire impliqué ?",
+     "a": "Le soldat réserviste a été légèrement blessé."
+    },
+    {
+     "q": "Le militaire blessé a-t-il été pris en charge par des services hospitaliers ?",
+     "a": "Oui, le soldat a été évacué vers un hôpital pour y recevoir des soins."
+    }
+   ]
+  },
+  {
+   "score": 3,
+   "topic": "Israël · Armée",
+   "fait": "L'armée israélienne a entamé un exercice militaire planifié dans la ville de Ra’anana jusqu'au lendemain matin.",
+   "questions": [
+    {
+     "q": "Dans quelle localité se déroule cet exercice militaire ?",
+     "a": "L'exercice a lieu dans la ville de Ra’anana."
+    },
+    {
+     "q": "Quelle est la durée prévue pour cet entraînement ?",
+     "a": "L'exercice commence le lundi soir et s'achève le mardi matin."
+    },
+    {
+     "q": "L'événement est-il lié à une menace sécuritaire imprévue ?",
+     "a": "Non, cet exercice était planifié à l'avance dans le cadre du programme d'entraînement de 2026."
+    }
+   ]
+  }
  ]
 }
