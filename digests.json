@@ -11483,5 +11483,296 @@
     }
    ]
   }
+ ],
+ "2026-08-04": [
+  {
+   "score": 9,
+   "topic": "États-Unis · Iran",
+   "fait": "Donald Trump a fixé un ultimatum à l'Iran pour conclure un accord sous peine de frappes aériennes majeures.",
+   "questions": [
+    {
+     "q": "Quel est l'ultimatum fixé par les États-Unis à l'Iran ?",
+     "a": "Donald Trump a donné à l'Iran jusqu'à mardi pour parvenir à un accord avec Oman concernant le détroit d'Ormuz, sous peine de frappes aériennes dévastatrices."
+    },
+    {
+     "q": "Quelle est la position du Secrétaire américain au Trésor sur la réouverture du détroit ?",
+     "a": "Il a estimé qu'un accord permettant la réouverture du détroit d'Ormuz pourrait être conclu dans la journée ou le lendemain."
+    },
+    {
+     "q": "Quelle démarche diplomatique Trump a-t-il entreprise pour réduire les tensions ?",
+     "a": "Donald Trump s'est entretenu avec l'émir du Qatar afin d'apaiser les tensions entre les États-Unis et l'Iran."
+    },
+    {
+     "q": "Quelle est la position du président iranien Pezeshkian ?",
+     "a": "Le président iranien Massoud Pezeshkian a déclaré que l'Iran défend ses frontières mais ne cherche pas à élargir l'ampleur de la guerre."
+    }
+   ]
+  },
+  {
+   "score": 8,
+   "topic": "États-Unis · Israël",
+   "fait": "L'aéroport Ramon en Israël accueille désormais plus de trente avions ravitailleurs américains transformant le site en base militaire.",
+   "questions": [
+    {
+     "q": "Où se situe cette nouvelle présence militaire américaine en Israël ?",
+     "a": "Elle est installée à l'aéroport Ramon, près d'Eilat, dans le sud d'Israël."
+    },
+    {
+     "q": "Combien d'avions ravitailleurs américains y sont déployés ?",
+     "a": "Plus de 30 avions ravitailleurs américains y sont désormais stationnés."
+    },
+    {
+     "q": "Quelle autre activité aérienne américaine est signalée dans la région ?",
+     "a": "Des avions de combat américains effectuent des patrouilles dans le ciel de l'est de la Jordanie, le long de la frontière syro-irakienne."
+    }
+   ]
+  },
+  {
+   "score": 8,
+   "topic": "Iran · Oman",
+   "fait": "L'Iran a attaqué un navire de marchandises au large d'Oman pour non-respect des règles de navigation dans le détroit.",
+   "questions": [
+    {
+     "q": "Où s'est produite l'attaque contre le navire ?",
+     "a": "L'incident est survenu en mer à 20 miles au nord-est d'Oman."
+    },
+    {
+     "q": "Pour quelle raison l'Iran a-t-il ciblé ce bâtiment ?",
+     "a": "Selon Téhéran, le navire n'a pas obéi aux instructions et tentait de traverser le détroit d'Ormuz en violation des règles iraniennes."
+    },
+    {
+     "q": "Faut-il s'acquitter d'un droit de passage selon les États-Unis ?",
+     "a": "Un haut responsable américain a affirmé qu'aucun droit de passage ni autorisation ne seront exigés sur les voies temporaires dans le détroit d'Ormuz."
+    }
+   ]
+  },
+  {
+   "score": 8,
+   "topic": "Israël · Bande de Gaza",
+   "fait": "Benyamin Netanyahou affirme qu'Israël ne se retirera pas de ses positions à Gaza sans le désarmement du Hamas.",
+   "questions": [
+    {
+     "q": "À quelle condition Israël se retirera-t-il de Gaza ?",
+     "a": "Israël ne se retirera de ses positions qu'une fois le Hamas totalement désarmé."
+    },
+    {
+     "q": "Quelle directive Netanyahou a-t-il donnée aux soldats sur le terrain ?",
+     "a": "Il a affirmé que les soldats peuvent faire tout ce qui est nécessaire pour se défendre et protéger le territoire."
+    },
+    {
+     "q": "Un calendrier précis de retrait a-t-il été annoncé ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Israël · Politique",
+   "fait": "Le cabinet de sécurité israélien se réunit pour discuter de l'accord avec le Hamas et des tensions avec l'Iran.",
+   "questions": [
+    {
+     "q": "Quels sont les sujets principaux à l'ordre du jour du cabinet de sécurité ?",
+     "a": "La réunion porte sur l'opposition à l'accord du Conseil de paix avec le Hamas ainsi que sur les développements concernant l'Iran."
+    },
+    {
+     "q": "Quand cette réunion doit-elle avoir lieu ?",
+     "a": "La réunion est programmée le soir même du 4 août 2026."
+    },
+    {
+     "q": "Quelles décisions ont été prises par le cabinet ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "États-Unis · Défense",
+   "fait": "Les stocks américains de missiles de précision longue portée sont presque épuisés en raison de la guerre avec l'Iran.",
+   "questions": [
+    {
+     "q": "Quel type d'armement américain est en rupture de stock ?",
+     "a": "Il s'agit des stocks de missiles de précision longue portée."
+    },
+    {
+     "q": "Quelle est la cause principale de cet épuisement ?",
+     "a": "Cette pénurie découle de l'utilisation intensive des munitions durant la guerre avec l'Iran."
+    },
+    {
+     "q": "Qui rapporte cette information ?",
+     "a": "L'information a été révélée par un rapport de l'agence Reuters."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Iran · Incident",
+   "fait": "Une explosion suivie d'un incendie s'est produite dans une usine d'aluminium au sud de Téhéran près de l'aéroport.",
+   "questions": [
+    {
+     "q": "Où l'explosion s'est-elle produite exactement ?",
+     "a": "L'explosion a eu lieu dans une usine d'aluminium située dans la zone industrielle de Shams Abad, au sud de Téhéran."
+    },
+    {
+     "q": "Quel site majeur se trouve à proximité de l'incendie ?",
+     "a": "Le sinistre s'est déclaré à proximité de l'aéroport international Imam-Khomeini."
+    },
+    {
+     "q": "Y a-t-il des victimes ou des dégâts chiffrés ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Israël · Opérations militaires",
+   "fait": "L'armée israélienne a mené des opérations à Qabatiya et Naplouse et détruit des bâtiments du Hezbollah au Liban.",
+   "questions": [
+    {
+     "q": "Qu'a détruit Tsahal lors de son intervention à Qabatiya ?",
+     "a": "Les forces israéliennes y ont détruit dix tours mécaniques utilisées pour la fabrication d'engins explosifs et d'armes."
+    },
+    {
+     "q": "Qui a été arrêté dans la casbah de Naplouse ?",
+     "a": "L'unité Duvdevan et le Shin Bet ont arrêté un terroriste affilié au Jihad islamique palestinien et au groupe « La Fosse aux Lions »."
+    },
+    {
+     "q": "Quelle opération a été conduite dans le sud du Liban ?",
+     "a": "Tsahal a détruit par explosion plusieurs bâtiments utilisés par le Hezbollah dans la localité de Majdal Zoun."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Liban · Hezbollah",
+   "fait": "Naïm Qassem déclare que les négociations directes avec Israël n'ont apporté au Liban que des concessions sans contrepartie.",
+   "questions": [
+    {
+     "q": "Quelle est la position du chef du Hezbollah sur les négociations avec Israël ?",
+     "a": "Naïm Qassem affirme que les négociations n'ont apporté au Liban que honte, humiliation, déception et concessions successives."
+    },
+    {
+     "q": "Selon le Hezbollah, quels acquis Israël a-t-il obtenus ?",
+     "a": "Il estime qu'Israël a obtenu des acquis politiques mais n'a pas réussi à s'imposer sur le terrain face à la branche militaire du Hezbollah."
+    },
+    {
+     "q": "Le gouvernement libanais a-t-il réagi à cette déclaration ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Syrie · Sécurité",
+   "fait": "La Syrie a découvert des roquettes Grad cachées près de la frontière israélienne dans la province de Déraa.",
+   "questions": [
+    {
+     "q": "Où les roquettes Grad ont-elles été découvertes ?",
+     "a": "Elles ont été localisées dans la province de Déraa, dans le sud de la Syrie, à proximité de la frontière avec Israël."
+    },
+    {
+     "q": "Quelle autorité syrienne a annoncé cette saisie ?",
+     "a": "L'annonce a été faite par le ministère de l'Intérieur de Syrie."
+    },
+    {
+     "q": "À quel groupe appartenaient ces roquettes ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Bande de Gaza · Société",
+   "fait": "Gaza a célébré les funérailles de cent douze personnes extraites des décombres dans le quartier de Sabra.",
+   "questions": [
+    {
+     "q": "Combien de corps ont été enterrés lors de ces funérailles collectives ?",
+     "a": "Les funérailles concernaient 112 personnes dont les corps ont été extraits au cours des deux dernières semaines."
+    },
+    {
+     "q": "Où les victimes ont-elles été retrouvées ?",
+     "a": "Elles ont été dégagées des décombres d'un complexe situé dans le quartier de Sabra, à Gaza-ville."
+    },
+    {
+     "q": "À quelles familles appartenaient les défunts ?",
+     "a": "Les victimes appartenaient aux familles Abu Sharia et Al-Hasaina."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "États-Unis · Chine",
+   "fait": "Les États-Unis interdisent l'importation de composants informatiques chinois destinés aux centres de données d'intelligence artificielle.",
+   "questions": [
+    {
+     "q": "Quelle décision l'administration Trump a-t-elle prise concernant l'industrie technologique chinoise ?",
+     "a": "Elle met en place une interdiction d'importation aux États-Unis de composants chinois destinés aux centres de données."
+    },
+    {
+     "q": "Quel est l'objectif affiché de cette restriction ?",
+     "a": "L'objectif est de réduire les risques d'espionnage et de perturbation des infrastructures soutenant l'industrie de l'intelligence artificielle."
+    },
+    {
+     "q": "Quand cette interdiction prend-elle effet ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 4,
+   "topic": "Israël · Égypte",
+   "fait": "Les forces israéliennes ont déjoué une tentative de contrebande d'armes et de drogue à la frontière égyptienne.",
+   "questions": [
+    {
+     "q": "Quelles unités sont intervenues à la frontière avec l'Égypte ?",
+     "a": "L'opération a été menée conjointement par Tsahal et les unités d'infiltration de la police des frontières (Magav)."
+    },
+    {
+     "q": "Quel est le bilan des arrestations et des saisies ?",
+     "a": "Deux suspects ont été arrêtés lors de deux opérations distinctes et un véhicule tout-terrain a été saisi."
+    },
+    {
+     "q": "Que transportaient les contrebandiers ?",
+     "a": "La cellule tentait de faire passer clandestinement des armes et de la drogue."
+    }
+   ]
+  },
+  {
+   "score": 4,
+   "topic": "Israël · Faits divers",
+   "fait": "Plusieurs piétons ont été blessés après avoir été percutés par un autobus dans la ville d'Ashkelon.",
+   "questions": [
+    {
+     "q": "Où l'accident de la circulation s'est-il déroulé ?",
+     "a": "L'accident est survenu dans la rue David Remez, à Ashkelon."
+    },
+    {
+     "q": "Que sait-on au sujet du conducteur de l'autobus ?",
+     "a": "Il s'agit d'un homme âgé, personne connue à Ashkelon, ne possédant aucun antécédent d'infraction routière."
+    },
+    {
+     "q": "Quel est l'état de santé des victimes ?",
+     "a": "Les secours ont pris en charge plusieurs piétons blessés à différents degrés de gravité."
+    }
+   ]
+  },
+  {
+   "score": 3,
+   "topic": "Israël · Armée",
+   "fait": "Le combattant réserviste israélien Daniel Peper s'est donné la mort.",
+   "questions": [
+    {
+     "q": "Quel est le nom du soldat réserviste concerné ?",
+     "a": "Il s'agit du combattant réserviste Daniel Peper."
+    },
+    {
+     "q": "Ce drame s'inscrit-il dans une suite d'événements récents ?",
+     "a": "Oui, ce drame s'ajoute à une série d'événements douloureux, notamment la mort de deux soldates la semaine précédente."
+    },
+    {
+     "q": "Dans quelle unité ce soldat servait-il ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour."
+    }
+   ]
+  }
  ]
 }
