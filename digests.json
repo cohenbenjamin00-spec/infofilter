@@ -11774,5 +11774,254 @@
     }
    ]
   }
+ ],
+ "2026-08-05": [
+  {
+   "score": 9,
+   "topic": "Liban · Sécurité",
+   "fait": "Un grave incident au Liban-Sud et des violations du Hezbollah ont entraîné des frappes israéliennes et une réunion de sécurité d'urgence du gouvernement.",
+   "questions": [
+    {
+     "q": "Que s'est-il passé à Tibnine ?",
+     "a": "Selon des médias arabes, une personne a été éliminée et plusieurs autres ont été blessées lors d'une frappe à Tibnine."
+    },
+    {
+     "q": "Qui préside la réunion de sécurité prévue à 21h00 ?",
+     "a": "Le Premier ministre et le ministre de la Défense présideront cette réunion axée sur l'incident grave survenu au Liban."
+    },
+    {
+     "q": "Quelle organisation est accusée d'avoir commis une violation ?",
+     "a": "L'organisation terroriste Hezbollah est accusée par Tsahal d'avoir commis une violation flagrante."
+    }
+   ]
+  },
+  {
+   "score": 8,
+   "topic": "États-Unis · Iran",
+   "fait": "Selon Axios, les États-Unis, l'Iran et l'Oman approcheraient d'un accord temporaire de 60 jours pour rouvrir le détroit d'Ormuz.",
+   "questions": [
+    {
+     "q": "Quelle est la durée de l'accord temporaire envisagé ?",
+     "a": "L'accord temporaire envisagé est d'une durée de 60 jours."
+    },
+    {
+     "q": "Quel est l'objectif principal de cet accord ?",
+     "a": "Cet accord vise à rouvrir le détroit d'Ormuz."
+    },
+    {
+     "q": "Qu'a déclaré Donald Trump à propos des discussions avec l'Iran ?",
+     "a": "Donald Trump a déclaré que les discussions progressaient très bien et qu'une mise à jour aurait lieu dans les 48 heures."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Israël · Défense",
+   "fait": "L'armée israélienne et le ministère de la Défense ont effectué un essai planifié réussi du système de défense aérienne Flèche au centre du pays.",
+   "questions": [
+    {
+     "q": "Quels organismes ont participé à cet essai ?",
+     "a": "Le ministère de la Défense, Tsahal et l'industrie aéronautique ont participé à cet essai."
+    },
+    {
+     "q": "Dans quelle région la traînée de l'intercepteur a-t-elle été observée ?",
+     "a": "La traînée a été observée dans la région d'Ashdod et de Tel-Aviv."
+    },
+    {
+     "q": "S'agissait-il d'un tir d'urgence réactif ?",
+     "a": "Non, il s'agissait d'un essai planifié du système de défense aérienne Flèche."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Yémen · Mer Rouge",
+   "fait": "Les Houthis du Yémen ont revendiqué le tir d'un missile balistique contre le pétrolier saoudien Daisy dans le golfe d'Aden.",
+   "questions": [
+    {
+     "q": "Quel navire a été ciblé par l'attaque ?",
+     "a": "Le pétrolier saoudien nommé Daisy a été visé."
+    },
+    {
+     "q": "Quelle arme a été utilisée selon le porte-parole des Houthis ?",
+     "a": "Selon le porte-parole Yahya Saree, le pétrolier a été visé par un missile balistique."
+    },
+    {
+     "q": "Y a-t-il eu des victimes ou des dommages matériels importants ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Tsahal · Enquête",
+   "fait": "L'enquête de Tsahal sur l'attentat de Kafr Tell pointe des défaillances opérationnelles et n'exclut pas un tir ami touchant Benayahu Mellet.",
+   "questions": [
+    {
+     "q": "Les règles d'ouverture du feu étaient-elles adéquates selon l'enquête ?",
+     "a": "Oui, l'enquête a conclu que les règles d'ouverture du feu étaient claires et permettaient d'utiliser les armes pour neutraliser la menace."
+    },
+    {
+     "q": "Quelles défaillances ont été constatées lors de l'incident ?",
+     "a": "Les effectifs militaires sur place étaient insuffisants, une vision globale manquait et la victime est restée blessée longuement sans présence militaire."
+    },
+    {
+     "q": "L'excursion était-elle autorisée par les autorités militaires ?",
+     "a": "Non, l'excursion avait été organisée sans coordination ni autorisation des services de sécurité."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Israël · Gaza",
+   "fait": "Le ministre de la Défense Israël Katz a ordonné de maintenir sans réduction les effectifs militaires protégeant les localités bordant la bande de Gaza.",
+   "questions": [
+    {
+     "q": "Qui a donné l'ordre de ne pas réduire les effectifs ?",
+     "a": "Le ministre de la Défense, Israël Katz, a donné cet ordre."
+    },
+    {
+     "q": "Jusqu'à quand cet ordre s'applique-t-il ?",
+     "a": "Cet ordre s'applique jusqu'à nouvel ordre."
+    },
+    {
+     "q": "Quelle est la raison officielle de cette décision ?",
+     "a": "Préserver le sentiment de sécurité des habitants suite à une évaluation sécuritaire et aux demandes des résidents."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "États-Unis · Trump",
+   "fait": "Un homme armé de 38 ans a été arrêté par les autorités américaines près du club de golf de Donald Trump à Los Angeles.",
+   "questions": [
+    {
+     "q": "Quel est le nom de l'homme arrêté ?",
+     "a": "L'homme arrêté s'appelle Jeanine John Taele, âgé de 38 ans."
+    },
+    {
+     "q": "Qu'ont découvert les enquêteurs lors de la perquisition à son domicile ?",
+     "a": "Les enquêteurs ont découvert une arme de type AR modifiée, plusieurs armes, un gilet pare-balles, des munitions et des carnets aux écrits préoccupants."
+    },
+    {
+     "q": "Quelles agences participent à l'enquête ?",
+     "a": "Le FBI, les services secrets américains et les autorités locales participent à l'enquête."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Israël · Transports",
+   "fait": "Un drone civil ayant pénétré l'espace aérien de l'aéroport Ben-Gourion a provoqué une interruption temporaire des décollages et atterrissages.",
+   "questions": [
+    {
+     "q": "De quel type d'appareil s'agissait-il ?",
+     "a": "Il s'agissait d'un drone civil."
+    },
+    {
+     "q": "Quels vols ont été impactés par cet incident ?",
+     "a": "Les décollages et les atterrissages de l'aéroport Ben-Gourion ont été temporairement interrompus."
+    },
+    {
+     "q": "L'opérateur du drone a-t-il été identifié ou arrêté ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Liban · Tsahal",
+   "fait": "La 91e division de Tsahal a détruit un tunnel du Hezbollah de plusieurs dizaines de mètres à Serbine, dans le sud du Liban.",
+   "questions": [
+    {
+     "q": "Quelles unités ont participé à la destruction du tunnel ?",
+     "a": "Les forces de la brigade 300 ont agi en coopération avec l'unité Yahalom."
+    },
+    {
+     "q": "À quoi servait ce tunnel selon le porte-parole de Tsahal ?",
+     "a": "Il était utilisé par le Hezbollah pour préparer et mener des attaques contre les forces de Tsahal."
+    },
+    {
+     "q": "Quel matériel a été découvert par la brigade Kfir et la brigade 4 ?",
+     "a": "Des lanceurs, des roquettes, des fusils Kalachnikov et du matériel militaire antichar ont été découverts."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Tsahal · Accident",
+   "fait": "Un soldat de la brigade Hashmonaïm a été grièvement blessé par balle lors d'un jeu dangereux avec des armes sur une base de la vallée du Jourdain.",
+   "questions": [
+    {
+     "q": "À quelle brigade appartient le soldat blessé ?",
+     "a": "Le soldat blessé fait partie de la brigade Hashmonaïm et était en formation."
+    },
+    {
+     "q": "Que faisaient les soldats au moment de l'incident ?",
+     "a": "Trois soldats jouaient avec leurs armes dans leur chambre, se défiant pour savoir qui pouvait armer son fusil le plus rapidement."
+    },
+    {
+     "q": "Quel organisme mène l'enquête sur l'incident ?",
+     "a": "Une enquête de la police militaire (Metzah) a été ouverte pour déterminer les circonstances."
+    }
+   ]
+  },
+  {
+   "score": 4,
+   "topic": "Cisjordanie · Tsahal",
+   "fait": "Les forces israéliennes ont arrêté le terroriste recherché Mustafa al-Eid au cours d'une opération à Burqin, à l'ouest de Jénine.",
+   "questions": [
+    {
+     "q": "Quel est le nom du suspect arrêté ?",
+     "a": "Le suspect arrêté s'appelle Mustafa al-Eid."
+    },
+    {
+     "q": "Dans quelle localité l'opération s'est-elle déroulée ?",
+     "a": "L'opération s'est déroulée dans la localité de Burqin, à l'ouest de Jénine."
+    },
+    {
+     "q": "À quelle organisation appartient le terroriste recherché ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 4,
+   "topic": "Gaza · Tsahal",
+   "fait": "L'unité Oketz a découvert et détruit une infrastructure souterraine contenant des dizaines de roquettes dans le sud de la bande de Gaza.",
+   "questions": [
+    {
+     "q": "Quelle unité a réalisé cette découverte ?",
+     "a": "L'unité canine Oketz a réalisé la découverte grâce à une caméra embarquée sur un chien."
+    },
+    {
+     "q": "Dans quelle zone de Gaza cette infrastructure se trouvait-elle ?",
+     "a": "Elle se trouvait dans le sud de la bande de Gaza."
+    },
+    {
+     "q": "Qu'a permis de trouver cette opération ?",
+     "a": "L'opération a permis de découvrir et de détruire une infrastructure souterraine contenant des dizaines de roquettes."
+    }
+   ]
+  },
+  {
+   "score": 3,
+   "topic": "Chypre · Faits divers",
+   "fait": "Le citoyen israélien Kobi Yedid, âgé de 35 ans, s'est noyé sur une plage de Limassol à Chypre.",
+   "questions": [
+    {
+     "q": "Quel est le nom de la victime de la noyade ?",
+     "a": "La victime est Kobi Yedid, âgé de 35 ans et père de quatre enfants."
+    },
+    {
+     "q": "Où le drame s'est-il déroulé ?",
+     "a": "Le drame s'est produit sur une plage de Limassol, à Chypre."
+    },
+    {
+     "q": "La famille était-elle présente lors du drame ?",
+     "a": "Oui, Kobi Yedid s'est noyé sous les yeux de sa femme et de ses enfants."
+    }
+   ]
+  }
  ]
 }
