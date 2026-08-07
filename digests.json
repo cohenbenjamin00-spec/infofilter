@@ -12023,5 +12023,220 @@
     }
    ]
   }
+ ],
+ "2026-08-07": [
+  {
+   "score": 9,
+   "topic": "Iran · Détroit d'Ormuz · États-Unis",
+   "fait": "L'Iran contrôle environ 90 % du détroit d'Ormuz et exige des frais de passage, tandis que Donald Trump affirme que Téhéran cherche un accord.",
+   "questions": [
+    {
+     "q": "Quelle proportion du détroit d'Ormuz l'Iran contrôle-t-il selon les images satellites ?",
+     "a": "Selon les images satellites, l'Iran contrôle environ 90 % du détroit d'Ormuz, contre environ 10 % sous contrôle américain."
+    },
+    {
+     "q": "Quelles conditions financières l'Iran exige-t-il pour le passage des navires ?",
+     "a": "Les Gardiens de la révolution exigent un droit de passage pouvant atteindre environ 7 % pour chaque navire empruntant le détroit."
+    },
+    {
+     "q": "Quelle est la position de Donald Trump sur les intentions de l'Iran ?",
+     "a": "Donald Trump a déclaré que l'Iran souhaite parvenir à un accord le plus rapidement possible avec les États-Unis et Oman pour éviter d'être attaqué."
+    },
+    {
+     "q": "Combien de navires ont traversé le détroit avec l'autorisation iranienne en 24 heures ?",
+     "a": "Neuf navires autorisés ayant payé le droit de passage ont transité au cours des 24 dernières heures."
+    }
+   ]
+  },
+  {
+   "score": 8,
+   "topic": "OTAN · Russie · États-Unis",
+   "fait": "Les renseignements américains estiment que la Russie pourrait mener une incursion militaire limitée dans un pays de l'OTAN pour tester son unité.",
+   "questions": [
+    {
+     "q": "Quel est l'objectif supposé d'une incursion russe selon les renseignements américains ?",
+     "a": "L'objectif serait de tester la réaction et l'unité des membres de l'OTAN face à la défense collective."
+    },
+    {
+     "q": "S'agirait-il d'une offensive majeure ?",
+     "a": "Non, selon l'évaluation américaine, il s'agirait d'une action militaire suffisamment limitée pour mesurer l'engagement réel des alliés."
+    },
+    {
+     "q": "Quels pays membres de l'OTAN sont directement visés selon le rapport ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 8,
+   "topic": "Bande de Gaza · Force internationale",
+   "fait": "La force internationale de stabilisation commence à se concentrer près de Kerem Shalom en vue de son déploiement dans la bande de Gaza.",
+   "questions": [
+    {
+     "q": "Quels sont les objectifs de la force internationale à Gaza ?",
+     "a": "L'objectif est de préparer la mise en œuvre de la sécurisation, de l'administration civile et de la reconstruction de la bande de Gaza."
+    },
+    {
+     "q": "Dans quelle zone frontalière les forces se concentrent-elles ?",
+     "a": "Les forces de l'ISF se concentrent à la frontière de la bande de Gaza, notamment près du point de passage de Kerem Shalom."
+    },
+    {
+     "q": "Quelles consignes particulières ont été données aux militaires américains ?",
+     "a": "Des consignes strictes ont été distribuées aux militaires américains présents dans la zone, notamment concernant les communications."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Bande de Gaza · Hamas",
+   "fait": "Un terroriste du Hamas ayant participé aux attaques du 7 octobre a été arrêté à Rafah alors qu'il conduisait un camion humanitaire.",
+   "questions": [
+    {
+     "q": "Quel était le rôle de l'homme arrêté lors du massacre du 7 octobre ?",
+     "a": "Il s'agit d'un terroriste de la force Nukhba du Hamas qui a participé à l'invasion des localités israéliennes."
+    },
+    {
+     "q": "Quelle activité le suspect exerçait-il au moment de son arrestation ?",
+     "a": "Il travaillait comme chauffeur d'un camion d'aide humanitaire afin de récupérer des marchandises pour un commerçant du secteur privé."
+    },
+    {
+     "q": "Où l'arrestation a-t-elle eu lieu précisément ?",
+     "a": "Il a été intercepté du côté gazaoui à Rafah alors qu'il se dirigeait vers le point de passage de Kerem Shalom."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Yémen · Arabie saoudite · Houthis",
+   "fait": "Des attaques des Houthis ont fait dix-sept morts au Yémen et onze blessés en Arabie saoudite, incitant Riyad à renforcer sa sécurité.",
+   "questions": [
+    {
+     "q": "Quel est le bilan de l'attaque des Houthis contre la base militaire yéménite ?",
+     "a": "Dix-sept soldats et officiers de l'armée yéménite soutenue par l'Arabie saoudite ont été tués lors de l'attaque."
+    },
+    {
+     "q": "Quels sites saoudiens pourraient être visés par de futures attaques ?",
+     "a": "Des préparatifs sont en cours en Arabie saoudite face à de possibles attaques visant des ports, des installations énergétiques et des aéroports."
+    },
+    {
+     "q": "Quels groupes menacent l'Arabie saoudite selon CNN ?",
+     "a": "Les menaces proviennent des milices pro-iraniennes basées en Irak ainsi que des Houthis au Yémen."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "États-Unis · Armement",
+   "fait": "Donald Trump a ordonné une enquête sur la divulgation dans la presse de la crise des stocks d'armements américains pendant la guerre.",
+   "questions": [
+    {
+     "q": "Quels médias ont rapporté la réaction de Donald Trump ?",
+     "a": "CNN et le Wall Street Journal ont rapporté les informations sur l'exaspération du président américain."
+    },
+    {
+     "q": "Pourquoi Donald Trump s'est-il indigné ?",
+     "a": "Il s'est indigné de la révélation publique de la crise des armements américains à un moment crucial de la guerre contre l'Iran."
+    },
+    {
+     "q": "Quelle mesure a été ordonnée par le président américain ?",
+     "a": "Donald Trump a ordonné l'ouverture d'une enquête officielle pour identifier la source responsable de la fuite d'information."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Grèce · Sécurité · Israël",
+   "fait": "Les autorités recommandent la vigilance aux ressortissants israéliens en Grèce en raison de quarante rassemblements pro-palestiniens prévus ce dimanche.",
+   "questions": [
+    {
+     "q": "Quand le « Jour de colère » pro-palestinien doit-il avoir lieu en Grèce ?",
+     "a": "Ce rassemblement est annoncé pour le dimanche 9 août avec près de 40 manifestations prévues à travers le pays."
+    },
+    {
+     "q": "Quelles destinations touristiques majeures sont concernées ?",
+     "a": "Les rassemblements sont annoncés notamment à Athènes, Thessalonique, Rhodes, Santorin, Mykonos, Corfou, Kos et en Crète."
+    },
+    {
+     "q": "Quelles sont les consignes données aux Israéliens sur place ?",
+     "a": "Il leur est recommandé d'éviter les manifestations, de ne pas répondre aux provocations et de rester vigilants dans les lieux fréquents."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Israël · Disparitions",
+   "fait": "Deux cent soixante personnes sont officiellement portées disparues en Israël, dont dix se sont évaporées au cours des cinq dernières années.",
+   "questions": [
+    {
+     "q": "Combien de personnes sont actuellement portées disparues en Israël ?",
+     "a": "Un total de 260 Israéliens sont actuellement considérés comme disparus sans que l'on sache ce qu'ils sont devenus."
+    },
+    {
+     "q": "Combien de ces disparitions se sont produites récemment ?",
+     "a": "Dix personnes ont disparu au cours des cinq dernières années."
+    },
+    {
+     "q": "Combien de signalements de disparitions sont enregistrés chaque année ?",
+     "a": "Des milliers de signalements sont déposés chaque année en Israël, bien que l'immense majorité des personnes soient finalement retrouvées."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Liban · Israël · Frappe",
+   "fait": "L'armée israélienne a mené une frappe ciblée contre une position dans la localité de Qunine, située dans le sud du Liban.",
+   "questions": [
+    {
+     "q": "Où la frappe de l'armée israélienne s'est-elle déroulée ?",
+     "a": "L'attaque a visé une cible située dans la ville de Qunine, dans le sud du Liban."
+    },
+    {
+     "q": "Quel est le bilan humain ou matériel de cette attaque ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    },
+    {
+     "q": "Quelle organisation ou cible était visée par cette frappe ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 4,
+   "topic": "Israël · Média · Prisons",
+   "fait": "Itamar Ben-Gvir a rejeté l'enquête du New York Times et apporté son soutien total aux gardiens de prison et soldats israéliens.",
+   "questions": [
+    {
+     "q": "Quelle publication le ministre Ben-Gvir qualifie-t-il de diffamatoire ?",
+     "a": "Le ministre de la Sécurité nationale qualifie de diffamatoire une enquête publiée par le New York Times."
+    },
+    {
+     "q": "Quelle est la position de Ben-Gvir sur les conditions de détention des prisonniers ?",
+     "a": "Il affirme que les conditions carcérales ne sont pas confortables et estime judicieux que les partisans du terrorisme les expérimentent."
+    },
+    {
+     "q": "Quels personnels le ministre soutient-il explicitement ?",
+     "a": "Itamar Ben-Gvir affirme soutenir à 100 % les agents du Service pénitentiaire israélien et les soldats de Tsahal."
+    }
+   ]
+  },
+  {
+   "score": 3,
+   "topic": "Israël · Jisr az-Zarqa",
+   "fait": "Un suspect a été arrêté par les forces de l'ordre dans la localité israélienne de Jisr az-Zarqa.",
+   "questions": [
+    {
+     "q": "Où l'arrestation a-t-elle eu lieu ?",
+     "a": "L'arrestation s'est déroulée dans la localité de Jisr az-Zarqa."
+    },
+    {
+     "q": "Pour quel motif l'individu a-t-il été interpellé ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    },
+    {
+     "q": "Quelle est l'identité du suspect arrêté ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  }
  ]
 }
