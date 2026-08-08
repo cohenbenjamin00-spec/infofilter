@@ -12238,5 +12238,121 @@
     }
    ]
   }
+ ],
+ "2026-08-08": [
+  {
+   "score": 8,
+   "topic": "Israël · Liban",
+   "fait": "Plusieurs cibles terroristes du Hezbollah ont été frappées dans le sud du Liban au cours du Shabbat.",
+   "questions": [
+    {
+     "q": "Quelles localités ont été visées par ces frappes au sud du Liban ?",
+     "a": "Les frappes ont visé Al-Mansouri, Tallousa, la crête d'Ali Taher ainsi que le secteur situé entre A-Tiri et Kounine."
+    },
+    {
+     "q": "Qui a été ciblé lors de ces opérations ?",
+     "a": "Plusieurs cibles terroristes appartenant au Hezbollah ont été visées."
+    },
+    {
+     "q": "Y a-t-il des victimes signalées suite à ces frappes ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 8,
+   "topic": "Arabie saoudite · Iran",
+   "fait": "L'Arabie saoudite a condamné l'attaque d'un pétrolier émirati dans le détroit d'Ormuz et en a tenu l'Iran pour responsable.",
+   "questions": [
+    {
+     "q": "Quel navire a fait l'objet d'une attaque dans le détroit d'Ormuz ?",
+     "a": "Un pétrolier émirati a été attaqué lors de son passage dans le détroit d'Ormuz."
+    },
+    {
+     "q": "Quelle est la position du ministère saoudien des Affaires étrangères ?",
+     "a": "L'Arabie saoudite condamne fermement l'attaque et tient l'Iran pour responsable des conséquences de la poursuite de ces agressions."
+    },
+    {
+     "q": "Quels sont les dégâts subis par le pétrolier ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "États-Unis · Iran",
+   "fait": "Le vice-président américain JD Vance a déclaré que l'Iran s'était engagé à maintenir le transit de pétrole dans le détroit d'Ormuz.",
+   "questions": [
+    {
+     "q": "Quels engagements l'Iran a-t-il pris concernant le détroit d'Ormuz selon JD Vance ?",
+     "a": "Les Iraniens ont assuré que la quantité de gaz et de pétrole transitant par le détroit d'Ormuz serait identique à celle d'avant le conflit."
+    },
+    {
+     "q": "Quelle est la position du président iranien Massoud Pezeshkian sur les négociations ?",
+     "a": "Le président iranien estime que c'est le meilleur moment pour parvenir à un accord car l'Iran est fort, uni et perçu comme le vainqueur de la guerre."
+    },
+    {
+     "q": "Quelle est l'évaluation globale de la situation par le vice-président américain ?",
+     "a": "JD Vance a affirmé que les États-Unis sont toujours en plein milieu du jeu concernant la situation avec l'Iran."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Judée-Samarie · Sécurité",
+   "fait": "Les forces de sécurité ont arrêté un suspect à Ofarim après une poursuite véhiculaire et une procédure d'interpellation par tirs.",
+   "questions": [
+    {
+     "q": "Comment le suspect est-il entré dans la localité d'Ofarim ?",
+     "a": "Le suspect y est entré à bord d'un véhicule poursuivi par les forces de sécurité."
+    },
+    {
+     "q": "Comment l'arrestation s'est-elle déroulée sur place ?",
+     "a": "Le suspect est sorti du véhicule et un agent de sécurité a procédé à une interpellation incluant des tirs dans sa direction avant son arrestation."
+    },
+    {
+     "q": "Subsiste-t-il un risque sécuritaire après cet incident ?",
+     "a": "Non, l'incident est terminé et il n'y a plus aucun risque d'incident sécuritaire."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Pakistan · Israël",
+   "fait": "Le ministre pakistanais de la Défense a appelé le monde islamique à s'unir face à la menace commune que représente Israël.",
+   "questions": [
+    {
+     "q": "Qui a lancé cet appel à l'union ?",
+     "a": "Le ministre pakistanais de la Défense, Khawaja Muhammad Asif."
+    },
+    {
+     "q": "Quel est l'objectif affiché de cette union ?",
+     "a": "Faire face à la menace commune que représente Israël selon le ministre."
+    },
+    {
+     "q": "Le Pakistan a-t-il annoncé des mesures concrètes ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 4,
+   "topic": "Iran · États-Unis",
+   "fait": "Les Gardiens de la Révolution ont affirmé que les États-Unis et Israël ont échoué à atteindre leurs objectifs de guerre contre l'Iran.",
+   "questions": [
+    {
+     "q": "Que déclarent les Gardiens de la Révolution sur la campagne militaire américaine et israélienne ?",
+     "a": "Ils affirment que les États-Unis et les entités israéliennes ont échoué à atteindre leurs objectifs de guerre contre l'Iran."
+    },
+    {
+     "q": "Comment les Gardiens de la Révolution expliquent-ils la perception de la défaite de Donald Trump dans les médias ?",
+     "a": "Ils attribuent cette reconnaissance par les médias étrangers à leurs propres efforts de communication pour contrer la diffusion des mensonges de l'ennemi."
+    },
+    {
+     "q": "Des chiffres ou des bilans matériels sont-ils fournis par les Gardiens de la Révolution ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  }
  ]
 }
