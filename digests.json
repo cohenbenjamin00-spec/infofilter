@@ -12354,5 +12354,330 @@
     }
    ]
   }
+ ],
+ "2026-08-09": [
+  {
+   "score": 9,
+   "topic": "Israël · Sécurité nationale",
+   "fait": "Benjamin Netanyahu a affirmé que Tsahal ne se retirera pas de Gaza sans un désarmement total du Hamas et a rejeté la création d'un État palestinien.",
+   "questions": [
+    {
+     "q": "Quelle est la position d'Israël sur le retrait de la bande de Gaza ?",
+     "a": "Tsahal n'effectuera aucun retrait de Gaza tant que le Hamas ne sera pas réellement et totalement désarmé."
+    },
+    {
+     "q": "Pourquoi l'Iran n'a-t-il pas attaqué Israël selon Benjamin Netanyahu ?",
+     "a": "Selon le Premier ministre, l'Iran s'abstient d'attaquer Israël car il sait quelle frappe extrêmement puissante lui serait infligée en réponse."
+    },
+    {
+     "q": "Quelle est la position du Premier ministre sur la création d'un État palestinien ?",
+     "a": "Benjamin Netanyahu affirme qu'aucun État palestinien ne verra le jour, ni à Gaza ni en Judée-Samarie."
+    }
+   ]
+  },
+  {
+   "score": 8,
+   "topic": "États-Unis · Défense",
+   "fait": "Le Pentagone a donné 21 jours aux industriels américains de la défense pour accélérer la production d'armements face à l'épuisement des stocks d'intercepteurs.",
+   "questions": [
+    {
+     "q": "Quel délai a été accordé aux industriels de la défense américains ?",
+     "a": "Le secrétaire adjoint à la Défense a donné 21 jours aux industriels pour présenter des plans visant à augmenter fortement les cadences de production."
+    },
+    {
+     "q": "Quels équipements sont particulièrement concernés par la pénurie de stocks ?",
+     "a": "La situation est particulièrement préoccupante concernant les stocks mondiaux d'intercepteurs Patriot et THAAD après des milliers de tirs."
+    },
+    {
+     "q": "Comment ces futurs contrats doivent-ils être financés ?",
+     "a": "Des contrats de dizaines de milliards de dollars sont envisagés, mais leur financement demeure actuellement bloqué au Congrès."
+    }
+   ]
+  },
+  {
+   "score": 8,
+   "topic": "Gaza · Cessez-le-feu",
+   "fait": "Le Hamas s'est dit prêt à appliquer la deuxième phase du cessez-le-feu à Gaza et la feuille de route en 15 points.",
+   "questions": [
+    {
+     "q": "Que propose officiellement le Hamas concernant la trêve ?",
+     "a": "Le Hamas affirme être engagé à respecter les accords de la deuxième phase du cessez-le-feu et prêt à établir un calendrier pour la feuille de route en 15 points."
+    },
+    {
+     "q": "Que demande l'organisation aux acteurs internationaux ?",
+     "a": "Le Hamas appelle les médiateurs et le Conseil de la paix à superviser la mise en œuvre des accords et à empêcher toute violation."
+    },
+    {
+     "q": "Quelle est la position exprimée par Israël sur ce document en 15 points ?",
+     "a": "Le Premier ministre Benjamin Netanyahu a déclaré qu'Israël rejette le document en 15 points."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Israël · Santé · Tsahal",
+   "fait": "Israël Katz et Itamar Ben Gvir ont exigé une enquête approfondie suite à des accusations de maltraitance envers des soldats blessés à l'hôpital Rambam.",
+   "questions": [
+    {
+     "q": "Qui a ordonné l'ouverture d'une enquête sur l'hôpital Rambam ?",
+     "a": "Le ministre de la Défense Israël Katz a ordonné à Tsahal d'examiner immédiatement et de manière approfondie toutes les allégations."
+    },
+    {
+     "q": "Quels sont les griefs portés par les familles de soldats blessés ?",
+     "a": "Elles accusent du personnel de l'hôpital de mauvais traitements, d'humiliations et de harcèlement envers des soldats blessés et leurs proches."
+    },
+    {
+     "q": "Quelle a été la réponse de l'hôpital Rambam ?",
+     "a": "L'hôpital a affirmé fournir des soins professionnels de qualité à tous les soldats et a précisé que chaque allégation faisait l'objet d'une étude."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Yémen · Houthis",
+   "fait": "Les Houthis ont revendiqué des attaques contre des installations d'Aramco en Arabie saoudite et la coalition saoudienne dans le port d'Al-Mokha.",
+   "questions": [
+    {
+     "q": "Quelles installations ont été ciblées en Arabie saoudite ?",
+     "a": "Les Houthis ont annoncé avoir attaqué des installations de la compagnie pétrolière Aramco."
+    },
+    {
+     "q": "Quelle zone a été visée par les Houthis au Yémen ?",
+     "a": "Les Houthis ont attaqué les forces de la coalition dirigée par l'Arabie saoudite dans le port d'Al-Mokha, situé sur la côte de la mer Rouge."
+    },
+    {
+     "q": "Des victimes ont-elles été rapportées lors de ces attaques ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Gaza · Tsahal",
+   "fait": "Tsahal et le Shin Bet ont détruit cinq entrepôts d'armes du Hamas dans la bande de Gaza, dont un situé près d'un hôpital.",
+   "questions": [
+    {
+     "q": "Quel matériel militaire a été trouvé dans les entrepôts du Hamas ?",
+     "a": "Les entrepôts contenaient des fusils Kalachnikov, des engins explosifs, des lance-missiles antichars, des munitions et d'autres équipements."
+    },
+    {
+     "q": "Près de quelle infrastructure médicale un entrepôt était-il implanté ?",
+     "a": "L'un des entrepôts détruits était situé à proximité de l'hôpital des Martyrs d'Al-Aqsa à Deir al-Balah."
+    },
+    {
+     "q": "À quoi servait l'entrepôt situé près de l'hôpital selon Tsahal ?",
+     "a": "Selon Tsahal, l'emplacement servait de refuge à des terroristes du Hamas tout en abritant des armes."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Liban · Tsahal",
+   "fait": "Tsahal a détruit un puits souterrain de stockage d'armes du Hezbollah au Sud-Liban et plusieurs bâtiments dans le village de Zawtar al-Charqiyah.",
+   "questions": [
+    {
+     "q": "Quelles unités de Tsahal ont opéré dans la zone de sécurité au Sud-Liban ?",
+     "a": "Les opérations ont été menées par les forces de la 55e brigade, l'unité Yahalom et la 91e division."
+    },
+    {
+     "q": "Quels types d'armes ont été découverts dans le secteur souterrain du Hezbollah ?",
+     "a": "Les forces ont saisi des fusils Kalachnikov, des missiles antichars, des armes d'artillerie et des roquettes RPG."
+    },
+    {
+     "q": "Que se passe-t-il dans le village de Zawtar al-Charqiyah ?",
+     "a": "Des médias libanais rapportent que les forces de Tsahal y détruisent des bâtiments à l'aide d'engins de chantier."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Iran · États-Unis",
+   "fait": "Le ministre iranien des Affaires étrangères a affirmé refuser toute négociation avec les États-Unis tant que les violations de l'accord temporaire se poursuivent.",
+   "questions": [
+    {
+     "q": "Y a-t-il des contacts directs entre Téhéran et Washington ?",
+     "a": "Le ministre iranien affirme qu'il n'y a aucun dialogue direct, mais des échanges de messages par le biais d'intermédiaires."
+    },
+    {
+     "q": "À quelle condition l'Iran acceptera-t-il d'ouvrir des négociations ?",
+     "a": "L'Iran exige la fin des violations de l'accord temporaire pour envisager des négociations."
+    },
+    {
+     "q": "Quelle décision Donald Trump envisagerait-il selon le Wall Street Journal ?",
+     "a": "Donald Trump envisagerait de déclarer une victoire dans la guerre contre l'Iran, même en l'absence d'un accord nucléaire."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Turquie · Ukraine · Armement",
+   "fait": "Selon des documents transmis au Congrès américain, la Turquie prévoit de vendre d'importantes quantités d'armes américaines de longue portée à l'Ukraine.",
+   "questions": [
+    {
+     "q": "Quels types d'équipements militaires la Turquie prépare-t-elle à livrer ?",
+     "a": "La Turquie se prépare à vendre une quantité importante d'armes américaines de longue portée et des munitions d'artillerie."
+    },
+    {
+     "q": "Quelle est la source de cette information ?",
+     "a": "L'information provient de documents officiels présentés au Congrès américain."
+    },
+    {
+     "q": "Quelle a été la réaction du gouvernement américain à ce projet ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Syrie · Liban",
+   "fait": "Les autorités syriennes ont annoncé avoir déjoué une tentative de contrebande d'armes et de munitions destinées au Liban.",
+   "questions": [
+    {
+     "q": "Vers quelle destination les armes devaient-elles être acheminées ?",
+     "a": "Les armes et les munitions devaient être introduites en contrebande vers le Liban."
+    },
+    {
+     "q": "Qui est à l'origine de l'interception de ce chargement ?",
+     "a": "Les forces syriennes ont déjoué la tentative de contrebande."
+    },
+    {
+     "q": "Quelles quantités d'armes ont été saisies lors de cette opération ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Irak · Iran",
+   "fait": "Les forces de sécurité irakiennes ont arrêté trois individus liés à l'Iran qui planifiaient des attaques à l'étranger.",
+   "questions": [
+    {
+     "q": "Combien de personnes ont été arrêtées par la sécurité irakienne ?",
+     "a": "Trois personnes ont été arrêtées lors de cette opération de sécurité en Irak."
+    },
+    {
+     "q": "Quels étaient les liens et les intentions des suspects ?",
+     "a": "Ils étaient en contact direct avec des éléments iraniens et avaient l'intention de mener des attaques à l'étranger."
+    },
+    {
+     "q": "Dans quels pays ces attaques devaient-elles se dérouler ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Israël · Grèce",
+   "fait": "Le ministère israélien des Affaires étrangères a mis en garde ses ressortissants en Grèce face à des manifestations prévues le 9 août.",
+   "questions": [
+    {
+     "q": "Quelles localités sont ciblées par la mise en garde diplomatique ?",
+     "a": "L'avertissement concerne notamment Athènes, Thessalonique et plusieurs zones touristiques en Grèce."
+    },
+    {
+     "q": "Quelles consignes de sécurité sont données aux Israéliens sur place ?",
+     "a": "Il leur est demandé de s'éloigner des manifestations, d'éviter tout contact avec les manifestants et de ne pas exhiber de symboles juifs ou israéliens."
+    },
+    {
+     "q": "Pour quelle raison ces consignes ont-elles été émises ?",
+     "a": "Des manifestations et des arrestations sont planifiées le 9 août dans de nombreux endroits du pays."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Israël · Gaza",
+   "fait": "Le mouvement israélien Tzav 9 a dénoncé le passage continu de camions d'aide humanitaire vers Gaza par le carrefour de Kfar Aza.",
+   "questions": [
+    {
+     "q": "Pourquoi le carrefour de Kfar Aza est-il mis en avant par Tzav 9 ?",
+     "a": "C'est l'un des secteurs frappés par le Hamas lors des massacres du 7 octobre."
+    },
+    {
+     "q": "À combien Tzav 9 chiffre-t-il la valeur de l'aide profitant au Hamas ?",
+     "a": "Selon le mouvement, cette aide profiterait au Hamas à hauteur de 300 millions de shekels par semaine."
+    },
+    {
+     "q": "Que reproche le mouvement Tzav 9 aux autorités d'Israël ?",
+     "a": "Il accuse les autorités de fermer les yeux et de risquer de créer les conditions d'un nouveau désastre."
+    }
+   ]
+  },
+  {
+   "score": 4,
+   "topic": "Israël · Faits divers",
+   "fait": "Un enfant de cinq ans est décédé après avoir été oublié dans une voiture fermée à Lod.",
+   "questions": [
+    {
+     "q": "Dans quelle ville le drame s'est-il déroulé ?",
+     "a": "L'événement est survenu à Lod."
+    },
+    {
+     "q": "Quel était l'état de santé de l'enfant lors de sa prise en charge ?",
+     "a": "L'enfant a été retrouvé dans un état critique avant que son décès ne soit prononcé malgré les soins."
+    },
+    {
+     "q": "Quel était l'âge de la jeune victime ?",
+     "a": "Il s'agissait d'un enfant âgé de cinq ans."
+    }
+   ]
+  },
+  {
+   "score": 4,
+   "topic": "Israël · Faits divers",
+   "fait": "Un garçon de onze ans est mort noyé dans le fleuve Jourdain après le chavirage de son bateau près de Yisod Ha'Mele.",
+   "questions": [
+    {
+     "q": "Où le corps de la victime a-t-il été retrouvé ?",
+     "a": "Il a été repêché dans le fleuve Jourdain, à proximité de la localité de Yisod Ha'Mele."
+    },
+    {
+     "q": "Comment l'accident s'est-il produit ?",
+     "a": "Le garçon est tombé dans le fleuve après le chavirage du bateau sur lequel il se trouvait."
+    },
+    {
+     "q": "Qui a mené les opérations de recherche dans le fleuve ?",
+     "a": "Les secours, les pompiers et l'unité de sauvetage spécialisée de la région du Nord ont participé aux recherches."
+    }
+   ]
+  },
+  {
+   "score": 4,
+   "topic": "Mexique · Israël",
+   "fait": "Un enfant israélien de quatre ans s'est noyé dans la piscine d'un hôtel à San José del Cabo au Mexique.",
+   "questions": [
+    {
+     "q": "Qui est la victime de la noyade survenue au Mexique ?",
+     "a": "La victime est Shalom Seginer, un enfant israélien de 4 ans et petit-fils du rabbin Shalom Arush."
+    },
+    {
+     "q": "Où l'accident s'est-il produit exactement ?",
+     "a": "Le drame est survenu dans la piscine d'un hôtel à San José del Cabo, au Mexique."
+    },
+    {
+     "q": "Quelles organisations interviennent pour aider la famille éprouvée ?",
+     "a": "L'organisation ZAKA et l'ambassade d'Israël au Mexique accompagnent la famille pour rapatrier le corps en Israël."
+    }
+   ]
+  },
+  {
+   "score": 3,
+   "topic": "Israël · Secours",
+   "fait": "Un adolescent de seize ans a été grièvement blessé lors d'une chute en rappel près de la grotte de Keshet dans le nord d'Israël.",
+   "questions": [
+    {
+     "q": "Où l'accident de rappel a-t-il eu lieu ?",
+     "a": "L'incident s'est produit dans la zone de la grotte de Keshet, près d'Adamit, dans le nord d'Israël."
+    },
+    {
+     "q": "Quel moyen de transport a été engagé pour l'évacuation ?",
+     "a": "Un hélicoptère de secours a été dépêché sur place en raison de la difficulté d'accès au terrain."
+    },
+    {
+     "q": "Quel est l'état de l'adolescent blessé ?",
+     "a": "L'adolescent de 16 ans a été grièvement blessé et se trouvait inconscient selon les premières informations."
+    }
+   ]
+  }
  ]
 }
