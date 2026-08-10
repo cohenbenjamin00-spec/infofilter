@@ -12679,5 +12679,273 @@
     }
    ]
   }
+ ],
+ "2026-08-10": [
+  {
+   "score": 9,
+   "topic": "Iran · Remaniement militaire",
+   "fait": "Le guide suprême iranien Mojtaba Khamenei a procédé à de nouvelles nominations stratégiques au sommet de l'armée et des Gardiens de la Révolution.",
+   "questions": [
+    {
+     "q": "Qui a été nommé à la tête du Conseil suprême de sécurité nationale ?",
+     "a": "Mohsen Rezai a été nommé secrétaire du Conseil suprême de sécurité nationale en remplacement de Mohammad Baqer Zadeh."
+    },
+    {
+     "q": "Qui est le nouveau commandant des Gardiens de la Révolution ?",
+     "a": "Ahmad Vahidi a été nommé commandant des Gardiens de la Révolution."
+    },
+    {
+     "q": "Qui a officiellement annoncé ces nominations au sommet du régime ?",
+     "a": "Ces nominations ont été annoncées par le guide suprême iranien, Mojtaba Khamenei."
+    }
+   ]
+  },
+  {
+   "score": 8,
+   "topic": "États-Unis · Iran",
+   "fait": "Donald Trump a annoncé que les États-Unis exigeraient des compensations de l'Iran pour les victimes américaines et de la répression du régime.",
+   "questions": [
+    {
+     "q": "Pourquoi Donald Trump exige-t-il des compensations à l'Iran ?",
+     "a": "Il réclame des compensations pour les Américains tués ou blessés lors d'attaques attribuées à l'Iran, ainsi que pour les victimes de la répression du régime."
+    },
+    {
+     "q": "Combien de victimes de la répression ont été mentionnées par Donald Trump ?",
+     "a": "Donald Trump affirme que 52 000 personnes auraient été tuées en Iran au cours des cinq derniers mois."
+    },
+    {
+     "q": "Quelles instructions ont été données aux négociateurs américains ?",
+     "a": "Donald Trump a ordonné à ses représentants d'intégrer fermement cette demande de compensation dans toutes les futures négociations avec l'Iran."
+    }
+   ]
+  },
+  {
+   "score": 8,
+   "topic": "Iran · Détroit d'Ormuz",
+   "fait": "Les autorités iraniennes ont affirmé qu'aucune pression militaire ou politique américaine n'imposerait la réouverture du détroit d'Ormuz.",
+   "questions": [
+    {
+     "q": "Quelle est la position officielle de l'Iran sur la gestion du détroit d'Ormuz ?",
+     "a": "Selon la télévision iranienne, la gestion et le contrôle du détroit d'Ormuz restent exclusivement entre les mains de l'Iran."
+    },
+    {
+     "q": "Comment l'Iran réagira-t-il face aux navires tentant de passer sans son accord ?",
+     "a": "Tout acteur tentant de contourner le contrôle iranien sera considéré comme une cible légitime."
+    },
+    {
+     "q": "Qu'a déclaré le vice-président du Parlement iranien à ce sujet ?",
+     "a": "Ali Nikzad a affirmé qu'il n'existe aucune solution militaire pour rouvrir le détroit et que l'ennemi devra accepter le nouvel ordre régional."
+    }
+   ]
+  },
+  {
+   "score": 8,
+   "topic": "Israël · Tsahal",
+   "fait": "Le chef d'état-major de Tsahal a affirmé qu'Israël se trouvait à un carrefour stratégique grâce aux succès militaires récents.",
+   "questions": [
+    {
+     "q": "Pourquoi l'armée israélienne estime-t-elle se trouver à un carrefour stratégique ?",
+     "a": "Des processus de négociations politiques sont actuellement en cours sur l'ensemble des principaux fronts grâce aux succès de Tsahal."
+    },
+    {
+     "q": "Quelles directives ont été données aux forces armées ?",
+     "a": "Le chef d'état-major a demandé de maintenir une vigilance élevée et la capacité de reprendre rapidement des combats de haute intensité."
+    },
+    {
+     "q": "Quel responsable militaire étranger participait à cette réunion ?",
+     "a": "L'amiral Brad Cooper, commandant du CENTCOM américain, assistait au forum opérationnel."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Colombie · Séisme",
+   "fait": "Un violent séisme de magnitude 7,4 a secoué la Colombie, provoquant la mort d'au moins vingt personnes.",
+   "questions": [
+    {
+     "q": "Quel est le bilan humain provisoire de ce séisme ?",
+     "a": "Au moins 20 personnes ont été tuées, dont 18 dans la ville de Pereira et 2 à Manizales."
+    },
+    {
+     "q": "Quelle était la magnitude du tremblement de terre ?",
+     "a": "La terre a tremblé avec une magnitude mesurée à 7,4."
+    },
+    {
+     "q": "Des secours sont-ils toujours en cours d'intervention ?",
+     "a": "Oui, les opérations de secours se poursuivent car des personnes restent coincées sous des bâtiments effondrés."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Liban · Hezbollah",
+   "fait": "Le Hezbollah subit sa plus grave crise financière depuis des années en raison des frappes ciblant ses avoirs et des restrictions bancaires.",
+   "questions": [
+    {
+     "q": "Quelles cibles économiques du Hezbollah ont été visées par Israël ?",
+     "a": "Israël a ciblé des banques, des bureaux de change ainsi que des stations-service contrôlés par l'organisation."
+    },
+    {
+     "q": "Quelles sont les répercussions directes sur les prestations du Hezbollah ?",
+     "a": "Les indemnisations destinées aux familles dont les logements ont été détruits ont été suspendues et les services sociaux ont été réduits."
+    },
+    {
+     "q": "L'aide financière iranienne permet-elle de combler ces pertes ?",
+     "a": "Non, l'aide iranienne s'élevant à des centaines de millions de dollars par an ne suffit plus à couvrir l'ensemble des dépenses de guerre."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "États-Unis · Israël",
+   "fait": "La Maison-Blanche n'a pas exprimé d'inquiétude après le rejet par Benyamin Netanyahou du plan américain pour la bande de Gaza.",
+   "questions": [
+    {
+     "q": "Comment Washington interprète-t-il la position de Benyamin Netanyahou ?",
+     "a": "La Maison-Blanche considère ce rejet comme une simple manœuvre dictée par des besoins de politique électorale interne."
+    },
+    {
+     "q": "Quelle est l'exigence principale des États-Unis vis-à-vis d'Israël ?",
+     "a": "Un responsable américain a indiqué que Washington demande au Premier ministre israélien de maintenir une réaction militaire limitée."
+    },
+    {
+     "q": "Quel média a révélé ces informations diplomatiques ?",
+     "a": "Ces déclarations ont été révélées par le média américain Axios."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Bande de Gaza · Économie",
+   "fait": "Tsahal a mis en garde la population gazaouie contre l'expiration imminente de certains anciens billets de shekels émis par Israël.",
+   "questions": [
+    {
+     "q": "Quels billets de banque sont concernés par cette perte de valeur à venir ?",
+     "a": "Il s'agit des anciens billets de la série B émis par la Banque d'Israël."
+    },
+    {
+     "q": "De quoi l'armée israélienne accuse-t-elle la direction du Hamas ?",
+     "a": "Tsahal accuse les dirigeants du Hamas d'écouler les anciens billets auprès des habitants et des combattants tout en conservant la nouvelle série pour eux-mêmes."
+    },
+    {
+     "q": "Quelle conduite Tsahal recommande-t-elle aux habitants de Gaza ?",
+     "a": "Elle conseille aux civils de ne plus accepter ni effectuer de paiements avec ces anciens billets pour éviter des pertes financières."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Bande de Gaza · Tsahal",
+   "fait": "Les forces de Tsahal opèrent à deux kilomètres de Gaza City pour détruire les tunnels et contrer les activités du Hamas.",
+   "questions": [
+    {
+     "q": "Que cherche à accomplir le Hamas dans le secteur de la ligne jaune ?",
+     "a": "Selon le commandant du 202e bataillon, le Hamas tente de recruter de nouveaux membres et de fabriquer des explosifs avec des munitions d'aviation non explosées."
+    },
+    {
+     "q": "Quelles actions l'armée israélienne mène-t-elle quotidiennement sur le terrain ?",
+     "a": "Tsahal procède à la destruction systématique des infrastructures et effectue des forages quotidiens pour repérer des tunnels."
+    },
+    {
+     "q": "À quelle distance de la ville de Gaza les troupes sont-elles positionnées ?",
+     "a": "Les forces israéliennes se trouvent à environ deux kilomètres de la ville de Gaza."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Israël · Liban",
+   "fait": "Israël a proposé de libérer des prisonniers au Liban en échange du rapatriement de dépouilles juives enterrées à Beyrouth et Sidon.",
+   "questions": [
+    {
+     "q": "Que réclame Israël dans cette proposition transmise au Liban ?",
+     "a": "Israël réclame la restitution des restes de personnes juives enterrées dans les villes de Beyrouth et de Sidon."
+    },
+    {
+     "q": "Quelle est la contrepartie proposée par la partie israélienne ?",
+     "a": "Israël a proposé de libérer un certain nombre de prisonniers libanais."
+    },
+    {
+     "q": "Cette proposition a-t-elle été acceptée par le gouvernement libanais ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Émirats arabes unis · Iran",
+   "fait": "Les Émirats arabes unis ont annoncé avoir contrecarré une cyberattaque d'origine iranienne visant plusieurs de leurs secteurs stratégiques.",
+   "questions": [
+    {
+     "q": "Quels secteurs émiratis ont été ciblés par la cyberattaque ?",
+     "a": "Les cyberattaquants ont visé les infrastructures de l'aviation, de l'énergie et de l'éducation."
+    },
+    {
+     "q": "À qui la responsabilité de cette attaque informatique est-elle attribuée ?",
+     "a": "Les autorités émiraties attribuent l'origine de l'attaque à des pirates informatiques iraniens."
+    },
+    {
+     "q": "L'attaque a-t-elle causé des dommages aux systèmes émiratis ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Moyen-Orient · Diplomatie",
+   "fait": "Un pays régional aurait conseillé à un partenaire de conclure fictivement un accord avec Israël dans le but de le violer ultérieurement.",
+   "questions": [
+    {
+     "q": "Quel était l'objectif recherché à travers la signature de cet accord ?",
+     "a": "L'objectif conseillé était d'endormir la vigilance d'Israël pour gagner du temps et achever des préparatifs militaires en vue d'un conflit plus large."
+    },
+    {
+     "q": "Pourquoi les noms des pays impliqués n'ont-ils pas été rendus publics ?",
+     "a": "L'identité des États concernés demeure confidentielle en raison de strictes restrictions imposées par la censure militaire."
+    },
+    {
+     "q": "Comment l'accord devait-il être rompu selon ces informations ?",
+     "a": "Les discussions prévoyaient de violer l'accord dès que l'avancement des préparatifs militaires serait suffisant."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Venezuela · Israël",
+   "fait": "Le grand rabbin du Venezuela a remis une lettre officielle sollicitant le rétablissement de relations diplomatiques avec l'État d'Israël.",
+   "questions": [
+    {
+     "q": "À quelle autorité vénézuélienne la demande était-elle adressée ?",
+     "a": "La lettre a été transmise à l'attention de la présidente vénézuélienne Delcy Rodríguez."
+    },
+    {
+     "q": "Qui s'est chargé d'acheminer ce courrier officiel ?",
+     "a": "Le grand rabbin Yitzhak Cohen l'a transmis par l'intermédiaire du ministre vénézuélien des Affaires étrangères, Félix González."
+    },
+    {
+     "q": "Quel autre sujet a été abordé durant la rencontre entre le rabbin et le ministre ?",
+     "a": "Le ministre vénézuélien a remercié Israël pour l'assistance fournie lors du récent séisme ayant frappé le Venezuela."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Autorité palestinienne · Turquie",
+   "fait": "Le président palestinien Mahmoud Abbas s'est rendu à Ankara pour une visite officielle de deux jours auprès de Recep Tayyip Erdogan.",
+   "questions": [
+    {
+     "q": "À quand remontait la dernière visite de Mahmoud Abbas en Turquie ?",
+     "a": "Il s'agit de sa première visite en Turquie depuis deux ans."
+    },
+    {
+     "q": "Quel âge a le président de l'Autorité palestinienne ?",
+     "a": "Mahmoud Abbas est actuellement âgé de 90 ans."
+    },
+    {
+     "q": "Combien de temps doit durer ce séjour diplomatique à Ankara ?",
+     "a": "La visite officielle auprès du président Erdogan est prévue pour une durée de deux jours."
+    }
+   ]
+  }
  ]
 }
