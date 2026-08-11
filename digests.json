@@ -12947,5 +12947,254 @@
     }
    ]
   }
+ ],
+ "2026-08-11": [
+  {
+   "score": 8,
+   "topic": "Liban · Peine de mort",
+   "fait": "Le Parlement libanais a officiellement aboli la peine de mort, la remplaçant par la réclusion à perpétuité assortie de travaux forcés.",
+   "questions": [
+    {
+     "q": "Quelle peine remplace la peine de mort au Liban ?",
+     "a": "La peine de mort est remplacée par la réclusion à perpétuité assortie de travaux forcés aggravés."
+    },
+    {
+     "q": "Quand la dernière exécution a-t-elle eu lieu au Liban ?",
+     "a": "Le Liban n'avait procédé à aucune exécution depuis 2004."
+    },
+    {
+     "q": "Quelle est la particularité de cette décision au niveau régional ?",
+     "a": "Cette décision fait du Liban le premier pays du monde arabe à abolir officiellement la peine capitale."
+    }
+   ]
+  },
+  {
+   "score": 8,
+   "topic": "Bab-el-Mandeb · Houthis",
+   "fait": "Les Houthis ont revendiqué l'attaque d'un navire commercial saoudien dans le détroit de Bab-el-Mandeb, tuant trois membres d'équipage.",
+   "questions": [
+    {
+     "q": "Où l'attaque a-t-elle eu lieu ?",
+     "a": "L'attaque s'est déroulée dans le détroit de Bab-el-Mandeb."
+    },
+    {
+     "q": "Quel est le bilan humain de cette attaque ?",
+     "a": "Trois membres d'équipage ont été tués, dont deux citoyens pakistanais."
+    },
+    {
+     "q": "Qui a revendiqué l'attaque ?",
+     "a": "L'attaque a été revendiquée par les Houthis."
+    }
+   ]
+  },
+  {
+   "score": 8,
+   "topic": "Syrie · Bachar al-Assad",
+   "fait": "L'ancien président syrien Bachar al-Assad a été condamné à la peine de mort par contumace lors d'un procès en Syrie.",
+   "questions": [
+    {
+     "q": "Où réside actuellement Bachar al-Assad ?",
+     "a": "Bachar al-Assad réside à Moscou, en Russie, sous la protection de Vladimir Poutine depuis sa fuite fin 2024."
+    },
+    {
+     "q": "Bachar al-Assad était-il présent à son procès ?",
+     "a": "Non, le procès s'est déroulé en son absence."
+    },
+    {
+     "q": "Quelle peine a été prononcée contre lui ?",
+     "a": "La peine de mort a été prononcée à son encontre."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Syrie · Armée de l'air",
+   "fait": "Le système de défense israélien a constaté une accélération de la reconstruction de l'armée de l'air syrienne sous le régime du président Joulani.",
+   "questions": [
+    {
+     "q": "Quels exercices ont été observés en Syrie ?",
+     "a": "Il a été identifié la conduite d'entraînements avec des avions-écoles et hélicoptères, ainsi qu'un exercice avec des avions de combat Sukhoï dans le nord du pays."
+    },
+    {
+     "q": "Quels pays soutiennent le régime syrien actuel ?",
+     "a": "Les Syriens bénéficient du soutien de la Turquie, de l'Arabie saoudite, de la Russie, de la France ainsi que d'autres pays de la région."
+    },
+    {
+     "q": "Qui dirige le régime syrien mentionné ?",
+     "a": "Le régime est dirigé par le président Joulani."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Bande de Gaza · Hamas",
+   "fait": "Tsahal a éliminé un sniper du Hamas au nord de Gaza alors qu'Israël s'abstient de frappes globales depuis dix jours.",
+   "questions": [
+    {
+     "q": "Où le sniper du Hamas a-t-il été neutralisé ?",
+     "a": "Il a été identifié et neutralisé à proximité de la zone de la « ligne jaune » dans le nord de la bande de Gaza."
+    },
+    {
+     "q": "Quelle est la situation des frappes israéliennes dans la bande de Gaza ?",
+     "a": "Israël ne mène plus de frappes globales depuis dix jours, s'abstenant de reprendre les attaques."
+    },
+    {
+     "q": "Quelle attitude adopte le Hamas pendant cette période ?",
+     "a": "Le Hamas profite de cette période pour se réarmer et consolider ses positions au lieu de commencer son désarmement."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Arabie saoudite · Israël",
+   "fait": "Un responsable saoudien a déclaré que tout accord de paix avec Israël devrait inclure un engagement mutuel de défense contre l'Iran.",
+   "questions": [
+    {
+     "q": "Quelle condition pose l'Arabie saoudite à un accord de paix avec Israël ?",
+     "a": "L'accord doit être accompagné d'engagements en matière de défense mutuelle en cas d'attaque de l'Iran."
+    },
+    {
+     "q": "Quel rôle Israël devrait-il jouer selon le responsable saoudien en cas d'attaque iranienne ?",
+     "a": "Israël devra être prêt à soutenir l'Arabie saoudite si l'Iran l'attaque, et réciproquement."
+    },
+    {
+     "q": "L'Iran a-t-il réagi directement à cette déclaration ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "États-Unis · Iran",
+   "fait": "Des forces américaines ont tiré sur un navire sous pavillon panaméen qui tentait de forcer le blocus des ports iraniens.",
+   "questions": [
+    {
+     "q": "Sous quel pavillon naviguait le navire ciblé ?",
+     "a": "Le navire battait pavillon panaméen."
+    },
+    {
+     "q": "Pourquoi les forces américaines ont-elles ouvert le feu ?",
+     "a": "Le navire tentait de forcer le blocus des ports iraniens."
+    },
+    {
+     "q": "Quelle est la position de l'Iran sur le détroit d'Ormuz ?",
+     "a": "Le vice-commandant des Gardiens de la révolution a déclaré que le détroit d'Ormuz ne sera rouvert que lorsque l'Iran aura obtenu toutes ses exigences."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Cisjordanie · Anti-terrorisme",
+   "fait": "L'unité Douvdevan de Tsahal a arrêté six terroristes préparant un attentat lors d'une opération dans le camp de Balata à Naplouse.",
+   "questions": [
+    {
+     "q": "Quelle unité a mené l'opération à Naplouse ?",
+     "a": "L'opération nocturne a été menée par l'unité Douvdevan."
+    },
+    {
+     "q": "Combien de personnes ont été interpellées ?",
+     "a": "Six terroristes formant une cellule préparant un attentat ont été arrêtés."
+    },
+    {
+     "q": "Où l'attentat devait-il être perpétré ?",
+     "a": "La cellule préparait un attentat dans la région de Samarie."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Israël · Santé",
+   "fait": "Un patient revenant de République démocratique du Congo a été hospitalisé en Israël en raison d'une suspicion d'infection au virus Ebola.",
+   "questions": [
+    {
+     "q": "D'où revenait le patient suspecté d'être infecté ?",
+     "a": "Le patient est récemment revenu de la République Démocratique du Congo."
+    },
+    {
+     "q": "Quels symptômes a présentés le patient ?",
+     "a": "Le patient a consulté un médecin après avoir développé de la fièvre."
+    },
+    {
+     "q": "Le cas d'Ebola a-t-il été confirmé définitivement ?",
+     "a": "Il s'agit pour l'instant d'un rapport préliminaire du ministère de la Santé faisant état d'une suspicion."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Israël · Syrie",
+   "fait": "Trois civils israéliens ayant traversé la frontière syrienne au mont Hermon ont été récupérés par Tsahal et remis à la police.",
+   "questions": [
+    {
+     "q": "Où le franchissement de frontière s'est-il produit ?",
+     "a": "L'incident a eu lieu dans la région du mont Hermon."
+    },
+    {
+     "q": "Qu'est-il advenu des civils israéliens ?",
+     "a": "Ils ont été recherchés et ramenés par Tsahal, puis interpellés et remis à la police israélienne."
+    },
+    {
+     "q": "Quelle a été la réaction de Tsahal ?",
+     "a": "Tsahal a fermement condamné cet incident, le qualifiant de perturbation grave des opérations et de danger pour la sécurité de ses forces."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Cisjordanie · Sécurité",
+   "fait": "Tsahal a déclaré la zone de Qusra secteur militaire fermé après des prises de contrôle illégales de propriétés palestiniennes par des civils israéliens.",
+   "questions": [
+    {
+     "q": "Quels agissements ont provoqué la fermeture de la zone ?",
+     "a": "Des civils israéliens sont entrés dans des maisons et des terrains palestiniens dans les villages de Qusra et Jalud pour en prendre le contrôle."
+    },
+    {
+     "q": "Quel incident impliquant une ambulance s'est produit à Qusra ?",
+     "a": "Des civils israéliens ont tenté de profiter du passage coordonné d'une ambulance pour pénétrer dans le secteur militaire fermé."
+    },
+    {
+     "q": "Que risquent les militaires impliqués dans ces agissements ?",
+     "a": "S'il s'avère que des réservistes ou militaires d'active sont impliqués, ils feront l'objet de mesures disciplinaires."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "France · Attaque",
+   "fait": "Une attaque au couteau visant des policiers municipaux s'est produite à Toulouse en France.",
+   "questions": [
+    {
+     "q": "Qui était la cible de l'attaque à Toulouse ?",
+     "a": "L'attaque au couteau visait des policiers municipaux."
+    },
+    {
+     "q": "Y a-t-il des victimes ou des blessés signalés ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    },
+    {
+     "q": "L'assaillant a-t-il été arrêté ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 4,
+   "topic": "Israël · Environnement",
+   "fait": "Le ministère israélien de la Santé a déconseillé la baignade sur plusieurs plages de Haïfa en raison d'analyses microbiologiques anormales.",
+   "questions": [
+    {
+     "q": "Quelles plages sont concernées par l'avertissement ?",
+     "a": "L'avertissement concerne les plages de Haïfa, de Carmel et la plage des étudiants."
+    },
+    {
+     "q": "Quelle est la cause de cet avertissement ?",
+     "a": "Des résultats microbiologiques anormaux ont été obtenus lors de contrôles de la qualité de l'eau de mer."
+    },
+    {
+     "q": "Combien de temps l'interdiction va-t-elle durer ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  }
  ]
 }
