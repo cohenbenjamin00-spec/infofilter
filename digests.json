@@ -13196,5 +13196,330 @@
     }
    ]
   }
+ ],
+ "2026-08-12": [
+  {
+   "score": 9,
+   "topic": "Israël · Liban",
+   "fait": "Israël et le Liban ont conclu un accord prévoyant le déploiement potentiel de forces internationales pour désarmer le Hezbollah.",
+   "questions": [
+    {
+     "q": "Quels pays pourraient déployer des forces armées au Liban ?",
+     "a": "Le Royaume-Uni, l'Italie, la Suisse et l'Indonésie font partie des pays qui pourraient déployer leurs forces armées au Liban."
+    },
+    {
+     "q": "Quel est le but affiché pour le déploiement de ces forces internationales ?",
+     "a": "Ces forces armées auraient pour mission de s'assurer du désarmement du Hezbollah."
+    },
+    {
+     "q": "Quelle est la date fixée pour l'entrée en vigueur de cet accord ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 9,
+   "topic": "Israël · Renseignements",
+   "fait": "La censure militaire autorise la révélation qu'un pays arabe préparait un faux accord de paix pour masquer une attaque surprise contre Israël.",
+   "questions": [
+    {
+     "q": "Quel était le stratagème conçu par ce pays arabe ?",
+     "a": "Le pays prévoyait d'endormir la vigilance d'Israël grâce aux négociations de paix pour préparer une guerre à grande échelle et lancer une attaque surprise."
+    },
+    {
+     "q": "S'agit-il de l'Arabie saoudite ?",
+     "a": "Non, des responsables de Tsahal ont explicitement précisé qu'il ne s'agissait pas de l'Arabie saoudite."
+    },
+    {
+     "q": "Quel est le nom de cet État arabe ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 8,
+   "topic": "États-Unis · Iran",
+   "fait": "Le protocole de cessez-le-feu entre l'Iran et les États-Unis expire dans quatre jours sans négociations de prolongation en cours.",
+   "questions": [
+    {
+     "q": "Dans combien de temps prend fin le cessez-le-feu entre l'Iran et les États-Unis ?",
+     "a": "Le cessez-le-feu doit prendre fin dans quatre jours selon le protocole d'accord."
+    },
+    {
+     "q": "Des discussions sont-elles prévues pour renouveler l'accord de cessez-le-feu ?",
+     "a": "Un responsable des Gardiens de la révolution a affirmé qu'il n'y avait actuellement aucune discussion concernant une prolongation."
+    },
+    {
+     "q": "Quelle est la position affichée par la Maison-Blanche vis-à-vis de l'Iran ?",
+     "a": "La Maison-Blanche a déclaré que l'Iran doit signer l'accord et qu'il sait ce qui lui arrivera s'il refuse."
+    }
+   ]
+  },
+  {
+   "score": 8,
+   "topic": "Israël · Liban",
+   "fait": "Le ministre israélien de la Défense a ordonné à l'armée de se préparer à une présence de longue durée dans le sud du Liban.",
+   "questions": [
+    {
+     "q": "Quelles sont les consignes données par le ministre Israël Katz à Tsahal ?",
+     "a": "Le ministre de la Défense a donné instruction de prendre toutes les mesures nécessaires pour préparer une présence de longue durée sur le terrain."
+    },
+    {
+     "q": "Dans quelles zones de sécurité Tsahal compte-t-elle maintenir sa présence ?",
+     "a": "Selon Israël Katz, Tsahal est là pour rester dans les zones de sécurité au Liban, en Syrie et à Gaza."
+    },
+    {
+     "q": "Quel est le bilan d'action de la brigade Golani dans le secteur du Beaufort ?",
+     "a": "Après environ 50 jours d'opérations, les combattants de la brigade Golani y ont détruit plus de 300 infrastructures terroristes ainsi que des dépôts d'armes du Hezbollah."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Judée-Samarie · Tsahal",
+   "fait": "Tsahal déploie un bataillon supplémentaire à Qusra après l'évacuation de civils israéliens ayant occupé un abri près d'une famille palestinienne.",
+   "questions": [
+    {
+     "q": "Pourquoi des forces supplémentaires sont-elles déployées à Qusra ?",
+     "a": "Le chef d'état-major a ordonné le déploiement d'un bataillon d'infanterie supplémentaire afin de renforcer le contrôle opérationnel et maintenir l'ordre après des récents incidents."
+    },
+    {
+     "q": "Qu'ont fait les forces de sécurité concernant l'abri installé près de la maison palestinienne ?",
+     "a": "Les forces de la Police des frontières ont évacué l'abri installé en zone militaire fermée ainsi que les civils israéliens qui l'occupaient."
+    },
+    {
+     "q": "Des mesures disciplinaires ont-elles été prises au sein de l'armée ?",
+     "a": "Oui, il a été décidé de prendre des mesures disciplinaires à l'encontre de l'unité militaire impliquée qui avait été filmée sur place quelques jours plus tôt."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Autriche · Israël",
+   "fait": "Deux Israéliennes ont disparu à Vienne, la police enquêtant sur un possible départ volontaire après la suppression de leur géolocalisation.",
+   "questions": [
+    {
+     "q": "Qui sont les deux personnes portées disparues ?",
+     "a": "Il s'agit de Mali Yahalomi, âgée de 50 ans, et de sa fille Liel Yahalomi, âgée de 23 ans."
+    },
+    {
+     "q": "Quels nouveaux éléments orientent les recherches de la police ?",
+     "a": "La police cherche à savoir si elles sont parties volontairement munies d'argent, constatant également que les dispositifs de géolocalisation de leurs téléphones ont été supprimés."
+    },
+    {
+     "q": "La piste criminelle est-elle privilégiée par les enquêteurs autrichiens ?",
+     "a": "Non, la police de Vienne indique qu'à ce stade aucun élément ne permet d'établir qu'un acte criminel est à l'origine de leur disparition."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Diplomatie · Golan",
+   "fait": "Plusieurs pays arabes ont condamné la décision de la Colombie de reconnaître la souveraineté israélienne sur le plateau du Golan.",
+   "questions": [
+    {
+     "q": "Quels pays ont émis une déclaration de condamnation ?",
+     "a": "L'Arabie saoudite, l'Égypte, le Qatar, la Jordanie, l'Irak, le Liban, le Koweït, le Yémen et la Libye ont tous publié une déclaration réprobatrice."
+    },
+    {
+     "q": "Quelle action précise de la Colombie a provoqué ces déclarations ?",
+     "a": "La décision du gouvernement colombien de reconnaître la souveraineté israélienne sur le plateau du Golan."
+    },
+    {
+     "q": "Quelle a été la réponse officielle d'Israël à cette condamnation ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Bande de Gaza · Tsahal",
+   "fait": "Une frappe aérienne de Tsahal a éliminé le chef d'une cellule du Hamas préparant des attaques dans le nord de Gaza.",
+   "questions": [
+    {
+     "q": "Quelle était la menace identifiée par Tsahal avant la frappe ?",
+     "a": "Le terroriste ciblé préparait la mise en œuvre d'attaques directes contre les forces de Tsahal opérant dans la bande de Gaza."
+    },
+    {
+     "q": "Quel moyen militaire a été utilisé pour mener cette opération ?",
+     "a": "L'opération et l'élimination de la menace ont été exécutées depuis les airs."
+    },
+    {
+     "q": "Quel est le nom du chef de cellule du Hamas éliminé ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Iran · Environnement",
+   "fait": "Une importante nappe de pétrole provenant de navires endommagés a été repérée près de l'île iranienne de Qeshm.",
+   "questions": [
+    {
+     "q": "Où la nappe de pétrole a-t-elle été localisée ?",
+     "a": "Elle a été repérée au large de l'île iranienne de Qeshm, dans la région du détroit d'Ormuz."
+    },
+    {
+     "q": "Quelle est l'origine probable de cette pollution marine ?",
+     "a": "Elle serait liée à des fuites de navires endommagés lors des récents incidents et attaques maritimes dans le détroit."
+    },
+    {
+     "q": "Quel est le volume exact de pétrole déversé dans la mer ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Iran · Défense",
+   "fait": "L'armée iranienne affirme que plus de 75 % de ses capacités en missiles et drones restent intactes et opérationnelles.",
+   "questions": [
+    {
+     "q": "Quelle proportion de l'arsenal d'attaque iranien serait toujours utilisable ?",
+     "a": "Selon le commandant adjoint de l'armée iranienne, plus de 75 % de leurs capacités en missiles et drones sont intactes."
+    },
+    {
+     "q": "Quelle source d'information a diffusé cette déclaration officielle ?",
+     "a": "La déclaration a été citée et diffusée par l'agence de presse officielle iranienne IRNA."
+    },
+    {
+     "q": "L'armée américaine a-t-elle confirmé cette estimation des réserves iraniennes ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Israël · Société",
+   "fait": "Des manifestants opposés à l'arrestation d'un déserteur ont bloqué la route de Geha en arborant des étoiles jaunes.",
+   "questions": [
+    {
+     "q": "Quel était le motif de cette manifestation sur la route de Geha ?",
+     "a": "Les personnes présentes manifestaient contre l'arrestation d'un déserteur."
+    },
+    {
+     "q": "Quels symboles controversés ont été observés lors de ce rassemblement ?",
+     "a": "Des manifestants ont porté des étoiles jaunes et exhibé des pancartes et des images faisant référence à la Shoah."
+    },
+    {
+     "q": "Y a-t-il eu des arrestations effectuées par la police durant le blocage ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Israël · Histoire",
+   "fait": "L'armée israélienne a identifié le lieu de sépulture de Shlomo Haimson, soldat tué en 1948 à Chypre.",
+   "questions": [
+    {
+     "q": "Dans quelles circonstances le soldat Shlomo Haimson est-il mort en 1948 ?",
+     "a": "Il a été tué par des tirs de gardes du camp de détention de Karaolos à Chypre alors qu'il tentait de s'évader."
+    },
+    {
+     "q": "Pourquoi sa tombe exacte est-elle restée inconnue pendant près de 78 ans ?",
+     "a": "Après un transfert depuis Chypre en 1970, la plupart des corps ont été inhumés au cimetière de Haïfa sous le statut de soldats inconnus."
+    },
+    {
+     "q": "Quels organismes ont permis la résolution de cette recherche ?",
+     "a": "L'identification est le fruit d'un travail conjoint entre la Division des victimes de Tsahal, le Rabbinat militaire, le ministère de la Défense et l'association des immigrants clandestins de Chypre."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Liban · Hezbollah",
+   "fait": "Le membre du Hezbollah Hussein Makdad, auteur d'une tentative d'attentat manquée à Jérusalem en 1996, est mort au Liban.",
+   "questions": [
+    {
+     "q": "Comment la tentative d'attentat de Hussein Makdad avait-elle échoué en 1996 ?",
+     "a": "La charge explosive dissimulée dans sa radio avait explosé accidentellement dans sa chambre d'hôtel à Jérusalem-Est, le blessant très grièvement."
+    },
+    {
+     "q": "Quand et comment avait-il quitté les prisons israéliennes ?",
+     "a": "Il avait été libéré et renvoyé au Liban en 1998 dans le cadre d'un échange contre le corps du combattant israélien Itamar Iliya."
+    },
+    {
+     "q": "Quelle était la cible déclarée de son attentat en 1996 ?",
+     "a": "Dans une interview, Hussein Makdad avait affirmé que sa cible était Shimon Peres."
+    }
+   ]
+  },
+  {
+   "score": 4,
+   "topic": "Pologne · Défense",
+   "fait": "Le Premier ministre polonais Donald Tusk a affirmé construire l'armée la plus moderne d'Europe.",
+   "questions": [
+    {
+     "q": "Quel objectif militaire a été formulé par Donald Tusk ?",
+     "a": "Le Premier ministre polonais souhaite bâtir l'armée la plus moderne d'Europe afin d'être en capacité de défendre ses frontières."
+    },
+    {
+     "q": "Quelle justification le dirigeant donne-t-il aux dépenses militaires de la Pologne ?",
+     "a": "Selon Donald Tusk, la défense des frontières vaut tout l'argent et tous les efforts consacrés à la modernisation de l'armée."
+    },
+    {
+     "q": "Quel est le montant précis du budget de défense polonais ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 4,
+   "topic": "Turquie · Accident",
+   "fait": "Un avion F-16 de l'armée turque s'est écrasé lors d'un entraînement, le pilote ayant réussi à s'éjecter.",
+   "questions": [
+    {
+     "q": "Dans quel contexte s'est produit le crash de l'appareil militaire ?",
+     "a": "L'avion de chasse F-16 s'est écrasé au cours d'un vol d'entraînement."
+    },
+    {
+     "q": "Qu'est-il arrivé au pilote pendant l'accident ?",
+     "a": "Le pilote a réussi à s'éjecter à temps et a survécu au crash."
+    },
+    {
+     "q": "Où l'accident d'avion s'est-il déroulé exactement ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 3,
+   "topic": "États-Unis · Sécurité",
+   "fait": "Donald Trump a confirmé avoir changé secrètement d'avion lors de son retour de Turquie pour des raisons de sécurité.",
+   "questions": [
+    {
+     "q": "Pourquoi Donald Trump a-t-il changé d'appareil lors de son vol ?",
+     "a": "Le changement d'avion a été opéré à la suite de recommandations directes formulées par le Secret Service et l'armée américaine."
+    },
+    {
+     "q": "Le déplacement s'inscrivait-il dans le cadre d'un vol régulier ?",
+     "a": "Il s'agissait de son vol retour en provenance de Turquie."
+    },
+    {
+     "q": "Une menace précise avait-elle été détectée à bord du premier avion ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 3,
+   "topic": "Liban · Tsahal",
+   "fait": "Tsahal a tiré la nuit dernière un missile intercepteur contre un tir provenant par erreur de ses propres forces au sud du Liban.",
+   "questions": [
+    {
+     "q": "Quelle était l'origine de la cible identifiée par le système d'interception ?",
+     "a": "Après vérification, la cible provenait d'un tir déclenché par erreur par les forces israéliennes elles-mêmes."
+    },
+    {
+     "q": "Y a-t-il eu des victimes à la suite de ce tir d'interception ?",
+     "a": "Le porte-parole de Tsahal a précisé qu'il n'y a eu aucun blessé lors de cet incident."
+    },
+    {
+     "q": "Pourquoi aucune alerte n'a-t-elle retenti lors de ce tir ?",
+     "a": "Aucune alerte n'a été déclenchée conformément à la politique de sécurité en vigueur."
+    }
+   ]
+  }
  ]
 }
