@@ -13521,5 +13521,178 @@
     }
    ]
   }
+ ],
+ "2026-08-13": [
+  {
+   "score": 8,
+   "topic": "Gaza · Éliminations",
+   "fait": "Tsahal et le Shin Bet ont éliminé Jamal Mahmoud Abu Kamil, commandant du Hamas participant du 7 octobre, à Gaza.",
+   "questions": [
+    {
+     "q": "Qui était Jamal Mahmoud Abu Kamil ?",
+     "a": "Il était un commandant du Hamas et responsable de la police du district de Gaza, ayant participé à l'invasion du 7 octobre."
+    },
+    {
+     "q": "Comment l'attaque a-t-elle été menée ?",
+     "a": "Il a été éliminé par une frappe aérienne contre son véhicule dans le quartier de Cheikh Ajline, au sud de la ville de Gaza."
+    },
+    {
+     "q": "D'autres frappes ont-elles visé des cadres du Hamas le même jour ?",
+     "a": "Oui, Tsahal a également frappé un commandant de compagnie du Hamas dans la région de Khan Younès."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "États-Unis · Liban",
+   "fait": "Washington a rappelé qu'une présence israélienne permanente au Sud-Liban n'est pas conforme aux accords de cessez-le-feu.",
+   "questions": [
+    {
+     "q": "À quelles déclarations les États-Unis réagissaient-ils ?",
+     "a": "Aux propos du ministre israélien de la Défense, Israël Katz, qui avait affirmé que « Tsahal est ici pour rester » dans le sud du Liban."
+    },
+    {
+     "q": "De quoi dépend le retrait progressif de Tsahal selon Washington ?",
+     "a": "Il dépend notamment du désarmement du Hezbollah et de la destruction vérifiable de ses infrastructures militaires."
+    },
+    {
+     "q": "Quelles opérations Tsahal mène-t-il actuellement sur place ?",
+     "a": "Les forces de la 91e division ont notamment détruit un bâtiment piégé et saisi des armes et roquettes RPG dans le secteur de Marah Aqaba."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Iran · Détroit d'Ormuz",
+   "fait": "L'Iran a affirmé qu'aucun navire ne traversera le détroit d'Ormuz sans son autorisation, tout en multipliant les exercices de missiles.",
+   "questions": [
+    {
+     "q": "Quelle est la position iranienne sur la circulation dans le détroit d'Ormuz ?",
+     "a": "L'Iran affirme qu'aucun navire ne peut y naviguer en toute sécurité sans son autorisation et sa supervision, démentant les déclarations américaines."
+    },
+    {
+     "q": "Quels avertissements le ministre iranien des Affaires étrangères a-t-il émis ?",
+     "a": "Abbas Araghchi a mis en garde les États-Unis contre une grave erreur de calcul reposant sur du renseignement fabriqué."
+    },
+    {
+     "q": "Quelles activités militaires l'Iran conduit-il actuellement ?",
+     "a": "L'armée iranienne et les Gardiens de la Révolution ont mené trois exercices de missiles depuis le début de la semaine, avec un autre prévu au Baloutchistan."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Irak · Milices pro-iraniennes",
+   "fait": "Le Premier ministre irakien a sommé les milices pro-iraniennes de déposer leurs armes d'ici le 30 septembre sous peine d'affrontements.",
+   "questions": [
+    {
+     "q": "Quel ultimatum a été fixé par le gouvernement irakien ?",
+     "a": "Le Premier ministre irakien a ordonné aux milices liées à l'Iran de déposer leurs armes auprès de l'État avant le 30 septembre."
+    },
+    {
+     "q": "Quelles sont les conséquences en cas de refus ?",
+     "a": "Les milices risquent un affrontement militaire à grande échelle avec l'État."
+    },
+    {
+     "q": "Quelles milices spécifiques sont visées par cette mesure ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Judée-Samarie · Terrorisme",
+   "fait": "L'unité Yamam a déjoué un attentat imminent en capturant quatre terroristes dans la région de Jénine.",
+   "questions": [
+    {
+     "q": "Qui a mené l'opération d'arrestation ?",
+     "a": "Les combattants de l'unité spéciale Yamam."
+    },
+    {
+     "q": "Combien de suspects ont été arrêtés ?",
+     "a": "Une cellule composée de quatre terroristes a été capturée."
+    },
+    {
+     "q": "Quelle était la cible exacte prévue pour l'attentat ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Défense · Armement",
+   "fait": "Un navire cargo a livré à Haïfa des milliers de tonnes de matériel militaire américain destiné aux forces terrestres israéliennes.",
+   "questions": [
+    {
+     "q": "Quels types de matériels ont été livrés ?",
+     "a": "La cargaison comprend des bulldozers D9, des Humvee, des blindés JLTV, des camions Oshkosh et divers armements."
+    },
+    {
+     "q": "Où la cargaison a-t-elle été déchargée ?",
+     "a": "Le navire cargo a été déchargé au port de Haïfa."
+    },
+    {
+     "q": "Qui a organisé cette opération d'approvisionnement ?",
+     "a": "La délégation du ministère israélien de la Défense aux États-Unis, en coordination avec les services de transport et Tsahal."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Judée-Samarie · Sécurité",
+   "fait": "Tsahal a démantelé deux avant-postes illégaux près de Qusra et Jalud, déployant le 51e bataillon Golani dans le secteur.",
+   "questions": [
+    {
+     "q": "Où étaient situés les avant-postes démantelés ?",
+     "a": "Ils étaient situés en zone B, aux abords des villages de Qusra et Jalud, dans le secteur de Samarie."
+    },
+    {
+     "q": "Y a-t-il eu des arrestations lors du démantèlement ?",
+     "a": "Oui, un Israélien a été interpellé et le matériel présent sur place a été saisi."
+    },
+    {
+     "q": "Quelle consigne a été donnée concernant les habitants du village de Qusra ?",
+     "a": "Les forces de Tsahal ont reçu l'instruction de permettre aux habitants de rester chez eux sans perturber leur vie quotidienne."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Faits divers · Enquête",
+   "fait": "L'enquête sur la disparition de Mali et Liel Yahalomi à Vienne privilégie la piste d'un départ volontaire minutieusement préparé.",
+   "questions": [
+    {
+     "q": "Quels éléments soutiennent l'hypothèse d'un départ volontaire ?",
+     "a": "La suppression volontaire de leurs données de localisation plusieurs jours avant et l'obtention d'une importante somme d'argent liquide."
+    },
+    {
+     "q": "Les deux femmes ont-elles été victimes d'un enlèvement ?",
+     "a": "Les éléments d'enquête indiquent qu'elles n'auraient vraisemblablement pas été enlevées."
+    },
+    {
+     "q": "Où se trouvent actuellement les deux femmes ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 4,
+   "topic": "Justice · Samarie",
+   "fait": "Le mouvement Regavim a saisi la justice pour réclamer la démolition de constructions illégales sur des terres domaniales à Barta'a.",
+   "questions": [
+    {
+     "q": "Que comprend le complexe attaqué en justice ?",
+     "a": "Il comprend un immeuble résidentiel de dizaines d'appartements, une mosquée, un bâtiment industriel et commercial ainsi qu'un autre édifice."
+    },
+    {
+     "q": "Quelle est la situation géographique et juridique du site ?",
+     "a": "Il est situé en zone C à l'est de Barta'a, mais à l'ouest de la barrière de séparation, à 360 mètres de la localité de Katzir."
+    },
+    {
+     "q": "Quelle décision le tribunal de district de Jérusalem a-t-il rendue ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  }
  ]
 }
