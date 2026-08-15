@@ -13694,5 +13694,121 @@
     }
    ]
   }
+ ],
+ "2026-08-15": [
+  {
+   "score": 8,
+   "topic": "Israël · Liban · Hezbollah",
+   "fait": "Tsahal a frappé des cibles du Hezbollah au Liban après une attaque ayant blessé trois soldats israéliens, éliminant un commandant de la Force Radwan.",
+   "questions": [
+    {
+     "q": "Quelles ont été les pertes causées par les affrontements et les frappes ?",
+     "a": "Trois soldats de Tsahal ont été grièvement blessés dans la zone de sécurité. Côté libanais, les frappes ont fait au moins neuf morts et neuf blessés dans les secteurs d'Ansar et de Deir ez-Zahrani."
+    },
+    {
+     "q": "Qui a été éliminé lors des frappes israéliennes ?",
+     "a": "Ali Samir al-Hajj Hassan, un commandant de bataillon de l'unité d'élite Force Radwan du Hezbollah, a été éliminé dans un quartier général à Ansar aux côtés d'autres membres du groupe."
+    },
+    {
+     "q": "Quelle a été la réaction du Hezbollah ?",
+     "a": "L'organisation a affirmé avoir déjoué des tentatives d'avancée israéliennes près d'Ali al-Tahr et a menacé de répondre militairement aux attaques de Tsahal."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Iran · Détroit d'Ormuz",
+   "fait": "L'Iran refuse les pressions américaines sur le détroit d'Ormuz alors que la Turquie propose un compromis et que le cessez-le-feu expire dimanche.",
+   "questions": [
+    {
+     "q": "Quelle est la position de l'Iran sur le détroit d'Ormuz et les négociations ?",
+     "a": "Téhéran affirme qu'aucune décision n'a été prise pour reprendre les négociations avec Washington et que le détroit ne sera ouvert ou fermé que sur ordre iranien."
+    },
+    {
+     "q": "Quelle proposition le président turc a-t-il formulée ?",
+     "a": "Recep Tayyip Erdoğan demande aux Gardiens de la Révolution de libérer le détroit d'Ormuz et aux États-Unis d'accepter que l'Iran perçoive des droits de passage."
+    },
+    {
+     "q": "Quand le cessez-le-feu en vigueur prend-il fin ?",
+     "a": "Selon le ministre iranien des Affaires étrangères Araqchi, le cessez-le-feu prend fin dimanche."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Indonésie · Séisme",
+   "fait": "Un puissant séisme de magnitude 7,7 a frappé l'Indonésie, provoquant d'importantes destructions ainsi que des morts et des blessés.",
+   "questions": [
+    {
+     "q": "Quelle était l'intensité du tremblement de terre ?",
+     "a": "Le séisme a atteint une magnitude de 7,7 sur l'échelle de Richter."
+    },
+    {
+     "q": "Quels sont les dégâts signalés ?",
+     "a": "Les rapports font état d'importantes destructions matérielles ainsi que de morts et de blessés."
+    },
+    {
+     "q": "Où s'est situé précisément l'épicentre ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Israël · Colombie",
+   "fait": "Une délégation de sauveteurs et d'ingénieurs de Tsahal est arrivée à Cali pour secourir des survivants après un séisme en Colombie.",
+   "questions": [
+    {
+     "q": "Quelle est la mission de la délégation israélienne ?",
+     "a": "Les spécialistes et ingénieurs du Commandement du Front intérieur recherchent des survivants sous les décombres à Cali."
+    },
+    {
+     "q": "Pourquoi cette mission a-t-elle été envoyée ?",
+     "a": "Elle a été déployée à la suite d'un puissant séisme qui a frappé la Colombie."
+    },
+    {
+     "q": "Quel est le bilan humain du séisme en Colombie ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 3,
+   "topic": "Israël · Faits divers",
+   "fait": "Une bagarre déclenchée par une dispute sur le volume sonore a entraîné des arrestations et la fermeture du parc aquatique Yammit 2000.",
+   "questions": [
+    {
+     "q": "Quelle est l'origine de l'incident à Yammit 2000 ?",
+     "a": "Une bagarre a éclaté à la suite d'une dispute concernant le volume de la musique."
+    },
+    {
+     "q": "Quelles mesures ont été prises par les autorités ?",
+     "a": "Plusieurs personnes ont été arrêtées et le parc a été fermé."
+    },
+    {
+     "q": "Y a-t-il eu des blessés ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 2,
+   "topic": "Israël · Météo",
+   "fait": "Des pluies inhabituelles pour la saison ont été enregistrées à Jérusalem et dans le nord d'Israël en plein mois d'août.",
+   "questions": [
+    {
+     "q": "Quelles zones du pays ont été touchées par la pluie ?",
+     "a": "Des précipitations sont tombées à Jérusalem ainsi que dans le nord d'Israël."
+    },
+    {
+     "q": "Pourquoi cet événement est-il notable ?",
+     "a": "La pluie est un phénomène météorologique rare en Israël au mois d'août."
+    },
+    {
+     "q": "Des dégâts ont-ils été signalés à cause de ces intempéries ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  }
  ]
 }
