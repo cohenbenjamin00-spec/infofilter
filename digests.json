@@ -13810,5 +13810,159 @@
     }
    ]
   }
+ ],
+ "2026-08-16": [
+  {
+   "score": 8,
+   "topic": "Iran · Golfe Persique",
+   "fait": "L'Iran a tiré trois missiles de croisière dans le détroit d'Ormuz et promis des primes financières pour la capture ou mort de soldats américains.",
+   "questions": [
+    {
+     "q": "Que s'est-il passé dans le détroit d'Ormuz ?",
+     "a": "Les Gardiens de la Révolution auraient lancé trois missiles de croisière durant la nuit en direction de navires naviguant dans le détroit d'Ormuz."
+    },
+    {
+     "q": "Quelles menaces l'armée iranienne a-t-elle formulées contre les forces américaines ?",
+     "a": "Le général Amir Hatami a affirmé que les forces américaines étaient désormais interdites d'accès au golfe Persique, à la mer d'Oman et au détroit d'Ormuz, promettant une prime de 30 000 dollars par soldat américain tué ou capturé, doublée à 60 000 dollars si l'acte est accompli par une femme."
+    },
+    {
+     "q": "Y a-t-il eu des victimes américaines signalées ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 8,
+   "topic": "Israël · Liban",
+   "fait": "Tsahal a éliminé un haut commandant de l'unité Badr du Hezbollah à Deir ez-Zahrani et frappé la crête stratégique d'Ali al-Taher.",
+   "questions": [
+    {
+     "q": "Qui a été éliminé par l'armée israélienne au Liban ?",
+     "a": "Tsahal a éliminé Abu Hassan Alaa, haut commandant de l'unité Badr du Hezbollah, impliqué dans le lancement de drones explosifs contre les forces israéliennes dans le sud du Liban."
+    },
+    {
+     "q": "Quelle est la situation sur la crête d'Ali al-Taher ?",
+     "a": "Le Hezbollah a refusé d'évacuer cette crête stratégique et d'en céder le contrôle à l'armée libanaise, entraînant une détérioration de la situation et des frappes de Tsahal dans la zone."
+    },
+    {
+     "q": "D'autres commandants ont-ils été visés récemment ?",
+     "a": "Les messages mentionnent également l'élimination antérieure d'Ali Samir al-Hajj Hassan, commandant de bataillon au sein de la Force Radwan à Ansar."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Diplomatie · Moyen-Orient",
+   "fait": "Jared Kushner a rencontré le président égyptien à El-Alamein pour discuter du cessez-le-feu à Gaza, parallèlement à la présence du Hamas au Caire.",
+   "questions": [
+    {
+     "q": "Sur quoi ont porté les échanges entre Jared Kushner et Abdel Fattah al-Sissi ?",
+     "a": "Les discussions ont porté sur la situation dans la bande de Gaza et la poursuite de la mise en œuvre de l'accord de cessez-le-feu, insistant sur le respect des engagements de chaque partie."
+    },
+    {
+     "q": "Une rencontre directe avec le Hamas est-elle prévue ?",
+     "a": "Selon la chaîne Al-Arabiya, Jared Kushner devrait rencontrer des représentants du Hamas en présence de médiateurs après ses réunions en Israël."
+    },
+    {
+     "q": "Qui représentait le Hamas en Égypte ?",
+     "a": "Une délégation dirigée par Khalil al-Hayya, chef du bureau politique du Hamas, s'est entretenue au Caire avec le chef des renseignements égyptiens."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Gaza · Tsahal",
+   "fait": "L'aviation israélienne a éliminé deux membres du Hamas et du Jihad islamique palestinien lors de frappes ciblées à Khan Younès et Nuseirat.",
+   "questions": [
+    {
+     "q": "Où ont eu lieu les frappes israéliennes à Gaza ?",
+     "a": "Les frappes aériennes ont visé un terroriste du Jihad islamique palestinien à Khan Younès et un terroriste du Hamas à Nuseirat."
+    },
+    {
+     "q": "Pourquoi ces individus ont-ils été ciblés ?",
+     "a": "Selon le porte-parole de Tsahal, ils préparaient des projets d'attaques et ont été visés afin d'éliminer une menace immédiate."
+    },
+    {
+     "q": "Des victimes civiles ont-elles été signalées ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Iran · États-Unis",
+   "fait": "Téhéran a reconnu l'efficacité du blocus américain et a formellement rejeté toute reprise des négociations avec Washington.",
+   "questions": [
+    {
+     "q": "Que reconnaissent les autorités iraniennes concernant les sanctions ?",
+     "a": "Le président iranien et le porte-parole de la commission énergétique iranienne ont publiquement admis que le blocus américain contre l'Iran était efficace."
+    },
+    {
+     "q": "Quelle est la position diplomatique actuelle de Téhéran vis-à-vis de Washington ?",
+     "a": "Le ministre des Affaires étrangères, Abbas Araghchi, a affirmé que l'Iran n'a actuellement aucune intention de reprendre les négociations avec les États-Unis."
+    },
+    {
+     "q": "Quelle est la réaction des pays du Golfe ?",
+     "a": "Selon le Washington Post, les pays du Golfe manifestent un mécontentement croissant face à la stratégie américaine et certains responsables s'interrogent sur le maintien des bases militaires américaines sur leur sol."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Iran · Droits humains",
+   "fait": "L'Iran a exécuté Shahram Sadeghi, un manifestant arrêté à Karaj pour avoir percuté des policiers et accusé d'agir pour des puissances étrangères.",
+   "questions": [
+    {
+     "q": "Qui a été exécuté en Iran et pour quels motifs ?",
+     "a": "Shahram Sadeghi a été exécuté après avoir été accusé d'avoir foncé en voiture sur des policiers lors des manifestations du 8 janvier à Karaj, blessant plusieurs agents."
+    },
+    {
+     "q": "Quelles étaient les autres charges retenues contre lui ?",
+     "a": "Il a été condamné pour des accusations liées à la sécurité nationale et pour avoir prétendument agi au profit d'Israël, des États-Unis et de groupes hostiles à Téhéran."
+    },
+    {
+     "q": "D'autres exécutions ont-elles été annoncées le même jour ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Économie · Israël",
+   "fait": "La guerre « Épées de fer » a atteint un coût cumulé d'environ 420 milliards de shekels, devenant la plus chère de l'histoire d'Israël.",
+   "questions": [
+    {
+     "q": "Quel est le coût total actuel de la guerre « Épées de fer » ?",
+     "a": "Le coût s'élève jusqu'à présent à environ 420 milliards de shekels."
+    },
+    {
+     "q": "Quelle est la portée historique de ce montant ?",
+     "a": "Ce conflit est officiellement devenu la guerre la plus coûteuse de toute l'histoire de l'État d'Israël."
+    },
+    {
+     "q": "Comment ces dépenses sont-elles réparties dans le budget de l'État ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Judée-Samarie · Sécurité",
+   "fait": "Deux assaillants palestiniens ont été blessés par balle par Tsahal près d'Hébron et six pistolets ont été saisis dans la vallée du Jourdain.",
+   "questions": [
+    {
+     "q": "Que s'est-il passé lors de l'incident près d'Hébron ?",
+     "a": "Des Palestiniens ont attaqué des résidents israéliens ; une unité de Tsahal est intervenue et a blessé par balle deux assaillants qui tentaient de s'emparer de l'arme d'un soldat."
+    },
+    {
+     "q": "Quelle saisie d'armes a été réalisée par la police israélienne ?",
+     "a": "Sur la route 90, près d'Al-Auja, la police a intercepté un véhicule sans plaques d'immatriculation contenant six pistolets et dix chargeurs, après la fuite du conducteur."
+    },
+    {
+     "q": "Quel changement d'organisation est envisagé pour la sécurité en zone C ?",
+     "a": "Le commandant du district de police de Judée-Samarie soutient le transfert des compétences d'application de la loi civile à la police afin de permettre à Tsahal de se focaliser sur l'antiterrorisme."
+    }
+   ]
+  }
  ]
 }
