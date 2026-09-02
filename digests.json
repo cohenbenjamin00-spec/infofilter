@@ -13964,5 +13964,216 @@
     }
    ]
   }
+ ],
+ "2026-09-02": [
+  {
+   "score": 9,
+   "topic": "États-Unis · Iran",
+   "fait": "L'armée américaine a frappé des sites radars et de défense aérienne iraniens, maintenant plus de 50 000 soldats en alerte dans la région.",
+   "questions": [
+    {
+     "q": "Quelles cibles précises ont été touchées lors des frappes américaines ?",
+     "a": "Le CENTCOM a indiqué avoir ciblé des installations des Gardiens de la révolution, notamment des sites de défense aérienne et des systèmes radar, en particulier dans la ville de Sirik au sud de l'Iran."
+    },
+    {
+     "q": "Quelle a été la riposte militaire revendiquée par Téhéran ?",
+     "a": "Selon des responsables américains, l'Iran a riposté en tirant 30 drones et 25 missiles en direction de plusieurs pays du Moyen-Orient."
+    },
+    {
+     "q": "Quelle position Donald Trump exprime-t-il sur les négociations avec l'Iran ?",
+     "a": "Donald Trump a déclaré ne pas chercher à forcer l'Iran à négocier, affirmant se satisfaire du blocus du détroit d'Ormuz et de l'effondrement économique iranien tout en maintenant l'option d'une attaque majeure."
+    }
+   ]
+  },
+  {
+   "score": 8,
+   "topic": "Iran · Arabie saoudite",
+   "fait": "L'Arabie saoudite a condamné une attaque iranienne contre le pétrolier Sidr dans le détroit d'Ormuz, ayant causé la mort de deux membres d'équipage.",
+   "questions": [
+    {
+     "q": "Quelle est la nationalité des victimes de l'attaque maritime ?",
+     "a": "Les deux membres d'équipage tués à bord du pétrolier saoudien Sidr étaient de nationalité philippine."
+    },
+    {
+     "q": "Où s'est produite l'attaque ?",
+     "a": "L'attaque s'est produite alors que le pétrolier franchissait le détroit d'Ormuz."
+    },
+    {
+     "q": "Quelle a été la réaction officielle des autorités saoudiennes ?",
+     "a": "Le ministère saoudien des Affaires étrangères a condamné l'agression, appelant à l'arrêt de l'escalade et à la sécurisation de la navigation maritime internationale."
+    }
+   ]
+  },
+  {
+   "score": 8,
+   "topic": "Iran · Nucléaire",
+   "fait": "L'AIEA a alerté sur son incapacité totale à évaluer le stock d'uranium enrichi iranien faute d'accès aux principaux sites nucléaires.",
+   "questions": [
+    {
+     "q": "Pourquoi les inspecteurs de l'AIEA n'ont-ils plus accès aux installations iraniennes ?",
+     "a": "L'Agence a perdu son accès aux principaux sites nucléaires iraniens à la suite de frappes antérieures menées par les États-Unis et Israël."
+    },
+    {
+     "q": "Quelles matières nucléaires inquiètent particulièrement l'Agence ?",
+     "a": "L'AIEA déplore notamment la perte d'informations sur les matières que l'Iran avait enrichies jusqu'à un taux de 60 %."
+    },
+    {
+     "q": "Quel risque l'AIEA souligne-t-elle dans son rapport ?",
+     "a": "Elle met en garde contre la perte de continuité dans la traçabilité des matières fissiles, constituant une préoccupation sérieuse pour la prolifération nucléaire."
+    }
+   ]
+  },
+  {
+   "score": 8,
+   "topic": "Gaza · Tsahal",
+   "fait": "Le Shin Bet et Tsahal ont capturé vivant Mouin al-Arabeed, présenté comme le chef de la sécurité intérieure du Hamas dans la bande de Gaza.",
+   "questions": [
+    {
+     "q": "Comment l'opération de capture s'est-elle déroulée ?",
+     "a": "Menée dans le plus grand secret par le Shin Bet avec un soutien aérien de Tsahal, l'opération a été déclenchée à la suite d'un renseignement d'opportunité en plein cœur de Gaza."
+    },
+    {
+     "q": "Quel rôle occupait Mouin al-Arabeed ?",
+     "a": "Il est désigné par les services de sécurité israéliens comme le haut responsable de la sécurité intérieure et l'équivalent du « chef du Shin Bet du Hamas »."
+    },
+    {
+     "q": "Quelle déclaration Benyamin Netanyahou a-t-il faite à propos de la situation à Gaza ?",
+     "a": "Netanyahou a affirmé que les forces israéliennes contrôlent désormais 60 % du territoire de la bande de Gaza et que les interrogatoires apporteront des renseignements."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Iran · Pays du Golfe",
+   "fait": "Des attaques aériennes et de missiles imputées à l'Iran ont visé des installations au Koweït et ont été interceptées au Bahreïn.",
+   "questions": [
+    {
+     "q": "Quelle était l'ampleur de l'attaque signalée au Koweït ?",
+     "a": "Des relais des Gardiens de la révolution ont qualifié l'opération d'attaque combinée majeure, impliquant simultanément des salves de missiles et des drones."
+    },
+    {
+     "q": "Que s'est-il passé au Bahreïn ?",
+     "a": "Plusieurs vecteurs d'attaque aérienne provenant directement d'Iran ont été interceptés par les systèmes de défense."
+    },
+    {
+     "q": "Des victimes ont-elles été signalées lors de ces frappes ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Liban · Hezbollah",
+   "fait": "Tsahal a intercepté un drone explosif du Hezbollah sur la crête d'Ali Taher avant de frapper des infrastructures de l'organisation à Nabatieh.",
+   "questions": [
+    {
+     "q": "Quelle attaque le Hezbollah a-t-il lancée contre Tsahal ?",
+     "a": "Le Hezbollah a déployé deux drones piégés contre les troupes israéliennes ; l'un a été abattu par des tirs de soldats et aucun blessé n'est à déplorer."
+    },
+    {
+     "q": "Où l'armée israélienne a-t-elle riposté au Liban ?",
+     "a": "Tsahal a bombardé des positions du Hezbollah dans le secteur de Nabatieh, ainsi que des cibles dans les localités d'Al-Mansouri et de Haris."
+    },
+    {
+     "q": "Quel a été le résultat de l'alerte à l'intrusion aérienne dans le nord d'Israël la nuit précédente ?",
+     "a": "Une première vérification de l'armée a conclu que les tirs d'interception avaient été déclenchés par erreur sur une fausse cible."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Gaza · Tsahal",
+   "fait": "Une frappe israélienne ciblée a éliminé deux cadres du département de la sécurité militaire de la brigade Gaza-ville du Hamas.",
+   "questions": [
+    {
+     "q": "Quels membres du Hamas ont été tués lors de cette frappe ?",
+     "a": "L'opération a éliminé le commandant Talal Moustafa Saleh Badawi ainsi que le terroriste Momo Saïd Mohammed Hawari."
+    },
+    {
+     "q": "Quels actes leur étaient reprochés par Tsahal ?",
+     "a": "Ils préparaient des attaques contre les troupes et les civils israéliens tout en travaillant à la reconstitution des capacités militaires du mouvement en violation de la trêve."
+    },
+    {
+     "q": "Quand la frappe a-t-elle eu lieu ?",
+     "a": "La frappe ciblée a été effectuée deux jours plus tôt, lundi, selon l'annonce officielle de Tsahal."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Terrorisme · Israël",
+   "fait": "Un habitant arabe israélien de Galilée a été inculpé pour affiliation à l'État islamique et préparation d'activités terroristes.",
+   "questions": [
+    {
+     "q": "Qui est l'individu poursuivi en justice ?",
+     "a": "Il s'agit de Khamis Sawad, un homme d'une trentaine d'années résidant dans la localité de Husseiniya en Galilée."
+    },
+    {
+     "q": "Que lui reproche l'acte d'accusation déposé à Haïfa ?",
+     "a": "L'enquête a établi son soutien à Daech et la consultation de manuels d'entraînement militaire, de maniement d'armes et de confection de roquettes et drones artisanaux."
+    },
+    {
+     "q": "Quel était son projet selon les forces de sécurité ?",
+     "a": "Il s'entraînait dans le but de rejoindre les rangs opérationnels de Daech et d'aller combattre à l'étranger."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Allemagne · Défense",
+   "fait": "L'Allemagne a mené un essai tenu secret d'un système de missile israélien afin de renforcer ses capacités de dissuasion face à la Russie.",
+   "questions": [
+    {
+     "q": "Dans quel contexte géopolitique cet essai s'inscrit-il ?",
+     "a": "Il intervient sur fond d'accroissement des tensions militaires et stratégiques entre les pays européens et la Russie."
+    },
+    {
+     "q": "Quel type précis de missile a été testé ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour."
+    },
+    {
+     "q": "Quel objectif a été attribué à ce test ?",
+     "a": "L'essai a été qualifié d'ouverture d'un nouveau chapitre dans la posture de dissuasion européenne."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Judée-Samarie · Tsahal",
+   "fait": "Le bataillon Tsouri a mené des arrestations et des perquisitions d'armes à Beit Ur al-Tahta pour sécuriser l'axe routier 443.",
+   "questions": [
+    {
+     "q": "Quel était l'objectif opérationnel de cette mission en Binyamin ?",
+     "a": "L'intervention visait à neutraliser les auteurs de jets de pierres et à prévenir les attaques terroristes visant les véhicules sur la route 443."
+    },
+    {
+     "q": "Quelle est la particularité du bataillon engagé ?",
+     "a": "Le bataillon Tsouri a été spécialement constitué d'après les retours d'expérience de l'attaque du 7 octobre et réalisait son premier déploiement opérationnel."
+    },
+    {
+     "q": "Qu'ont saisi les forces israéliennes dans le village ?",
+     "a": "Les unités ont fouillé des bâtiments pour confisquer des armes et divers matériels destinés à des activités subversives."
+    }
+   ]
+  },
+  {
+   "score": 4,
+   "topic": "Israël · Faits divers",
+   "fait": "Un incendie de végétation à proximité de la voie ferrée de Ramat Gan a nécessité l'intervention des pompiers et le bouclage du secteur.",
+   "questions": [
+    {
+     "q": "Où le feu s'est-il précisément déclaré ?",
+     "a": "Les flammes ont pris le long de la ligne de chemin de fer, entre le stade de Ramat Gan et le pont de la Maccabiah."
+    },
+    {
+     "q": "Quelles consignes les autorités ont-elles données ?",
+     "a": "Les services de secours ont demandé au public d'éviter totalement la zone pour faciliter le travail des équipes d'extinction."
+    },
+    {
+     "q": "L'incendie a-t-il fait des victimes ou interrompu les trains ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour."
+    }
+   ]
+  }
  ]
 }
