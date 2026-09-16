@@ -14175,5 +14175,220 @@
     }
    ]
   }
+ ],
+ "2026-09-16": [
+  {
+   "score": 8,
+   "topic": "Iran · Nucléaire",
+   "fait": "L'Iran a annoncé cesser de communiquer l'emplacement de ses sites nucléaires à l'AIEA et supprimer l'accès à la surveillance satellitaire de ses installations.",
+   "questions": [
+    {
+     "q": "Pourquoi l'Iran refuse-t-il de communiquer l'emplacement de ses sites nucléaires ?",
+     "a": "L'Agence iranienne de l'énergie atomique justifie cette décision par la protection des informations face aux tentatives ennemies et affirme ne plus faire confiance au directeur de l'AIEA."
+    },
+    {
+     "q": "Quelles mesures concrètes l'Iran prend-il envers l'AIEA ?",
+     "a": "Téhéran ne révélera plus l'emplacement de ses sites et supprimera l'accès à la surveillance satellitaire des installations."
+    },
+    {
+     "q": "Quelle a été la réponse de l'AIEA à cette annonce ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 8,
+   "topic": "Arabie saoudite · Yémen",
+   "fait": "L'Arabie saoudite a intercepté un drone houthi visant La Mecque, pendant que les rebelles affirment avoir abattu un chasseur saoudien F-15 à Marib.",
+   "questions": [
+    {
+     "q": "Quelle ville sainte a été ciblée par le drone houthi ?",
+     "a": "Le drone tentait de pénétrer dans l'espace aérien de La Mecque."
+    },
+    {
+     "q": "Quel appareil saoudien les Houthis prétendent-ils avoir abattu ?",
+     "a": "Les Houthis ont présenté des débris qu'ils affirment être ceux d'un avion de chasse F-15 abattu dans la province de Marib."
+    },
+    {
+     "q": "Quelle consigne les États-Unis ont-ils donnée à leurs ressortissants en Arabie saoudite ?",
+     "a": "Washington appelle ses citoyens à reconsidérer leurs déplacements dans le pays en raison des risques de missiles et drones, et recommande d'éviter la zone frontalière avec le Yémen."
+    },
+    {
+     "q": "Quelle est l'attitude des États-Unis face aux demandes d'aide saoudiennes pour frapper le Yémen ?",
+     "a": "Les États-Unis ont refusé d'accéder à la demande saoudienne d'assistance pour frapper les Houthis, suscitant l'inquiétude de l'appareil sécuritaire israélien."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Liban · Israël",
+   "fait": "Le président libanais Joseph Aoun a affirmé vouloir négocier un accord sécuritaire avec Israël afin de mettre fin à l'état d'hostilité sans confrontation interne.",
+   "questions": [
+    {
+     "q": "Quel objectif le président Joseph Aoun fixe-t-il concernant les armes au Liban ?",
+     "a": "Il affirme que le Liban est déterminé à ce que les armes soient exclusivement entre les mains de l'État, sans provoquer d'affrontement interne."
+    },
+    {
+     "q": "Quel accord le Liban cherche-t-il à obtenir avec Israël ?",
+     "a": "Joseph Aoun indique œuvrer à un accord sécuritaire destiné à mettre fin à l'état d'hostilité."
+    },
+    {
+     "q": "Quelle est la réaction du Hezbollah à ces propos ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Gaza · Tsahal",
+   "fait": "Tsahal a annoncé l'élimination de plusieurs commandants du Hamas et du Jihad islamique à Gaza, accusés de préparer des attaques en violation du cessez-le-feu.",
+   "questions": [
+    {
+     "q": "Quels commandants terroristes ont été ciblés par les frappes récentes à Gaza ?",
+     "a": "Tsahal a éliminé Saïd Assad Saïd Akram et Ahmed Bahjat Saleh Shaer du Hamas, Nimer Yasser Nimer Arshi du JIP, ainsi qu'un responsable de la Nukhba lié au 7 octobre."
+    },
+    {
+     "q": "Quel rôle avait joué le terroriste de la Nukhba éliminé à Khan Younès ?",
+     "a": "Jihad Samih Mahmoud Ismaïl avait participé à l'assaut contre un char israélien et à l'enlèvement des soldats Omer Neutra, Oz Daniel et Nimrod Cohen le 7 octobre."
+    },
+    {
+     "q": "Quel haut responsable de Rafah a également été neutralisé la veille ?",
+     "a": "Le commandant de la brigade de Rafah a été éliminé après avoir dirigé les efforts de reconstruction du Hamas et participé à la détention d'otages."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Russie · États-Unis · Iran",
+   "fait": "Des satellites espions russes auraient surveillé une base américaine en Arabie saoudite avant une frappe iranienne en mars ayant blessé douze militaires américains.",
+   "questions": [
+    {
+     "q": "Combien de satellites russes auraient survolé la base américaine ?",
+     "a": "Selon CNN, quatorze satellites espions russes auraient survolé la base militaire américaine dans les jours précédant l'attaque."
+    },
+    {
+     "q": "Quelle base américaine a été ciblée par l'Iran ?",
+     "a": "Il s'agit de la base aérienne Prince Sultan, touchée par au moins un missile et plusieurs drones."
+    },
+    {
+     "q": "Quel a été le bilan matériel et humain de cette frappe ?",
+     "a": "Douze militaires américains ont été blessés, et plusieurs appareils ont été endommagés ou détruits."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Israël · Législation",
+   "fait": "Benjamin Netanyahou a ordonné d'avancer une législation prévoyant la déchéance de nationalité pour les personnes diffamant les soldats israéliens à l'étranger.",
+   "questions": [
+    {
+     "q": "Que prévoient les futures lois demandées par le Premier ministre israélien ?",
+     "a": "Elles visent à retirer la citoyenneté à ceux qui diffament les soldats de Tsahal à l'international et à leur imposer de lourdes sanctions financières."
+    },
+    {
+     "q": "Quel terme Benjamin Netanyahou utilise-t-il pour désigner ces textes de loi ?",
+     "a": "Il évoque la préparation immédiate des « lois Naza » contre la diffamation des soldats et d'Israël."
+    },
+    {
+     "q": "Quand ces lois seront-elles votées à la Knesset ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Israël · Bande de Gaza",
+   "fait": "Le ministre de la Défense Israël Katz a affirmé que Tsahal encerclait 30 % de Gaza et se tenait prêt à anéantir le Hamas.",
+   "questions": [
+    {
+     "q": "Quelle proportion du territoire gazaoui est contrôlée selon Israël Katz ?",
+     "a": "Il déclare que Rafah et 70 % de Gaza sont vidés d'habitants, tandis que Tsahal encercle les 30 % restants depuis la ligne jaune."
+    },
+    {
+     "q": "Quel objectif à long terme le ministre évoque-t-il pour Gaza ?",
+     "a": "Il indique que Tsahal est prêt à éliminer le Hamas et à mettre en œuvre le « plan d'émigration »."
+    },
+    {
+     "q": "Qu'affirme-t-il concernant les otages israéliens ?",
+     "a": "Il rappelle que le cessez-le-feu établi a permis la libération de tous les otages."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Turquie · Iran",
+   "fait": "La Turquie interdira à compter du 30 septembre l'atterrissage sur son territoire des avions de la compagnie aérienne iranienne Mahan Air.",
+   "questions": [
+    {
+     "q": "À partir de quelle date l'interdiction de vol prend-elle effet en Turquie ?",
+     "a": "La mesure entrera en vigueur à compter du 30 septembre et restera valable jusqu'à nouvel ordre."
+    },
+    {
+     "q": "Quel contexte motive cette décision des autorités turques ?",
+     "a": "Elle s'inscrit dans le cadre du renforcement des sanctions américaines ciblant le secteur aérien iranien et les partenaires de Mahan Air."
+    },
+    {
+     "q": "L'Iran a-t-il exercé des mesures de rétorsion contre les compagnies turques ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Liban · Tsahal",
+   "fait": "Tsahal a frappé des cibles du Hezbollah au sud du Liban, tandis que l'état-major israélien juge l'armée libanaise incapable de désarmer la milice.",
+   "questions": [
+    {
+     "q": "Où ont eu lieu les frappes israéliennes au Liban ?",
+     "a": "Selon des sources arabes, Tsahal a bombardé des positions du Hezbollah à la périphérie de Halata, dans le sud du pays."
+    },
+    {
+     "q": "Quelle condition le chef d'état-major pose-t-il pour le désarmement du Hezbollah ?",
+     "a": "Eyal Zamir estime que le désarmement ne pourra progresser tant que l'armée libanaise n'aura pas nettement amélioré son efficacité opérationnelle."
+    },
+    {
+     "q": "Y a-t-il des victimes signalées lors des frappes à Halata ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Cisjordanie · Sécurité",
+   "fait": "Les forces israéliennes ont arrêté un cadre financier du Jihad islamique à Burqin et interpellé un homme recherché dans le camp de Balata.",
+   "questions": [
+    {
+     "q": "Qui a été arrêté par l'unité Duvdevan dans la région de Burqin ?",
+     "a": "Les forces spéciales ont capturé Mohammed Saadi, haut responsable de la cellule terroriste de Jénine affiliée au Jihad islamique palestinien."
+    },
+    {
+     "q": "Quel était le rôle de Mohammed Saadi au sein de son organisation ?",
+     "a": "Il s'occupait de la gestion et du transfert des fonds destinés aux activités armées contre Israël."
+    },
+    {
+     "q": "Quelle autre arrestation a été menée par les forces israéliennes à Naplouse ?",
+     "a": "Une unité spéciale a fait une incursion dans le commerce de Rami Shalabaya, au camp de réfugiés de Balata, pour l'interpeller."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Iran · Yémen",
+   "fait": "Les Gardiens de la révolution iraniens ont déclaré leur plein soutien à la prise de contrôle du détroit de Bab el-Mandeb par les Houthis.",
+   "questions": [
+    {
+     "q": "Quelle comparaison les Gardiens de la révolution ont-ils établie au sujet de Bab el-Mandeb ?",
+     "a": "Ils ont affirmé que ce détroit fait partie intégrante du Yémen, « exactement comme Ormuz » l'est pour la région."
+    },
+    {
+     "q": "Qu'a déclaré le président iranien Pezeshkian concernant les alliances de Téhéran ?",
+     "a": "Massoud Pezeshkian a souligné la volonté des pays voisins et des membres des BRICS de coopérer avec l'Iran sur les plans militaire et économique."
+    },
+    {
+     "q": "Une riposte internationale a-t-elle été évoquée contre le contrôle du détroit ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  }
  ]
 }
