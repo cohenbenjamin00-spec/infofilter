@@ -14390,5 +14390,178 @@
     }
    ]
   }
+ ],
+ "2026-09-18": [
+  {
+   "score": 8,
+   "topic": "États-Unis · Europe",
+   "fait": "Le Pentagone étudie le retrait d'Europe de plus de 25 000 soldats, d'avions et de navires américains, sur décision de Donald Trump.",
+   "questions": [
+    {
+     "q": "Pourquoi Donald Trump envisage-t-il cette réduction militaire en Europe ?",
+     "a": "Cette mesure constitue une riposte contre l'Europe pour ne pas l'avoir aidé dans la guerre contre l'Iran."
+    },
+    {
+     "q": "Quels moyens militaires sont concernés par ce plan de retrait ?",
+     "a": "Le projet prévoit le retrait d'avions, de navires, d'armements et de plus de 25 000 soldats américains."
+    },
+    {
+     "q": "Quand ce retrait doit-il être mis en œuvre ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Turquie · États-Unis · Iran",
+   "fait": "La Turquie a formellement interdit au commandement américain CENTCOM d'utiliser la base aérienne d'Incirlik pour des opérations visant l'Iran.",
+   "questions": [
+    {
+     "q": "Quelles opérations précises sont interdites à partir d'Incirlik ?",
+     "a": "L'interdiction concerne le ravitaillement ou le guidage d'avions de combat engagés contre des cibles en Iran."
+    },
+    {
+     "q": "À qui la notification turque a-t-elle été transmise ?",
+     "a": "Elle a été transmise au commandement américain CENTCOM au Moyen-Orient."
+    },
+    {
+     "q": "Quelle a été la réaction américaine à cette décision ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Gaza · Tsahal",
+   "fait": "Tsahal annonce avoir éliminé 29 terroristes du Hamas et du Jihad islamique dans la bande de Gaza au cours des trois dernières semaines.",
+   "questions": [
+    {
+     "q": "Combien de terroristes ont été éliminés au cours de la dernière semaine ?",
+     "a": "Huit terroristes ont été éliminés au cours de la dernière semaine."
+    },
+    {
+     "q": "Quels commandants figurent parmi les personnes éliminées récemment ?",
+     "a": "Le bilan inclut le commandant du bataillon de Jabaliya, ainsi que les commandants des brigades de Rafah et de Khan Younès du Hamas."
+    },
+    {
+     "q": "Quelle source militaire a diffusé ce bilan ?",
+     "a": "Le bilan a été dressé par la porte-parole arabophone de Tsahal."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Israël · Sécurité",
+   "fait": "Tsahal a renforcé ses effectifs sur tous les fronts, mobilisant forces aériennes, navales et commandants de haut rang pour Yom Kippour.",
+   "questions": [
+    {
+     "q": "Quelles mesures spécifiques concernent l'armée de l'air et la marine ?",
+     "a": "L'armée de l'air augmente son nombre d'avions armés, tandis que la marine accroît sa flotte de navires lance-missiles et de bâtiments de sécurité."
+    },
+    {
+     "q": "Quel encadrement est prévu dans les différents secteurs ?",
+     "a": "Un commandant de haut rang sera présent dans chaque secteur pendant toute la durée de la fête."
+    },
+    {
+     "q": "Quel est le dispositif prévu pour les réservistes ?",
+     "a": "Des compagnies de réserve supplémentaires sont placées en état d'alerte, prêtes à être mobilisées."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Iran · Défense",
+   "fait": "Les Gardiens de la révolution mènent un vaste exercice militaire à Téhéran, déployant des centaines de drones et de nouveaux types de missiles.",
+   "questions": [
+    {
+     "q": "Où se déroule cet exercice militaire ?",
+     "a": "L'exercice militaire se déroule dans l'ensemble de la ville de Téhéran."
+    },
+    {
+     "q": "Quels équipements y sont présentés par les Gardiens de la révolution ?",
+     "a": "Ils présentent plusieurs centaines de drones ainsi que des dizaines de missiles de nouveaux types."
+    },
+    {
+     "q": "Qui assiste à ces manœuvres ?",
+     "a": "Des centaines de hauts responsables des Gardiens de la révolution et de l'armée iranienne sont présents sur place."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Israël · Sécurité intérieure",
+   "fait": "Un habitant de Tamra a été inculpé pour contacts avec la branche armée du Hamas et des agents du renseignement iranien.",
+   "questions": [
+    {
+     "q": "Quelle est l'identité de l'accusé ?",
+     "a": "Il s'agit de Sultan Abu al-Hija, un habitant de Tamra âgé de 31 ans."
+    },
+    {
+     "q": "Quels liens a-t-il entretenus avec le Hamas ?",
+     "a": "L'enquête a révélé qu'il avait contacté à plusieurs reprises les Brigades Izz al-Din al-Qassam afin de leur apporter secrètement son aide."
+    },
+    {
+     "q": "A-t-il mené des missions pour le renseignement iranien ?",
+     "a": "Non, bien qu'il ait établi des contacts avec des agents iraniens, il n'a pas eu le temps d'effectuer de missions avant son arrestation."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Liban · Front nord",
+   "fait": "L'armée libanaise s'est retirée de Deir Mimas face à des incursions israéliennes, et Tsahal est accusée d'avoir incendié l'hôpital de Meiss el-Jabal.",
+   "questions": [
+    {
+     "q": "Que s'est-il passé à Deir Mimas selon les médias libanais ?",
+     "a": "L'armée libanaise s'est retirée d'une nouvelle position établie sur place, pendant qu'une force israélienne y a avancé pour mener des raids et fouiller des maisons."
+    },
+    {
+     "q": "De quoi Tsahal est-elle accusée à Meiss el-Jabal ?",
+     "a": "Des médias libanais affirment que l'armée israélienne a incendié le bâtiment de l'hôpital local."
+    },
+    {
+     "q": "Tsahal a-t-elle confirmé ces accusations ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 4,
+   "topic": "Ukraine · Israël",
+   "fait": "Un hassid de Breslev de 49 ans rentrant d'Ouman a été retenu à la frontière ukrainienne en vue d'un enrôlement militaire forcé.",
+   "questions": [
+    {
+     "q": "Quel est le statut de l'homme retenu à la frontière ?",
+     "a": "Il est né en Ukraine et vit en Israël depuis plusieurs années."
+    },
+    {
+     "q": "Pour quel motif a-t-il été arrêté par les autorités ukrainiennes ?",
+     "a": "Les autorités chercheraient à l'enrôler dans l'armée ukrainienne en raison de sa citoyenneté ou de son statut dans le pays."
+    },
+    {
+     "q": "Par où tentait-il de regagner Israël ?",
+     "a": "Il rentrait d'Ouman vers Israël en transitant par la Roumanie."
+    }
+   ]
+  },
+  {
+   "score": 3,
+   "topic": "Afghanistan · Hamas",
+   "fait": "Des membres des talibans afghans ont été filmés vêtus d'uniformes et portant des bandeaux des Brigades Izz al-Din al-Qassam.",
+   "questions": [
+    {
+     "q": "Quels insignes portaient ces membres des talibans ?",
+     "a": "Ils portaient des uniformes ainsi que le bandeau de la branche armée du Hamas, les Brigades Izz al-Din al-Qassam."
+    },
+    {
+     "q": "Où cette scène s'est-elle déroulée ?",
+     "a": "Les messages indiquent qu'il s'agit de membres des talibans en Afghanistan."
+    },
+    {
+     "q": "Le Hamas ou les talibans ont-ils publié un communiqué officiel à ce sujet ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour."
+    }
+   ]
+  }
  ]
 }
