@@ -14563,5 +14563,197 @@
     }
    ]
   }
+ ],
+ "2026-09-19": [
+  {
+   "score": 8,
+   "topic": "Arabie saoudite · Attaque",
+   "fait": "L'aéroport international King Khalid de Riyad a suspendu ses vols après avoir été visé par une attaque de drone provoquant un dégagement de fumée.",
+   "questions": [
+    {
+     "q": "Quelle infrastructure a été touchée en Arabie saoudite ?",
+     "a": "L'aéroport international King Khalid situé à Riyad, la capitale saoudienne."
+    },
+    {
+     "q": "Quelles ont été les conséquences directes sur le trafic aérien ?",
+     "a": "Les décollages et les atterrissages ont été suspendus."
+    },
+    {
+     "q": "Qui a revendiqué ou mené cette attaque de drone ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 8,
+   "topic": "Liban · Hezbollah",
+   "fait": "Tsahal a frappé plusieurs infrastructures du Hezbollah au Sud-Liban après l'explosion d'un engin ayant blessé légèrement deux militaires israéliens.",
+   "questions": [
+    {
+     "q": "Quel incident a déclenché les frappes israéliennes au Sud-Liban ?",
+     "a": "Un véhicule du génie de Tsahal a roulé sur un engin explosif du Hezbollah dans la zone de sécurité, blessant légèrement deux soldats."
+    },
+    {
+     "q": "Quelles localités libanaises ont été ciblées par les frappes de Tsahal ?",
+     "a": "Des cibles ont notamment été visées à Al-Mansouri, Nabatieh al-Fawqa et Al-Naqoura."
+    },
+    {
+     "q": "Quels types d'infrastructures du Hezbollah ont été visés ?",
+     "a": "Tsahal a ciblé des postes d'observation et des infrastructures servant à préparer et mener des attaques contre ses forces."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "États-Unis · Russie",
+   "fait": "Donald Trump a signé de lourdes sanctions économiques contre la Russie, provoquant des menaces de riposte militaire de Dmitri Medvedev.",
+   "questions": [
+    {
+     "q": "Quels secteurs russes sont ciblés par la nouvelle loi américaine ?",
+     "a": "La loi vise les banques russes, les secteurs de l'énergie et de la défense, ainsi que la « flotte fantôme »."
+    },
+    {
+     "q": "Quelles mesures peuvent viser les pays tiers achetant des hydrocarbures russes ?",
+     "a": "Le texte autorise l'imposition de droits de douane allant jusqu'à 100 % aux principaux pays acheteurs, en particulier la Chine et l'Inde."
+    },
+    {
+     "q": "Comment Dmitri Medvedev a-t-il réagi à ces sanctions ?",
+     "a": "Le vice-président du Conseil de sécurité russe a préconisé la gestion temporaire des actifs étrangers en Russie et appelé à répondre par la dissuasion militaire directe."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "États-Unis · Iran",
+   "fait": "Donald Trump a affirmé que les États-Unis gagnent largement la guerre contre l'Iran pour empêcher Téhéran d'obtenir l'arme nucléaire.",
+   "questions": [
+    {
+     "q": "Quel compromis Donald Trump a-t-il demandé au public américain ?",
+     "a": "Il a indiqué que le public devra payer le carburant plus cher pour empêcher l'Iran d'obtenir l'arme nucléaire."
+    },
+    {
+     "q": "Quelle assurance Donald Trump a-t-il donnée concernant le programme nucléaire iranien ?",
+     "a": "Il a affirmé que l'Iran n'obtiendra pas l'arme nucléaire."
+    },
+    {
+     "q": "Des opérations militaires concrètes ont-elles été détaillées dans son discours ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Bande de Gaza · Tsahal",
+   "fait": "Tsahal a éliminé à Khan Younès le commandant du Hamas Mohammed Suleiman Bayouk, impliqué dans le massacre du 7 octobre.",
+   "questions": [
+    {
+     "q": "Quel rôle occupait Mohammed Suleiman Bayouk au sein du Hamas ?",
+     "a": "Il était commandant au sein de la branche militaire du Hamas et avait pris part à l'invasion du 7 octobre."
+    },
+    {
+     "q": "Quelles activités récentes lui sont reprochées par Tsahal ?",
+     "a": "Il posait des engins explosifs dans la bande de Gaza, planifiait des attaques contre les forces israéliennes et cherchait à restaurer les capacités opérationnelles du groupe."
+    },
+    {
+     "q": "Où et quand la frappe contre ce responsable a-t-elle eu lieu ?",
+     "a": "La frappe a été menée jeudi dans la région de Khan Younès."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Gaza · Renseignement",
+   "fait": "Tsahal et le Shin Bet ont révélé que Naël Abu Obeid, commandant du Hamas éliminé à Rafah, participait à la détention d'otages.",
+   "questions": [
+    {
+     "q": "Quand le commandant Naël Abu Obeid a-t-il été éliminé ?",
+     "a": "Il a été éliminé plus tôt dans la semaine, le mardi, dans la bande de Gaza."
+    },
+    {
+     "q": "Quels otages israéliens étaient liés à ce commandant selon les services de renseignement ?",
+     "a": "Il a participé à la captivité du lieutenant Hadar Goldin depuis 2014, ainsi qu'à la détention d'otages vivants durant la guerre, dont Nimrod Cohen."
+    },
+    {
+     "q": "Où les otages étaient-ils détenus sous sa responsabilité ?",
+     "a": "Ils étaient détenus dans une infrastructure souterraine dans la région de Rafah."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Diplomatie · Israël",
+   "fait": "Benjamin Netanyahu a écourté son voyage à l'Assemblée générale de l'ONU à New York, sans aucune rencontre programmée avec Donald Trump.",
+   "questions": [
+    {
+     "q": "Combien de temps durera le séjour du Premier ministre israélien à New York ?",
+     "a": "Benjamin Netanyahu arrivera le jour de son allocution à l'Assemblée générale des Nations unies et repartira immédiatement après son discours."
+    },
+    {
+     "q": "Une rencontre est-elle prévue entre Benjamin Netanyahu et Donald Trump à New York ?",
+     "a": "Non, de hauts responsables de l'administration Trump ont indiqué qu'aucune rencontre n'est prévue en marge de l'Assemblée générale."
+    },
+    {
+     "q": "Pourquoi ce déplacement a-t-il été raccourci ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Turquie · Arrestations",
+   "fait": "Plusieurs ressortissants israéliens ont été arrêtés en Turquie pour des soupçons d'implication dans des activités criminelles.",
+   "questions": [
+    {
+     "q": "Dans quel contexte ces ressortissants israéliens ont-ils été appréhendés en Turquie ?",
+     "a": "Leur interpellation s'inscrit dans le cadre d'une vaste vague d'arrestations visant des activités criminelles présumées."
+    },
+    {
+     "q": "Quelle a été la réaction officielle des autorités israéliennes ?",
+     "a": "Le ministère des Affaires étrangères a confirmé les faits et indiqué agir pour que les droits des citoyens arrêtés soient respectés."
+    },
+    {
+     "q": "Combien de citoyens israéliens sont concernés ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Binyamin · Sécurité",
+   "fait": "Un véhicule civil israélien a essuyé des tirs près du village d'Al-Mughayyir sans faire de blessé, déclenchant des recherches de Tsahal.",
+   "questions": [
+    {
+     "q": "Y a-t-il des victimes à la suite des tirs contre le véhicule ?",
+     "a": "Aucun blessé n'est à déplorer."
+    },
+    {
+     "q": "Quelles mesures ont été prises sur place par les forces israéliennes ?",
+     "a": "Des barrages ont été installés autour du village d'Al-Mughayyir et des opérations de ratissage ont été menées pour recueillir des preuves."
+    },
+    {
+     "q": "Les tireurs ont-ils été identifiés ou appréhendés ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour, une enquête ayant été ouverte."
+    }
+   ]
+  },
+  {
+   "score": 4,
+   "topic": "Samarie · Arrestations",
+   "fait": "Les forces de Tsahal et du Shin Bet ont arrêté deux individus ayant avoué avoir déclenché un incendie volontaire près de Burqa.",
+   "questions": [
+    {
+     "q": "L'incendie provoqué près de Burqa a-t-il causé des blessés ?",
+     "a": "Aucun blessé n'a été signalé lors de cet incendie volontaire."
+    },
+    {
+     "q": "Qu'est-il advenu des deux suspects interpellés ?",
+     "a": "Après avoir reconnu les faits, ils ont été remis aux forces de sécurité pour la suite des interrogatoires."
+    },
+    {
+     "q": "Quelle brigade de Tsahal est intervenue sur cet incident ?",
+     "a": "L'opération s'est déroulée dans le secteur de la brigade de Samarie."
+    }
+   ]
+  }
  ]
 }
