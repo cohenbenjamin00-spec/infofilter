@@ -14755,5 +14755,239 @@
     }
    ]
   }
+ ],
+ "2026-09-20": [
+  {
+   "score": 9,
+   "topic": "Judée-Samarie · Attentat",
+   "fait": "Netanel Shakron a été tué par balle près de Neve Tzuf par un terroriste qui a ensuite été capturé dans un hôpital de Ramallah.",
+   "questions": [
+    {
+     "q": "Qui est la victime de l'attentat de Neve Tzuf ?",
+     "a": "La victime est Netanel Shakron, père de six enfants résidant à Alei Zahav et employé dans le secteur de la high-tech."
+    },
+    {
+     "q": "Où et comment le terroriste a-t-il été arrêté ?",
+     "a": "Le terroriste a été capturé vivant par les forces israéliennes dans un hôpital de Ramallah à l'issue d'une chasse à l'homme."
+    },
+    {
+     "q": "Quelles mesures ont ordonné les autorités israéliennes à la suite de l'attaque ?",
+     "a": "Le chef d'état-major et le Premier ministre ont ordonné des renforts, le bouclage du village du terroriste, ainsi que la démolition de son domicile."
+    },
+    {
+     "q": "Comment le Hamas a-t-il justifié son soutien à cette attaque ?",
+     "a": "Le Hamas a affirmé qu'il s'agissait d'une réponse à une visite de Benjamin Netanyahou dans les tunnels du Kotel."
+    }
+   ]
+  },
+  {
+   "score": 8,
+   "topic": "Bande de Gaza · Tsahal",
+   "fait": "Tsahal et le Shin Bet ont éliminé lors de frappes ciblées trois terroristes du Hamas, dont deux participants au massacre du 7 octobre.",
+   "questions": [
+    {
+     "q": "Quels membres du Hamas ont été tués lors de ces opérations ?",
+     "a": "Les frappes ont éliminé Yahya Hamdouna et Mohammed Rifai, qui avaient participé à l'invasion du 7 octobre, ainsi que le commandant de la Nukhba Bashir al-Barsh."
+    },
+    {
+     "q": "Quelles activités ces terroristes menaient-ils selon l'armée israélienne ?",
+     "a": "Ils préparaient des attaques contre Tsahal et les citoyens israéliens tout en œuvrant à reconstituer les capacités du Hamas en violation du cessez-le-feu."
+    },
+    {
+     "q": "Quelles précautions ont été prises par Tsahal avant les frappes ?",
+     "a": "Des munitions de précision et une surveillance aérienne ont été utilisées afin de limiter les risques pour les civils."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "États-Unis · Iran",
+   "fait": "Donald Trump a affirmé évaluer ses options face à Téhéran, mentionnant un accord, un effondrement économique ou l'effacement militaire de l'Iran.",
+   "questions": [
+    {
+     "q": "Quelles sont les trois options présentées par Donald Trump face à l'Iran ?",
+     "a": "Donald Trump a cité l'effacement de l'Iran, son effondrement économique ou la conclusion d'un accord."
+    },
+    {
+     "q": "Quel avertissement Donald Trump a-t-il lancé aux dirigeants iraniens ?",
+     "a": "Il a déclaré que les Iraniens doivent impérativement « se comporter correctement »."
+    },
+    {
+     "q": "Quel calendrier Donald Trump évoque-t-il concernant de futures mesures ?",
+     "a": "Il a indiqué être en phase de décision et a affirmé que « de très grandes choses vont se produire dans un avenir proche »."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Iran · Diplomatie",
+   "fait": "Mohsen Rezaï a annoncé la transmission à Washington de sept conditions préalables posées par l'Iran pour ouvrir toute négociation.",
+   "questions": [
+    {
+     "q": "Quel responsable iranien a annoncé la transmission de ces conditions ?",
+     "a": "L'annonce a été faite sur X par Mohsen Rezaï, secrétaire du Conseil suprême de sécurité nationale iranien."
+    },
+    {
+     "q": "Quel est le contenu détaillé des sept conditions posées par l'Iran ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    },
+    {
+     "q": "Quel message Téhéran adresse-t-il aux États-Unis ?",
+     "a": "L'Iran affirme que Washington n'a pas d'autre choix que d'accepter ses droits et ses conditions pour sortir de l'impasse."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Bande de Gaza · Défense",
+   "fait": "Selon Channel 13, Tsahal envisage de reprendre la manœuvre terrestre à Gaza suite au rétablissement du contrôle du Hamas dans plusieurs secteurs.",
+   "questions": [
+    {
+     "q": "Pour quelle raison Tsahal pourrait-elle relancer son offensive terrestre à Gaza ?",
+     "a": "Selon un haut responsable militaire, le Hamas a rétabli son contrôle dans de larges secteurs que Tsahal avait pourtant déjà nettoyés."
+    },
+    {
+     "q": "Comment l'armée israélienne évalue-t-elle sa situation actuelle sur place ?",
+     "a": "La situation est jugée « confortable » pour les forces israéliennes, bien que le Hamas demeure présent et actif."
+    },
+    {
+     "q": "Une date a-t-elle été fixée pour la reprise des opérations terrestres ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Liban · Tsahal",
+   "fait": "Tsahal a mené des frappes aériennes contre des infrastructures militaires du Hezbollah dans le sud du Liban, notamment à Nabatieh al-Fawqa.",
+   "questions": [
+    {
+     "q": "Quelles zones ont été ciblées par l'armée israélienne au Liban ?",
+     "a": "Des cibles ont été frappées dans le sud du Liban, notamment à Nabatieh al-Fawqa selon des médias arabes."
+    },
+    {
+     "q": "Quel était l'objectif opérationnel déclaré de ces frappes ?",
+     "a": "Les frappes visaient à poursuivre le démantèlement des infrastructures du Hezbollah."
+    },
+    {
+     "q": "Des victimes ont-elles été signalées lors de ces frappes ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Liban · Politique",
+   "fait": "Le Hezbollah conditionne la reprise du dialogue avec le président libanais Joseph Aoun à l'annulation de restrictions gouvernementales sur ses activités sécuritaires.",
+   "questions": [
+    {
+     "q": "Quelle initiative le président Joseph Aoun a-t-il entreprise vis-à-vis du Hezbollah ?",
+     "a": "Le président tente, par le biais de médiateurs, de reprendre le dialogue avec la direction du mouvement chiite."
+    },
+    {
+     "q": "Quelle exigence préalable le Hezbollah pose-t-il avant d'accepter de discuter ?",
+     "a": "Il réclame l'annulation des décisions gouvernementales du 2 mars qui restreignent ses activités militaires et sécuritaires."
+    },
+    {
+     "q": "Le président Aoun a-t-il accédé aux demandes du Hezbollah ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Samarie · Sécurité",
+   "fait": "Des soldats israéliens ont neutralisé un terroriste qui tentait de les percuter avec son véhicule au checkpoint de Ganim, sans faire de blessé.",
+   "questions": [
+    {
+     "q": "Où s'est déroulée la tentative d'attaque à la voiture-bélier ?",
+     "a": "L'incident s'est produit au checkpoint de Ganim, situé dans le nord de la Samarie."
+    },
+    {
+     "q": "Y a-t-il des victimes parmi les soldats israéliens ?",
+     "a": "Aucun blessé n'est à déplorer parmi les forces israéliennes."
+    },
+    {
+     "q": "Quel a été le sort de l'assaillant ?",
+     "a": "Les soldats ont ouvert le feu sur le véhicule et ont neutralisé le terroriste."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Binyamin · Sécurité",
+   "fait": "Le conducteur d'un véhicule sans plaques d'immatriculation a été arrêté après avoir tenté de percuter deux Israéliens près de Silwad.",
+   "questions": [
+    {
+     "q": "Où la tentative de percussion a-t-elle eu lieu ?",
+     "a": "L'attaque s'est produite à Givat Yeshuat Yisrael, sur l'axe de Glaïn, à proximité du cimetière de Silwad."
+    },
+    {
+     "q": "Les civils ciblés ont-ils été blessés ?",
+     "a": "Aucun blessé n'a été signalé lors de cette tentative d'attaque."
+    },
+    {
+     "q": "L'assaillant a-t-il pu prendre la fuite ?",
+     "a": "Non, l'assaillant a été appréhendé par les forces de sécurité."
+    }
+   ]
+  },
+  {
+   "score": 4,
+   "topic": "Syrie · Mont Hermon",
+   "fait": "Des réservistes du bataillon 7490 de Tsahal ont détruit à l'explosif un poste militaire syrien dans le secteur du mont Hermon.",
+   "questions": [
+    {
+     "q": "Quelle unité de Tsahal est intervenue sur le mont Hermon ?",
+     "a": "L'opération a été menée par les combattants de la compagnie C du bataillon de réserve 7490."
+    },
+    {
+     "q": "Quelle action militaire a été réalisée sur place ?",
+     "a": "Les soldats ont fait exploser un poste militaire syrien situé dans la zone du mont Hermon."
+    },
+    {
+     "q": "Des affrontements armés ont-ils eu lieu lors de l'opération ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 4,
+   "topic": "Jérusalem · Tensions",
+   "fait": "Des assaillants arabes ont lancé des pierres contre des Juifs dans la Cité de David, avant de fuir suite à des tirs en l'air.",
+   "questions": [
+    {
+     "q": "Où ces violences se sont-elles déroulées à Jérusalem ?",
+     "a": "L'agression a eu lieu dans le secteur de la Cité de David."
+    },
+    {
+     "q": "Comment les assaillants ont-ils été mis en fuite ?",
+     "a": "L'une des personnes prises pour cible a tiré un coup de feu en l'air, provoquant la fuite des assaillants."
+    },
+    {
+     "q": "Des blessures corporelles ont-elles été constatées ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 3,
+   "topic": "Slovénie · Fait divers",
+   "fait": "Gil Hillel, un père de famille israélien de 44 ans originaire du kibboutz Yizre'el, est mort noyé lors de vacances en Slovénie.",
+   "questions": [
+    {
+     "q": "Quelle est l'identité de la victime israélienne décédée en Slovénie ?",
+     "a": "Il s'agit de Gil Hillel, un homme de 44 ans, père de trois enfants et membre du kibboutz Yizre'el."
+    },
+    {
+     "q": "Dans quelles circonstances est-il décédé ?",
+     "a": "Il a trouvé la mort par noyade alors qu'il se trouvait en vacances en famille en Slovénie."
+    },
+    {
+     "q": "Le rapatriement de son corps a-t-il été organisé ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  }
  ]
 }
