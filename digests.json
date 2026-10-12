@@ -14989,5 +14989,368 @@
     }
    ]
   }
+ ],
+ "2026-10-12": [
+  {
+   "score": 10,
+   "topic": "Israël · Drame sécuritaire",
+   "fait": "Un adolescent de 14 ans a été tué et 24 personnes blessées par une sous-munition du Hezbollah lors d'une excursion dans le massif de Ramim.",
+   "questions": [
+    {
+     "q": "Comment l'explosion s'est-elle produite ?",
+     "a": "L'incident s'est produit lors d'une sortie scolaire de la yeshiva ORT Ma'alot. Selon l'enquête de Tsahal, l'explosion a été provoquée par une sous-munition du Hezbollah non explosée qu'un élève aurait ramassée et mise dans son sac."
+    },
+    {
+     "q": "Quel est le bilan humain de l'incident ?",
+     "a": "Un adolescent de 14 ans est mort et 24 personnes ont été blessées, dont deux adolescents dans un état grave, dix dans un état modéré et douze légèrement."
+    },
+    {
+     "q": "Quelles mesures ont été prises par les autorités israéliennes ?",
+     "a": "Le chef d'état-major a ordonné une enquête approfondie dont les conclusions doivent être remises rapidement, tandis que les forces de sécurité poursuivent la recherche d'engins explosifs dans la zone."
+    }
+   ]
+  },
+  {
+   "score": 9,
+   "topic": "Arabie saoudite · Yémen",
+   "fait": "D'importants incendies se sont déclarés à Riyad après une attaque de missiles balistiques attribuée aux rebelles houthis du Yémen.",
+   "questions": [
+    {
+     "q": "Quelle est la situation des défenses saoudiennes face aux attaques des Houthis ?",
+     "a": "Selon des responsables saoudiens cités par le Wall Street Journal, les stocks de missiles intercepteurs du royaume commencent à s'épuiser en raison des attaques répétées."
+    },
+    {
+     "q": "Quelles consignes ont été transmises à la population saoudienne ?",
+     "a": "Des alertes sur téléphones portables ont invité les habitants à garder leur calme, à rester chez eux ou à l'abri, et à s'éloigner des portes et des fenêtres."
+    },
+    {
+     "q": "Quelle a été la réaction diplomatique régionale ?",
+     "a": "Le président turc Recep Tayyip Erdogan a condamné les attaques des Houthis et a affirmé le soutien de la Turquie à l'Arabie saoudite."
+    }
+   ]
+  },
+  {
+   "score": 8,
+   "topic": "Liban · Iran",
+   "fait": "Des services européens ont averti Beyrouth d'un projet d'assassinat des dirigeants libanais orchestré par Téhéran et confié au Hezbollah.",
+   "questions": [
+    {
+     "q": "Quels dirigeants libanais étaient ciblés par ce projet ?",
+     "a": "Le projet visait l'assassinat du président libanais Joseph Aoun, puis celui du Premier ministre Nawaf Salam."
+    },
+    {
+     "q": "Quel événement connexe a été signalé à Beyrouth ?",
+     "a": "Un camion transportant une demi-tonne d'explosifs et conduit par des membres déclarés du Hezbollah a été intercepté alors qu'il se dirigeait vers Dahieh."
+    },
+    {
+     "q": "Quelle a été la réponse des États-Unis et de leurs alliés européens ?",
+     "a": "Ils ont publié une déclaration conjointe mettant en garde Téhéran contre le recours à des groupes armés pour exécuter des attentats et des assassinats."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Iran · Forces armées",
+   "fait": "Les Gardiens de la révolution iraniens ont lancé des manœuvres de missiles d'une ampleur inhabituelle à travers 28 provinces du pays.",
+   "questions": [
+    {
+     "q": "Quelle est la fréquence de ces manœuvres militaires ?",
+     "a": "Il s'agit du cinquième exercice militaire mené par les Gardiens de la révolution en l'espace de 48 heures."
+    },
+    {
+     "q": "Pourquoi cet entraînement est-il jugé particulier ?",
+     "a": "L'ampleur géographique couvrant 28 provinces et la cadence rapprochée des exercices sont qualifiées d'inhabituelles par rapport aux manœuvres passées."
+    },
+    {
+     "q": "Quels types de missiles ont été testés ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Israël · Liban",
+   "fait": "Israël a menacé le Liban d'une offensive terrestre majeure et d'un blocus total si le Hezbollah participe à une guerre avec l'Iran.",
+   "questions": [
+    {
+     "q": "Quelles menaces précises Israël a-t-il transmises ?",
+     "a": "Israël a averti qu'il mènerait une vaste opération militaire, élargirait son contrôle territorial au Liban et imposerait un blocus aérien, maritime et terrestre en cas d'intervention du Hezbollah ou de refus de désarmer."
+    },
+    {
+     "q": "D'où provient cette information ?",
+     "a": "Ces messages d'avertissement ont été rapportés par le journal libanais Al-Modon."
+    },
+    {
+     "q": "Quelle est la ligne annoncée par le Premier ministre libanais concernant les armes illégales ?",
+     "a": "Nawaf Salam a affirmé que son gouvernement agirait avec détermination contre toute arme qui ne se trouve pas entre les mains des forces légitimes."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Émirats arabes unis · Terrorisme",
+   "fait": "Deux nouveaux pilotes de FlyDubai ont été arrêtés aux Émirats arabes unis après une tentative d'attentat contre un vol vers Israël.",
+   "questions": [
+    {
+     "q": "Dans quel cadre ces arrestations ont-elles eu lieu ?",
+     "a": "Elles interviennent dans le cadre de l'enquête sur une tentative présumée d'attentat terroriste à bord d'un vol FlyDubai reliant les Émirats à Israël."
+    },
+    {
+     "q": "Comment la compagnie aérienne a-t-elle géré la relation avec les passagers du vol ?",
+     "a": "FlyDubai a pris contact avec eux pour la première fois deux semaines après l'incident, une démarche tardive critiquée par des passagers qui y voient une manœuvre juridique."
+    },
+    {
+     "q": "Quelle est la nationalité des pilotes arrêtés ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "France · Faits divers",
+   "fait": "À Aubagne, un collégien de 14 ans a blessé par balle son principal et une enseignante avec un fusil de chasse dissimulé.",
+   "questions": [
+    {
+     "q": "Où l'attaque s'est-elle produite et avec quelle arme ?",
+     "a": "Les tirs ont eu lieu au collège Joseph-Lakanal à Aubagne, perpétrés avec un fusil de chasse que l'élève avait dissimulé dans un étui de guitare."
+    },
+    {
+     "q": "Quel est l'état des victimes ?",
+     "a": "Le principal de 53 ans et une enseignante de 37 ans ont été blessés et hospitalisés, mais leur pronostic vital n'est pas engagé."
+    },
+    {
+     "q": "Quelles mesures policières ont été appliquées ?",
+     "a": "Le collégien a été désarmé par un membre du personnel puis placé en garde à vue, tout comme son père."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Iran · États-Unis",
+   "fait": "Téhéran a posé comme conditions préalables aux pourparlers avec Washington l'arrêt des combats, la levée des sanctions et du blocus naval.",
+   "questions": [
+    {
+     "q": "Quelles sont les exigences fixées par l'Iran pour négocier ?",
+     "a": "Téhéran exige la levée du blocus naval, l'arrêt des combats sur tous les fronts, le déblocage de ses avoirs financiers gelés et la fin des sanctions."
+    },
+    {
+     "q": "Comment les communications entre l'Iran et les États-Unis s'effectuent-elles ?",
+     "a": "Les échanges de messages se poursuivent par l'intermédiaire de médiateurs, selon le porte-parole du ministère iranien des Affaires étrangères."
+    },
+    {
+     "q": "Quelle position les responsables militaires iraniens ont-ils exprimée vis-à-vis des pays de la région ?",
+     "a": "Le général Abolfazl Shekarchi a appelé les pays du Moyen-Orient à quitter le parapluie sécuritaire américain, le qualifiant d'inefficace."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Ukraine · Russie",
+   "fait": "Le président Zelensky a accusé la Russie d'avoir violé le cessez-le-feu négocié par Donald Trump en frappant un site énergétique ukrainien.",
+   "questions": [
+    {
+     "q": "Quel accord est mis en cause par l'Ukraine ?",
+     "a": "Le président Volodymyr Zelensky évoque une violation du cessez-le-feu négocié par Donald Trump."
+    },
+    {
+     "q": "Quelle cible a été touchée par l'attaque russe ?",
+     "a": "L'attaque russe a visé une installation énergétique en Ukraine."
+    },
+    {
+     "q": "Quelle a été la réponse des États-Unis ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Israël · Liban",
+   "fait": "Tsahal a intercepté une cible suspecte au Sud-Liban, après une possible infiltration de drone en Israël, une première depuis le cessez-le-feu.",
+   "questions": [
+    {
+     "q": "Quel incident aérien a été signalé à la frontière ?",
+     "a": "Un drone libanais se serait infiltré dans l'espace aérien israélien, marquant la première violation suspectée depuis l'entrée en vigueur du cessez-le-feu."
+    },
+    {
+     "q": "Quelle action de défense a été entreprise par Tsahal ?",
+     "a": "Tsahal a tiré un missile intercepteur sur une cible aérienne suspecte dans sa zone d'opérations au sud du Liban, sans déclencher d'alerte."
+    },
+    {
+     "q": "Quelle est la réaction de la population du nord d'Israël ?",
+     "a": "Des résidents ont dénoncé sur la chaîne N12 un manque d'informations et de transparence des autorités concernant les interceptions répétées dans leur secteur."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "France · Antisémitisme",
+   "fait": "Un homme a été blessé au visage lors d'une agression antisémite près d'une école juive dans le 16e arrondissement de Paris.",
+   "questions": [
+    {
+     "q": "Comment l'agression a-t-elle débuté ?",
+     "a": "Un passant a craché au sol en criant une insulte antisémite devant deux hommes assis à la terrasse d'un café voisin de l'établissement scolaire."
+    },
+    {
+     "q": "Qu'a fait l'agresseur après l'altercation physique ?",
+     "a": "Selon les témoignages, il a passé des appels vidéo pour montrer son acte à des tiers en déclarant : « Regardez ce que j'ai fait à des Juifs ! »."
+    },
+    {
+     "q": "L'agresseur a-t-il été interpellé ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Iran · Azerbaïdjan",
+   "fait": "Le chef de la diplomatie iranienne s'est rendu en Azerbaïdjan afin d'évaluer le risque d'une éventuelle opération militaire israélienne transfrontalière.",
+   "questions": [
+    {
+     "q": "Quel est l'objectif de la visite du ministre iranien en Azerbaïdjan ?",
+     "a": "Il s'agit d'évaluer la situation régionale, les relations bilatérales et le risque qu'une opération militaire israélienne soit menée depuis le territoire azerbaïdjanais."
+    },
+    {
+     "q": "Qui a rapporté ce déplacement officiel ?",
+     "a": "L'information a été transmise par des médias iraniens."
+    },
+    {
+     "q": "Des accords ont-ils été signés au cours de ce voyage ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Israël · Élections",
+   "fait": "Tsahal déploiera 850 bureaux de vote dès le 20 octobre pour les législatives israéliennes, y compris à Gaza, au Liban et en Syrie.",
+   "questions": [
+    {
+     "q": "Quand et où se déroulera le vote des militaires ?",
+     "a": "Le scrutin pour l'armée débutera le 20 octobre 2026 dans environ 850 bureaux, dont 200 mobiles escortés, opérant notamment en Israël, à Gaza, au Liban et en Syrie."
+    },
+    {
+     "q": "Pourquoi le vote au sein de l'armée commence-t-il plus tôt ?",
+     "a": "Il commence environ une semaine avant le vote national pour permettre aux appelés et réservistes d'accomplir leur devoir malgré les impératifs opérationnels."
+    },
+    {
+     "q": "Combien de soldats sont affectés à la gestion du scrutin ?",
+     "a": "Environ 3 000 soldats ont été formés pour tenir les bureaux et siéger dans les commissions électorales."
+    }
+   ]
+  },
+  {
+   "score": 4,
+   "topic": "Israël · Transport aérien",
+   "fait": "Un avion-cargo d'Ethiopian Airlines vers Tel-Aviv a dû faire demi-tour en vol faute d'autorisation pour un membre d'équipage indonésien.",
+   "questions": [
+    {
+     "q": "Pourquoi l'appareil a-t-il été refoulé par Israël ?",
+     "a": "Un membre d'équipage était de nationalité indonésienne, un pays sans liens diplomatiques avec Israël, nécessitant des autorisations spéciales préalables."
+    },
+    {
+     "q": "Comment l'incident a-t-il été découvert en cours de vol ?",
+     "a": "La liste d'équipage a été envoyée en retard aux autorités sécuritaires israéliennes après le décollage, déclenchant une alerte automatique des systèmes de contrôle."
+    },
+    {
+     "q": "Où l'avion a-t-il été dérouté ?",
+     "a": "L'appareil a fait demi-tour pour retourner à son point de départ à Addis-Abeba."
+    }
+   ]
+  },
+  {
+   "score": 4,
+   "topic": "Israël · Judée-Samarie",
+   "fait": "Trois militants étrangers pro-BDS, dont la présidente d'Agir pour la Palestine, vont être expulsés d'Israël après avoir filmé des soldats à Hébron.",
+   "questions": [
+    {
+     "q": "Quel était le motif de l'interpellation à Hébron ?",
+     "a": "Les trois militants étrangers filmaient une position militaire israélienne dans la ville d'Hébron."
+    },
+    {
+     "q": "Qui figure parmi les personnes interpellées ?",
+     "a": "L'une d'elles est la présidente de l'organisation « Agir pour la Palestine », engagée dans la campagne de boycott BDS contre Israël."
+    },
+    {
+     "q": "Dans quel délai l'expulsion doit-elle avoir lieu ?",
+     "a": "La décision prévoit une expulsion immédiate devant intervenir dans les 24 heures."
+    }
+   ]
+  },
+  {
+   "score": 4,
+   "topic": "Israël · Politique",
+   "fait": "Le chef de l'opposition Yaïr Lapid a catégoriquement rejeté la création d'un gouvernement d'union nationale dirigé par Benjamin Netanyahou.",
+   "questions": [
+    {
+     "q": "Qu'a déclaré Yaïr Lapid au sujet d'un gouvernement d'union ?",
+     "a": "Il a refusé d'intégrer ce qu'il qualifie de « faux gouvernement d'union » et a exhorté les autres partis de son camp à exclure formellement toute participation."
+    },
+    {
+     "q": "À quel dirigeant politique s'oppose-t-il sur cette question ?",
+     "a": "Sa position s'oppose à celle de Naftali Bennett, qui s'était déclaré favorable à une union la veille."
+    },
+    {
+     "q": "Quel rôle attribue-t-il au président Isaac Herzog ?",
+     "a": "Il a exprimé l'espoir que le président Herzog ne tente pas d'imposer une telle coalition avec Netanyahou."
+    }
+   ]
+  },
+  {
+   "score": 4,
+   "topic": "Bande de Gaza · Frappe ciblée",
+   "fait": "Une frappe de drone israélien a éliminé deux terroristes dans le secteur de Rafah, dans le sud de la bande de Gaza.",
+   "questions": [
+    {
+     "q": "Où et quand la frappe s'est-elle produite ?",
+     "a": "Elle a eu lieu en matinée à Rafah, dans le sud de la bande de Gaza."
+    },
+    {
+     "q": "Quel moyen militaire a été employé ?",
+     "a": "L'attaque a été effectuée au moyen d'un drone israélien."
+    },
+    {
+     "q": "Des victimes civiles ont-elles été signalées ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 3,
+   "topic": "États-Unis · Politique",
+   "fait": "Elon Musk a versé 276 millions de dollars à des candidats et comités républicains avant les élections législatives de mi-mandat américaines.",
+   "questions": [
+    {
+     "q": "Quel montant et quelle période couvrent ces contributions ?",
+     "a": "Selon le New York Times, Elon Musk a versé 276 millions de dollars depuis le mois de juillet."
+    },
+    {
+     "q": "À qui ces fonds ont-ils été alloués ?",
+     "a": "Les dons ont été dirigés vers des organisations et des candidats affiliés au Parti républicain."
+    },
+    {
+     "q": "Quelle échéance électorale ces dons visent-ils ?",
+     "a": "Ils interviennent à l'approche des élections de mi-mandat aux États-Unis."
+    }
+   ]
+  },
+  {
+   "score": 3,
+   "topic": "Israël · Corruption",
+   "fait": "Le maire de Kfar Saba, Rafi Saar, est visé par des soupçons de corruption pour des avantages reçus en échange de marchés publics.",
+   "questions": [
+    {
+     "q": "Quels sont les faits reprochés au maire de Kfar Saba ?",
+     "a": "Rafi Saar et son épouse sont soupçonnés d'avoir bénéficié d'avantages matériels, tels que des vêtements et objets de valeur, estimés à plusieurs centaines de milliers de shekels."
+    },
+    {
+     "q": "Quelle contrepartie le maire aurait-il fournie ?",
+     "a": "Il est soupçonné d'avoir favorisé l'attribution de marchés publics en échange de ces gratifications."
+    },
+    {
+     "q": "Le maire a-t-il été arrêté ou placé en détention ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  }
  ]
 }
