@@ -15352,5 +15352,216 @@
     }
    ]
   }
+ ],
+ "2026-10-17": [
+  {
+   "score": 9,
+   "topic": "Iran · Détroit d'Ormuz",
+   "fait": "La marine des Gardiens de la révolution iraniens a annoncé la fermeture du détroit d'Ormuz aux navires enfreignant les règles de Téhéran.",
+   "questions": [
+    {
+     "q": "Qu'ont déclaré exactement les Gardiens de la révolution ?",
+     "a": "Ils ont proclamé la fermeture du détroit et affirmé que le sort des navires enfreignant leurs règles est de brûler pour avoir fait confiance à l'armée américaine."
+    },
+    {
+     "q": "Quelle a été la réaction des États-Unis à cette annonce ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    },
+    {
+     "q": "Des navires ont-ils été attaqués immédiatement après cette déclaration ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 8,
+   "topic": "France · Manifestations et violences",
+   "fait": "De violentes manifestations et des scènes de guérilla urbaine ont touché Paris, Marseille et Lyon le 17 octobre, avec pillages et dégradations.",
+   "questions": [
+    {
+     "q": "Quels incidents majeurs ont été rapportés à Paris ?",
+     "a": "Des cortèges sauvages ont pillé et incendié des commerces et véhicules, s'approchant des portes de l'Élysée avant d'être repoussés par les forces de l'ordre."
+    },
+    {
+     "q": "Quelles dégradations ont été signalées à Marseille et à Lyon ?",
+     "a": "À Marseille, un pillage de la mairie et de magasins a été évoqué, tandis qu'à Lyon, des commerces ont été pillés ou incendiés et l'office de tourisme visé."
+    },
+    {
+     "q": "Y a-t-il eu des blessés parmi les forces de l'ordre ?",
+     "a": "Oui, plusieurs policiers auraient été blessés lors des violents affrontements."
+    }
+   ]
+  },
+  {
+   "score": 8,
+   "topic": "Italie · Israël",
+   "fait": "La justice italienne vise treize responsables israéliens, dont Israël Katz et Itamar Ben Gvir, pour l'interception de flottilles vers Gaza.",
+   "questions": [
+    {
+     "q": "Qui sont les principaux responsables israéliens visés par l'enquête ?",
+     "a": "Le ministre de la Défense Israël Katz, le ministre de la Sécurité nationale Itamar Ben Gvir et le chef d'état-major Eyal Zamir sont notamment visés."
+    },
+    {
+     "q": "Quelle est l'origine de cette procédure judiciaire à Rome ?",
+     "a": "Elle fait suite aux plaintes déposées par 50 ressortissants italiens ayant participé aux flottilles interceptées par Israël en 2025 et 2026."
+    },
+    {
+     "q": "Quels faits précis sont dénoncés par les plaignants italiens ?",
+     "a": "Ils dénoncent notamment des violences, des mauvais traitements et des détentions qu'ils considèrent comme illégales."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Gaza · Tsahal",
+   "fait": "Tsahal a annoncé l'élimination dans la bande de Gaza de quatre membres du Hamas, dont un participant aux attaques du 7 octobre 2023.",
+   "questions": [
+    {
+     "q": "Qui sont les membres du Hamas ciblés lors de ces frappes ?",
+     "a": "Il s'agit de Mahmoud Khaled Mohammed Madhoun, Obeida Souheil Hamed Murtaja, Adham Khalil Mohammed Maarouf et Abdel Jawad Gouda."
+    },
+    {
+     "q": "Que reprochait l'armée israélienne à ces individus ?",
+     "a": "Tsahal affirme qu'ils préparaient de nouvelles attaques contre des militaires et civils et tentaient de reconstruire les capacités militaires du mouvement."
+    },
+    {
+     "q": "Où se sont déroulées précisément ces frappes dans Gaza ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Diplomatie · Judée-Samarie",
+   "fait": "Des diplomates étrangers ont été agressés par des émeutiers israéliens près de Taybeh en Judée-Samarie, provoquant l'ouverture d'une enquête policière.",
+   "questions": [
+    {
+     "q": "Comment les autorités israéliennes ont-elles réagi à l'incident ?",
+     "a": "Tsahal et le ministre des Affaires étrangères Gideon Saar ont fermement condamné l'agression, et une enquête médico-légale a été ouverte."
+    },
+    {
+     "q": "Pourquoi la présence de l'armée n'était-elle pas assurée lors de l'attaque ?",
+     "a": "Tsahal a indiqué que la visite organisée par le consulat n'avait pas été coordonnée au préalable avec les forces militaires."
+    },
+    {
+     "q": "Quels pays étaient représentés par les diplomates agressés ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Iran · Yémen",
+   "fait": "Selon le Wall Street Journal, l'Iran fournit aux Houthis du renseignement militaire direct pour mener leurs attaques contre l'Arabie saoudite.",
+   "questions": [
+    {
+     "q": "En quoi consiste l'aide apportée par l'Iran selon l'enquête ?",
+     "a": "Les Gardiens de la révolution fourniraient une aide au ciblage des missiles et drones, ainsi que des formations et des conseils tactiques."
+    },
+    {
+     "q": "Quelle a été la réponse officielle de Téhéran à ces accusations ?",
+     "a": "Téhéran a démenti toute implication dans les attaques visant le royaume saoudien."
+    },
+    {
+     "q": "Quel rôle d'Israël a été mentionné dans ce dossier ?",
+     "a": "Donald Trump a récemment confirmé qu'Israël avait apporté son aide à l'Arabie saoudite dans sa lutte contre les Houthis."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Égypte · Politique",
+   "fait": "Le président égyptien Abdel Fattah al-Sissi a officiellement annoncé que son mandat à la tête du pays prendrait définitivement fin en 2030.",
+   "questions": [
+    {
+     "q": "Quelle condition al-Sissi a-t-il ajoutée à son départ en 2030 ?",
+     "a": "Il a précisé que la décision était définitive, « s'il est encore en vie d'ici là »."
+    },
+    {
+     "q": "Qui a été désigné pour succéder à al-Sissi en 2030 ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    },
+    {
+     "q": "Quelle est l'importance de cette annonce pour Israël ?",
+     "a": "Elle soulève la question de l'orientation de la future gouvernance égyptienne envers l'État hébreu après une période de partenariat relativement stable."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Iran · Diplomatie",
+   "fait": "Le président iranien Massoud Pezeshkian a salué l'alliance dite de « La Mecque » regroupant l'Arabie saoudite, la Turquie et le Pakistan.",
+   "questions": [
+    {
+     "q": "Quelle est la position de l'Iran vis-à-vis de cette alliance ?",
+     "a": "Massoud Pezeshkian a jugé qu'il s'agissait d'un pas en avant vers l'unité islamique et affirmé que l'Iran était prêt à y participer."
+    },
+    {
+     "q": "L'Iran connaît-il les détails des accords conclus dans cette alliance ?",
+     "a": "Non, le président iranien a précisé ne pas connaître le détail des décisions prises par les trois pays."
+    },
+    {
+     "q": "Quand l'alliance de « La Mecque » a-t-elle été signée ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Judée-Samarie · Tensions",
+   "fait": "Un civil israélien a été blessé et évacué après une altercation avec des Palestiniens près du village de Beit Lid en Samarie.",
+   "questions": [
+    {
+     "q": "Quelles forces sont intervenues après l'incident de Beit Lid ?",
+     "a": "Des forces de Tsahal et de la police des frontières (Magav) ont été déployées sur place pour effectuer des recherches."
+    },
+    {
+     "q": "Y a-t-il eu d'autres personnes blessées lors de cette altercation ?",
+     "a": "Les informations faisant état d'autres blessés étaient en cours de vérification au moment du communiqué militaire."
+    },
+    {
+     "q": "Des suspects ont-ils été interpellés par les forces de sécurité ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Iran · Liban",
+   "fait": "Les ministres des Affaires étrangères iranien et libanais se sont entretenus à Bagdad des relations bilatérales et de la situation régionale.",
+   "questions": [
+    {
+     "q": "Qui sont les deux ministres impliqués dans cette rencontre ?",
+     "a": "Le chef de la diplomatie iranienne Abbas Araghchi et son homologue libanais Youssef Raggi."
+    },
+    {
+     "q": "Dans quel cadre cette réunion diplomatique a-t-elle eu lieu ?",
+     "a": "Elle s'est tenue en Irak en marge d'une session de l'Organisation de la coopération islamique."
+    },
+    {
+     "q": "Des accords concrets ont-ils été signés lors de cet entretien ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "France · Faits divers",
+   "fait": "La Marine française a saisi plus de 8,6 tonnes de drogues dans les Caraïbes et l'Atlantique, menant à cinq gardes à vue.",
+   "questions": [
+    {
+     "q": "Quelle quantité précise de stupéfiants a été interceptée ?",
+     "a": "Près de 6,9 tonnes de cocaïne et 1,7 tonne de marijuana ont été saisies entre le 4 et le 13 octobre."
+    },
+    {
+     "q": "Quelle a été l'opération la plus importante de cette série de saisies ?",
+     "a": "Le 8 octobre, un navire transportant près de 5,3 tonnes de cocaïne a été intercepté."
+    },
+    {
+     "q": "Où ont eu lieu les gardes à vue liées à ce trafic ?",
+     "a": "Cinq personnes ont été placées en garde à vue en Martinique."
+    }
+   ]
+  }
  ]
 }
