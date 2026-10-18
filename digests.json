@@ -15563,5 +15563,296 @@
     }
    ]
   }
+ ],
+ "2026-10-18": [
+  {
+   "score": 8,
+   "topic": "États-Unis · Élections Israël",
+   "fait": "Donald Trump a officiellement apporté son soutien à Benjamin Netanyahou pour sa réélection, ce dernier affirmant qu'ils détruiront ensemble le programme nucléaire iranien.",
+   "questions": [
+    {
+     "q": "Comment Donald Trump justifie-t-il son soutien à Benjamin Netanyahou ?",
+     "a": "Il le qualifie de « formidable Premier ministre combattant » et de partenaire indispensable face à l'Iran, estimant qu'avec un autre dirigeant, les États-Unis devraient intervenir eux-mêmes."
+    },
+    {
+     "q": "Quelle a été la réaction de Benjamin Netanyahou à ce soutien ?",
+     "a": "Benjamin Netanyahou a réagi en déclarant : « Seuls nous deux détruirons le programme nucléaire iranien. »"
+    },
+    {
+     "q": "Quand se dérouleront les élections israéliennes ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 8,
+   "topic": "Égypte · Arabie saoudite",
+   "fait": "Le président égyptien al-Sissi a demandé la convocation du Parlement afin d'autoriser une intervention militaire pour soutenir l'Arabie saoudite contre les Houthis.",
+   "questions": [
+    {
+     "q": "Pourquoi l'Égypte envisage-t-elle de déployer des forces pour soutenir Riyad ?",
+     "a": "Cette initiative fait suite à plusieurs attaques de missiles et de drones menées par les Houthis du Yémen contre des installations saoudiennes."
+    },
+    {
+     "q": "Quel organe égyptien a validé cette orientation ?",
+     "a": "Le Conseil de défense nationale égyptien s'est réuni ce dimanche 18 octobre pour annoncer sa volonté d'apporter toute l'assistance nécessaire à la sécurité de l'Arabie saoudite."
+    },
+    {
+     "q": "Combien de soldats égyptiens seront déployés ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 8,
+   "topic": "France · Émeutes",
+   "fait": "De violentes émeutes ont touché Paris et sa banlieue, causant d'importants pillages, la dégradation d'une synagogue et l'annonce d'une allocution d'Emmanuel Macron.",
+   "questions": [
+    {
+     "q": "Quelle est l'ampleur des dégâts matériels rapportée à Paris ?",
+     "a": "Près de 600 commerces auraient été vandalisés, pillés, incendiés ou détruits dans la capitale, avec de nouveaux pillages signalés notamment à Rosny 2."
+    },
+    {
+     "q": "Des lieux de culte ou des policiers ont-ils été ciblés ?",
+     "a": "Une synagogue a été vandalisée en marge des manifestations à Paris et un policier en civil a été lynché."
+    },
+    {
+     "q": "Comment Donald Trump a-t-il réagi à la situation en France ?",
+     "a": "Donald Trump a déclaré que « la France est en train de brûler » à cause de l'immigration et a appelé le pays à fermer ses frontières."
+    },
+    {
+     "q": "Quelle initiative politique a été annoncée par l'exécutif français ?",
+     "a": "Le président Emmanuel Macron doit s'adresser à la nation lors d'une allocution télévisée à 20 heures."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "États-Unis · Antisémitisme",
+   "fait": "Un habitant de Los Angeles a été arrêté alors qu'il préparait des attaques terroristes contre une école maternelle Habad et plusieurs synagogues.",
+   "questions": [
+    {
+     "q": "Quelles étaient les cibles visées par le suspect ?",
+     "a": "Le suspect ciblait une école maternelle du mouvement Habad (Loubavitch) et projetait d'incendier plusieurs synagogues de Los Angeles."
+    },
+    {
+     "q": "Quelle est l'identité du suspect arrêté ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour."
+    },
+    {
+     "q": "Le suspect a-t-il pu passer à l'acte ?",
+     "a": "Non, son arrestation par les autorités a permis de déjouer l'ensemble des projets d'attaque."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Arabie saoudite · Houthis",
+   "fait": "Un incendie a éclaté dans des installations pétrolières de la compagnie Saudi Aramco à la suite d'une attaque attribuée aux rebelles houthis.",
+   "questions": [
+    {
+     "q": "Quelle compagnie a été touchée par l'attaque ?",
+     "a": "Les installations touchées appartiennent à la compagnie pétrolière saoudienne Aramco."
+    },
+    {
+     "q": "Quelles installations précises ont été endommagées ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour."
+    },
+    {
+     "q": "Qui est désigné comme responsable de cet incendie ?",
+     "a": "L'attaque à l'origine de l'incendie a été attribuée aux Houthis du Yémen."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Iran · États-Unis",
+   "fait": "L'Iran a annoncé examiner les observations américaines sur son plan en sept jours prévoyant une possible réouverture sous conditions du détroit d'Ormuz.",
+   "questions": [
+    {
+     "q": "Quelles sont les étapes du plan iranien pour le détroit d'Ormuz ?",
+     "a": "Si les conditions iraniennes sont respectées par les États-Unis, le détroit rouvrira le sixième jour et les négociations reprendront le septième jour."
+    },
+    {
+     "q": "Quelles sont les conditions exigées par l'Iran ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour."
+    },
+    {
+     "q": "Qui a communiqué sur l'état de ces discussions côté iranien ?",
+     "a": "C'est le ministre iranien des Affaires étrangères, Abbas Araghchi, qui a fait ces déclarations."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Israël · Tsahal",
+   "fait": "Tsahal renforce sa préparation terrestre sur tous les fronts et réengage sa 215e brigade d'artillerie dans le nord de la bande de Gaza.",
+   "questions": [
+    {
+     "q": "Quelles mesures de précaution sont envisagées pour les soldats durant les élections israéliennes ?",
+     "a": "L'armée examine la possibilité de suspendre temporairement les permissions de sortie des militaires durant la semaine électorale."
+    },
+    {
+     "q": "Où opère à nouveau la brigade d'artillerie 215 ?",
+     "a": "Elle opère dans le nord de la bande de Gaza, marquant son retour dans ce secteur pour la première fois depuis octobre 2025."
+    },
+    {
+     "q": "Sur quel autre front la 215e brigade a-t-elle été déployée récemment ?",
+     "a": "Elle avait été déployée sur le front libanais dans le cadre de l'opération « Rugissement du Lion »."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Israël · Politique intérieure",
+   "fait": "Des dissensions éclatent dans la coalition israélienne, Der'i refusant Smotrich aux Finances et Ben Gvir accusant Netanyahou de vouloir l'évincer du futur gouvernement.",
+   "questions": [
+    {
+     "q": "Pourquoi Aryeh Der'i refuse-t-il la reconduction de Bezalel Smotrich aux Finances ?",
+     "a": "Der'i accuse Smotrich de bloquer des fonds pour le secteur ultraorthodoxe tout en transférant des milliards de shekels aux implantations en Judée-Samarie."
+    },
+    {
+     "q": "Quelle accusation Itamar Ben Gvir a-t-il portée contre Benjamin Netanyahou ?",
+     "a": "Ben Gvir affirme que Netanyahou s'est engagé auprès de pays de l'Union européenne à ne pas l'intégrer au prochain gouvernement, ce que le Likoud dément."
+    },
+    {
+     "q": "Quelle est la position du Likoud sur la future coalition ?",
+     "a": "Le président de coalition Ofir Katz affirme que le Likoud veut reconduire la coalition actuelle, bien qu'un gouvernement d'union nationale ait aussi été évoqué."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "États-Unis · Judée-Samarie",
+   "fait": "Le secrétaire d'État Marco Rubio a fermement condamné les violences de colons en Judée-Samarie après l'agression filmée d'une journaliste américaine.",
+   "questions": [
+    {
+     "q": "Quelle demande Washington a-t-il adressée à Israël ?",
+     "a": "Les États-Unis ont demandé aux autorités israéliennes d'agir avec fermeté contre ces phénomènes de violences."
+    },
+    {
+     "q": "Quel incident précis a provoqué la réaction de Marco Rubio ?",
+     "a": "Une journaliste ou photoreporter américaine a été agressée et frappée dans une zone où se trouvaient des groupes de colons."
+    },
+    {
+     "q": "Quelle est la position de Donald Trump selon Marco Rubio ?",
+     "a": "Donald Trump ne souhaite voir aucune tension ni crise en Judée-Samarie."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Israël · Sécurité nationale",
+   "fait": "Netanyahou a présenté une nouvelle doctrine de sécurité en évoquant le risque turc, déclenchant de vives critiques de l'opposition israélienne.",
+   "questions": [
+    {
+     "q": "Qu'a déclaré Benjamin Netanyahou au sujet de la Turquie ?",
+     "a": "Il a déclaré espérer éviter une confrontation directe avec la Turquie tout en affirmant prendre en compte toutes les possibilités."
+    },
+    {
+     "q": "Quelles critiques Naftali Bennett a-t-il formulées ?",
+     "a": "Bennett accuse Netanyahou de n'avoir élaboré une doctrine qu'après le plus grand échec sécuritaire du pays et le soupçonne de servir les intérêts du Qatar."
+    },
+    {
+     "q": "Comment Gadi Eisenkot a-t-il qualifié le document de Netanyahou ?",
+     "a": "Eisenkot l'a qualifié de « deux pages creuses, remplies de slogans », accusant le Premier ministre de refuser d'enquêter sur les défaillances passées."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Israël · Manifestations",
+   "fait": "Des heurts ont éclaté sur la route 4 entre policiers et manifestants ultra-orthodoxes protestant contre l'arrestation de deux déserteurs présumés.",
+   "questions": [
+    {
+     "q": "Quel groupe mène ces manifestations ?",
+     "a": "Les manifestants appartiennent au mouvement ultra-orthodoxe radical « Peleg Yerushalmi »."
+    },
+    {
+     "q": "Quels moyens la police a-t-elle employés pour rétablir l'ordre ?",
+     "a": "Les unités de police (YASAM) ont utilisé des matraques, des grenades assourdissantes et le survol d'un hélicoptère."
+    },
+    {
+     "q": "Quel secteur routier a été bloqué au départ de l'action ?",
+     "a": "Les manifestants ont d'abord bloqué l'échangeur de Gan Yavné avant que les affrontements ne se concentrent sur la route 4."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Israël · Médias",
+   "fait": "Le gouvernement israélien doit prolonger de 90 jours l'interdiction de diffusion sur son sol des chaînes de télévision Al Jazeera et Al Mayadeen.",
+   "questions": [
+    {
+     "q": "Pour quelle durée la suspension des chaînes doit-elle être renouvelée ?",
+     "a": "La suspension est prévue pour une durée supplémentaire de 90 jours."
+    },
+    {
+     "q": "Quelles inquiétudes politiques entourent cette prolongation ?",
+     "a": "Certains responsables craignent qu'en cas de défaite de la droite aux élections, l'opposition des Démocrates et de Ra'am empêche un nouveau renouvellement."
+    },
+    {
+     "q": "Quand l'interdiction initiale est-elle entrée en vigueur ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Israël · Défense",
+   "fait": "Tsahal mènera un exercice militaire d'envergure impliquant forces terrestres et navales dans la région de Haïfa du 19 au 20 octobre.",
+   "questions": [
+    {
+     "q": "Quelles nuisances sonores sont attendues lors de l'exercice ?",
+     "a": "Des tirs ainsi que des bruits d'explosions seront entendus dans le secteur de Haïfa."
+    },
+    {
+     "q": "Combien de temps durera l'exercice militaire ?",
+     "a": "L'exercice débutera lundi 19 octobre au matin pour se terminer mardi 20 octobre dans la soirée."
+    },
+    {
+     "q": "Quel est l'objectif opérationnel exact de cet exercice ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 4,
+   "topic": "Israël · Sécurité aérienne",
+   "fait": "Un vol de la compagnie Wizz Air reliant Londres à Tel-Aviv a failli être refoulé en raison de données d'équipage erronées.",
+   "questions": [
+    {
+     "q": "Quelle était la cause des soupçons des autorités israéliennes ?",
+     "a": "Les services de sécurité soupçonnaient l'un des pilotes d'avoir la nationalité qatarie suite à des données transmises après le décollage."
+    },
+    {
+     "q": "Comment l'incident s'est-il résolu ?",
+     "a": "La vérification avec la compagnie a montré que les informations avaient été mal saisies, et l'avion a été autorisé à atterrir."
+    },
+    {
+     "q": "Quel événement récent avait incité à cette vigilance accrue ?",
+     "a": "L'incident intervient à la suite d'une affaire similaire survenue sur un vol Flydubai."
+    }
+   ]
+  },
+  {
+   "score": 4,
+   "topic": "Israël · Gouvernement",
+   "fait": "La réunion dominicale du gouvernement israélien a été programmée dans un lieu souterrain sécurisé, selon les informations de Kan News.",
+   "questions": [
+    {
+     "q": "Où se situe exactement ce lieu souterrain sécurisé ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour."
+    },
+    {
+     "q": "Quelle raison officielle a été donnée pour justifier ce changement de lieu ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour."
+    },
+    {
+     "q": "Quel média a révélé la tenue de cette réunion en sous-sol ?",
+     "a": "L'information a été rapportée par la chaîne de télévision israélienne Kan News."
+    }
+   ]
+  }
  ]
 }
