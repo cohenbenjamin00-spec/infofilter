@@ -15854,5 +15854,292 @@
     }
    ]
   }
+ ],
+ "2026-10-19": [
+  {
+   "score": 9,
+   "topic": "Israël · Élections",
+   "fait": "L'armée israélienne se place en état d'alerte maximale pour sécuriser la tenue des élections, instaurant des mesures de restriction exceptionnelles.",
+   "questions": [
+    {
+     "q": "Quelles mesures ont été arrêtées par le chef d'état-major Eyal Zamir ?",
+     "a": "Les mesures incluent la suspension des permissions dès jeudi, le renforcement des officiers supérieurs dans les postes de commandement, des renforts en Judée-Samarie et des moyens accrus sur les autres fronts."
+    },
+    {
+     "q": "Quel est l'objectif affiché de ce dispositif militaire ?",
+     "a": "Il vise à permettre le déroulement des élections démocratiques à la date prévue dans des conditions de sécurité optimales face aux tensions sur tous les fronts."
+    },
+    {
+     "q": "Quelle décision politique majeure Benny Gantz a-t-il annoncée le même jour ?",
+     "a": "Benny Gantz a annoncé qu'il ne se présenterait pas aux prochaines élections, appelant à préserver l'unité."
+    }
+   ]
+  },
+  {
+   "score": 8,
+   "topic": "Gaza · Tsahal",
+   "fait": "Tsahal a éliminé plusieurs cadres du Hamas lors de frappes ciblées à Gaza et révélé un document interne du groupe islamiste.",
+   "questions": [
+    {
+     "q": "Qui sont les membres du Hamas visés par les frappes israéliennes ?",
+     "a": "Tsahal a éliminé Abdallah Mohammed Khamis Jaber, Majed Ahmed Moustafa Sabbagh et Amer Bashir Mohammed Hourani, accusés de préparer des attaques et de reconstituer les capacités militaires du groupe."
+    },
+    {
+     "q": "Que révèle le document interne du Hamas dévoilé par Tsahal ?",
+     "a": "Rédigé en avril 2024, le document détaille un projet consistant à installer des explosifs près des camps de déplacés civils pour couvrir la fuite des combattants en créant la panique."
+    },
+    {
+     "q": "Quelle mise en garde le ministre de la Défense Israël Katz a-t-il formulée ?",
+     "a": "Il a averti que le moment approchait où Tsahal démantèlerait elle-même le Hamas et démilitariserait l'enclave en éliminant armes et tunnels."
+    }
+   ]
+  },
+  {
+   "score": 8,
+   "topic": "France · Émeutes",
+   "fait": "Après les émeutes du week-end ayant fait près de 1 000 blessés parmi les forces de l'ordre, Paris instaure un couvre-feu nocturne ciblé.",
+   "questions": [
+    {
+     "q": "Quel est le bilan humain et judiciaire des violences du 17 octobre ?",
+     "a": "Le ministère de l'Intérieur a recensé 2 397 interpellations et 997 policiers et gendarmes blessés, dont sept grièvement."
+    },
+    {
+     "q": "Quels quartiers parisiens sont concernés par le couvre-feu ?",
+     "a": "Le couvre-feu s'applique de 20 heures à 6 heures du matin dans les secteurs de la place de la République et des Halles."
+    },
+    {
+     "q": "Quels moyens d'enquête sont mis en œuvre pour poursuivre les fauteurs de troubles ?",
+     "a": "Le Premier ministre Sébastien Lecornu a annoncé la mobilisation d'environ 200 enquêteurs en région parisienne pour identifier les pilleurs non masqués via photos et vidéos."
+    }
+   ]
+  },
+  {
+   "score": 8,
+   "topic": "Ukraine · Diplomatie",
+   "fait": "Vladimir Poutine propose un sommet trilatéral avec Donald Trump et Xi Jinping en novembre pour négocier la fin du conflit ukrainien.",
+   "questions": [
+    {
+     "q": "Où et quand ce sommet trilatéral pourrait-il se tenir ?",
+     "a": "La rencontre pourrait avoir lieu en novembre en Chine, en marge du sommet de l'APEC."
+    },
+    {
+     "q": "Le président ukrainien Volodymyr Zelensky est-il convié aux discussions ?",
+     "a": "Non, selon les révélations du Wall Street Journal, Volodymyr Zelensky ne serait pas invité à participer aux pourparlers."
+    },
+    {
+     "q": "Quelle a été la réponse des autorités américaines ?",
+     "a": "Donald Trump n'a pas donné son accord à ce stade et aucune date officielle n'a été fixée."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Terrorisme · Israël",
+   "fait": "Les unités d'élite du Yamam et le Shin Bet ont déjoué un attentat imminent en interceptant deux suspects sur la route 1.",
+   "questions": [
+    {
+     "q": "Où a eu lieu l'opération d'interception des deux suspects ?",
+     "a": "L'arrestation s'est déroulée à proximité de l'échangeur de Latroun, sur la route 1 reliant Jérusalem à Tel-Aviv."
+    },
+    {
+     "q": "Y a-t-il eu des victimes ou des blessés parmi les forces israéliennes ?",
+     "a": "Le communiqué conjoint de la police et du Shin Bet indique qu'aucun blessé n'est à déplorer parmi les forces israéliennes."
+    },
+    {
+     "q": "D'autres arrestations préventives ont-elles eu lieu en Judée-Samarie le même jour ?",
+     "a": "L'unité Duvdevan a également arrêté deux terroristes préparant une attaque imminente dans le village de Kafr Aqab."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Liban · États-Unis",
+   "fait": "Washington a averti les dirigeants libanais qu'une entrée en guerre du Hezbollah provoquerait une riposte israélienne massive et sans restriction.",
+   "questions": [
+    {
+     "q": "À qui l'avertissement américain a-t-il été transmis au Liban ?",
+     "a": "Le message a été adressé directement au président libanais Joseph Aoun et au Premier ministre Nawaf Salam."
+    },
+    {
+     "q": "Que stipule le message transmis par les États-Unis ?",
+     "a": "Toute implication du Hezbollah aux côtés de l'Iran entraînerait des frappes israéliennes sévères et sans les restrictions habituelles."
+    },
+    {
+     "q": "Quelle découverte militaire l'armée libanaise a-t-elle inspectée près de Beyrouth ?",
+     "a": "L'armée libanaise est intervenue sur un tunnel à Roueissat al-Jadida, affirmant n'y avoir trouvé aucun armement mais seulement des outils de creusement."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Égypte · Arabie saoudite",
+   "fait": "Le Conseil de défense égyptien a approuvé une aide militaire à l'Arabie saoudite face aux attaques des Houthis yéménites.",
+   "questions": [
+    {
+     "q": "Quelle décision a pris le président Abdel Fattah al-Sissi concernant Riyad ?",
+     "a": "Le Conseil a décidé de fournir à l'Arabie saoudite toutes les formes d'assistance possibles pour garantir sa sécurité et sa stabilité."
+    },
+    {
+     "q": "Une intervention armée directe de l'Égypte est-elle envisageable ?",
+     "a": "Le Parlement égyptien examine la possibilité d'autoriser une intervention militaire défensive si Riyad en formule officiellement la demande."
+    },
+    {
+     "q": "Quels mouvements aériens ont été relevés dans le secteur saoudien ?",
+     "a": "Des avions ravitailleurs britanniques et koweïtiens ainsi qu'un appareil militaire turc ont opéré en direction ou en soutien de l'Arabie saoudite."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Iran · Golfe Persique",
+   "fait": "Un pétrolier a pris feu dans le détroit d'Ormuz après avoir heurté une mine navale selon les Gardiens de la révolution iraniens.",
+   "questions": [
+    {
+     "q": "Où l'incident maritime s'est-il produit précisément ?",
+     "a": "L'explosion et l'incendie ont eu lieu dans la partie sud du détroit d'Ormuz, au niveau de la salle des machines du bâtiment."
+    },
+    {
+     "q": "Quelle justification avance Téhéran au sujet de ce navire ?",
+     "a": "Téhéran affirme que le pétrolier avait coupé ses systèmes de navigation et emprunté un itinéraire non autorisé par l'Iran."
+    },
+    {
+     "q": "Connaît-on le pavillon du pétrolier ou le bilan humain ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Allemagne · Iran",
+   "fait": "Berlin a convoqué l'ambassadeur d'Iran après la condamnation de deux agents liés à la Force Al-Qods pour des projets d'attentats antisémites.",
+   "questions": [
+    {
+     "q": "Quelles peines de prison ont été prononcées par le tribunal de Hambourg ?",
+     "a": "Les deux hommes ont été condamnés le 15 octobre à des peines de huit ans et demi et quatre ans et demi de prison."
+    },
+    {
+     "q": "Qui étaient les cibles visées par ce complot terroriste ?",
+     "a": "Les projets ciblaient Volker Beck, président de la Société germano-israélienne, ainsi que plusieurs personnalités et établissements juifs en Allemagne."
+    },
+    {
+     "q": "Quel organe iranien est directement mis en cause par la justice allemande ?",
+     "a": "La justice indique que l'un des condamnés recevait ses ordres de la Force Al-Qods, branche extérieure des Gardiens de la révolution."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Judée-Samarie · Sécurité",
+   "fait": "Le ministre de la Défense Israël Katz veut confier le maintien de l'ordre civil en Judée-Samarie exclusivement à la police israélienne.",
+   "questions": [
+    {
+     "q": "Pourquoi Israël Katz souhaite-t-il retirer cette mission à Tsahal ?",
+     "a": "Il estime que Tsahal doit se consacrer à la lutte antiterroriste et laisser la gestion des troubles civils aux services de police."
+    },
+    {
+     "q": "Quelle position le ministre défend-il sur la détention administrative ?",
+     "a": "Il rejette catégoriquement le recours à la détention administrative, qu'il qualifie de mesure draconienne, préférant une action policière renforcée."
+    },
+    {
+     "q": "Quelle nouvelle unité a été créée pour intervenir dans le secteur ?",
+     "a": "Le chef d'état-major a approuvé la création d'une nouvelle compagnie du Magav pour intervenir dans les zones sensibles de Judée-Samarie."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Justice · Terrorisme",
+   "fait": "Un ancien médecin de l'hôpital Soroka a été condamné à 27 mois de prison ferme pour avoir prêté allégeance à Daesh.",
+   "questions": [
+    {
+     "q": "Quelle juridiction a rendu le verdict contre le médecin ?",
+     "a": "Le tribunal de première instance de Beer-Sheva a prononcé la peine de 27 mois ferme accompagnée de 15 000 shekels d'amende."
+    },
+    {
+     "q": "Quels éléments matériels accablaient le Dr Mohammed Azzam ?",
+     "a": "Il a été reconnu coupable d'appartenance à Daesh et de détention de guides de fabrication d'explosifs et de substances toxiques."
+    },
+    {
+     "q": "Quand l'accusé s'était-il rallié à l'organisation terroriste ?",
+     "a": "Il avait officiellement prêté allégeance au groupe terroriste après les massacres commis le 7 octobre 2023."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "États-Unis · Marine",
+   "fait": "Le porte-avions USS Theodore Roosevelt a quitté le Japon et pourrait rejoindre le Moyen-Orient après un exercice bilatéral.",
+   "questions": [
+    {
+     "q": "À quel exercice préalable participe le porte-avions américain ?",
+     "a": "Le porte-avions participe à l'exercice militaire bilatéral Keen Sword 27, prévu jusqu'au 29 octobre au Japon."
+    },
+    {
+     "q": "Combien de porte-avions américains pourraient être alors déployés dans la région ?",
+     "a": "Ce déploiement sous l'égide du CENTCOM pourrait porter à trois le nombre de groupes aéronavals américains déployés au Moyen-Orient."
+    },
+    {
+     "q": "Quel autre porte-avions américain est déjà présent dans la zone ?",
+     "a": "L'USS George H.W. Bush est mentionné comme déjà déployé dans la région."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Antisémitisme · Europe",
+   "fait": "Des ressortissants israéliens ont été la cible de menaces et d'actes d'intimidation à Vienne et à Istanbul.",
+   "questions": [
+    {
+     "q": "Que s'est-il passé pour des touristes israéliens à Vienne ?",
+     "a": "Un couple a dû fuir son logement de vacances après qu'un individu a martelé leur porte en criant des slogans anti-israéliens."
+    },
+    {
+     "q": "Quel incident a eu lieu au centre commercial Istinye Park d'Istanbul ?",
+     "a": "Une Israélienne a été encerclée et insultée par des manifestants avant d'être évacuée saine et sauve par le service de sécurité."
+    },
+    {
+     "q": "Y a-t-il eu des arrestations à la suite de l'incident survenu en Autriche ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour, la police autrichienne étant arrivée après la fuite du suspect."
+    }
+   ]
+  },
+  {
+   "score": 4,
+   "topic": "France · Faits divers",
+   "fait": "Une adolescente a perdu un œil en marge de manifestations à Mulhouse et un promeneur a été tué par un chasseur en Lozère.",
+   "questions": [
+    {
+     "q": "Pourquoi l'IGPN a-t-elle été saisie à Mulhouse ?",
+     "a": "L'IGPN a été saisie après qu'une jeune fille de 17 ans a perdu l'œil gauche, potentiellement blessée par un projectile du maintien de l'ordre."
+    },
+    {
+     "q": "Quelles sont les circonstances du tir mortel survenu à Cassagnas ?",
+     "a": "Un chasseur a tiré sur un promeneur dimanche midi dans les Cévennes après l'avoir confondu avec un animal."
+    },
+    {
+     "q": "Quel autre incident mortel a touché un manifestant à Paris samedi ?",
+     "a": "Un homme est mort d'un arrêt cardiorespiratoire sur le boulevard de Magenta sans lien établi avec une action policière."
+    }
+   ]
+  },
+  {
+   "score": 4,
+   "topic": "Ukraine · Armement",
+   "fait": "L'armée ukrainienne a utilisé un drone gros porteur de 150 kilos de charge pour évacuer un soldat blessé en zone minée.",
+   "questions": [
+    {
+     "q": "Pourquoi une évacuation terrestre classique n'a-t-elle pu être effectuée ?",
+     "a": "Le soldat blessé gisait au cœur d'un secteur miné, ce qui empêchait les brancardiers d'intervenir à pied en sécurité."
+    },
+    {
+     "q": "Quelle charge maximale cet appareil de secours peut-il soulever ?",
+     "a": "Le drone utilisé dispose d'une capacité d'emport atteignant jusqu'à 150 kilogrammes."
+    },
+    {
+     "q": "Dans quel secteur précis du front s'est déroulée cette opération ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour."
+    }
+   ]
+  }
  ]
 }
