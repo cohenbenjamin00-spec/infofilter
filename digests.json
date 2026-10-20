@@ -16141,5 +16141,368 @@
     }
    ]
   }
+ ],
+ "2026-10-20": [
+  {
+   "score": 9,
+   "topic": "Israël · Liban",
+   "fait": "Israël Katz a détaillé l'établissement d'une zone de sécurité de 700 kilomètres carrés au Sud-Liban, impliquant la destruction de soixante villages.",
+   "questions": [
+    {
+     "q": "Quelle est la superficie de la zone de sécurité établie par Israël au Liban ?",
+     "a": "La zone de sécurité établie par Tsahal à l'intérieur du territoire libanais s'étend sur 700 kilomètres carrés, de la côte méditerranéenne jusqu'aux abords du mont Hermon."
+    },
+    {
+     "q": "Quel bilan des destructions le ministre de la Défense a-t-il dressé ?",
+     "a": "Plus de 60 villages libanais et 23 000 habitations ont été détruits dans le cadre de l'opération « Charrue d'argent », tandis que la 91e division a détruit plus de 540 infrastructures terroristes."
+    },
+    {
+     "q": "À quelle condition Tsahal évacuera-t-elle cette zone de sécurité ?",
+     "a": "Tsahal ne quittera pas la zone tant que le Hezbollah n'aura pas été désarmé dans l'ensemble du Liban et que la menace pesant sur le nord ne sera pas éliminée."
+    }
+   ]
+  },
+  {
+   "score": 8,
+   "topic": "États-Unis · Israël · Iran",
+   "fait": "Le secrétaire américain à la Défense Pete Hegseth a rencontré discrètement Benjamin Netanyahou en Israël pour discuter d'une reprise de la guerre contre l'Iran.",
+   "questions": [
+    {
+     "q": "Où et quand la rencontre entre Benjamin Netanyahou et Pete Hegseth s'est-elle déroulée ?",
+     "a": "La rencontre s'est tenue le 19 octobre 2026 dans le sud d'Israël, huit jours avant les élections israéliennes et sans annonce préalable du Pentagone."
+    },
+    {
+     "q": "Quelle activité aérienne militaire israélienne a été signalée à proximité de l'Iran ?",
+     "a": "Selon la chaîne Kan 11, des avions de chasse israéliens se sont entraînés dans l'espace aérien irakien, près de la frontière iranienne, en guise de message de dissuasion."
+    },
+    {
+     "q": "Quelle a été la réaction diplomatique russe à cette visite ?",
+     "a": "Le ministre russe des Affaires étrangères, Sergueï Lavrov, a qualifié ce déplacement américain de dernier avertissement adressé à l'Iran avant une guerre."
+    }
+   ]
+  },
+  {
+   "score": 8,
+   "topic": "Israël · Sécurité intérieure",
+   "fait": "Le Yamam et le Shin Bet ont déjoué un attentat imminent en arrêtant trois terroristes présumés à Latroun et dans le centre d'Israël.",
+   "questions": [
+    {
+     "q": "Quelles forces ont participé à l'interpellation des suspects ?",
+     "a": "L'opération a été menée conjointement par les combattants de l'unité d'élite Yamam et les agents du renseignement intérieur israélien (Shin Bet)."
+    },
+    {
+     "q": "Comment les trois arrestations se sont-elles déroulées ?",
+     "a": "Deux principaux suspects ont d'abord été capturés dans la région de Latroun, puis leurs aveux sur place ont permis de localiser et d'arrêter un troisième complice dans un secteur très fréquenté du centre du pays."
+    },
+    {
+     "q": "Où les suspects ont-ils été conduits après leur capture ?",
+     "a": "Les trois suspects ont été immédiatement transférés au Shin Bet pour être interrogés."
+    }
+   ]
+  },
+  {
+   "score": 8,
+   "topic": "Bande de Gaza · Tsahal",
+   "fait": "Tsahal a éliminé à Gaza un haut responsable sécuritaire du Hamas ainsi qu'un terroriste impliqué dans l'enlèvement de Shani Louk le 7 octobre.",
+   "questions": [
+    {
+     "q": "Qui sont les cadres du Hamas éliminés par les forces israéliennes ?",
+     "a": "Tsahal et le Shin Bet ont éliminé Tamer Mohammed Ibrahim al-Saba, membre de la Nukhba à Jabaliya, et Akram Bassam Shaaban Yassine, haut responsable du mécanisme de sécurité générale à Gaza."
+    },
+    {
+     "q": "Quel était le rôle d'Akram Bassam Shaaban Yassine au sein du Hamas ?",
+     "a": "Il gérait la protection et les déplacements d'urgence des hauts dirigeants du Hamas et recueillait des renseignements sur les forces de sécurité pour élaborer des projets d'attaques."
+    },
+    {
+     "q": "Quelles autres cibles militaires ont été détruites à Gaza ?",
+     "a": "Tsahal et le Shin Bet ont détruit trois dépôts d'armes contenant des roquettes, RPG et fusils d'assaut, et ont frappé deux suspects ayant franchi la ligne jaune."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Israël · Service militaire",
+   "fait": "Quarante-deux réfractaires ultra-orthodoxes ont été arrêtés par les autorités militaires israéliennes, déclenchant des manifestations de blocage à Jérusalem et une vive controverse politique.",
+   "questions": [
+    {
+     "q": "Quelles sanctions judiciaires militaires ont été infligées aux quarante-deux personnes arrêtées ?",
+     "a": "Vingt-sept ont accepté d'être incorporées et ont reçu du sursis, treize ont refusé de coopérer et ont été emprisonnées, tandis que deux insoumis de longue durée ont été immédiatement incarcérés."
+    },
+    {
+     "q": "Où un groupe important d'insoumis a-t-il été intercepté ?",
+     "a": "Plus de 40 hassidim du mouvement Habad considérés comme insoumis ont été retenus à leur arrivée à l'aéroport Ben Gourion par la police militaire."
+    },
+    {
+     "q": "Quelles ont été les conséquences politiques et publiques de ces arrestations ?",
+     "a": "Des manifestants ont bloqué la route de Hébron à Jérusalem, tandis que Gadi Eisenkot a accusé Benjamin Netanyahou de négocier une loi d'exemption pour former son futur gouvernement."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Iran · États-Unis",
+   "fait": "L'Iran affirme bloquer totalement le détroit d'Ormuz et refuse de céder son uranium enrichi, tandis que Donald Trump évoque une sortie du conflit.",
+   "questions": [
+    {
+     "q": "Quelle position les autorités iraniennes ont-elles exprimée sur leur matière nucléaire ?",
+     "a": "Le Conseil suprême de sécurité nationale a affirmé qu'aucune particule d'uranium enrichi ne quitterait le pays, qualifiant cette matière de patrimoine national."
+    },
+    {
+     "q": "Quelle situation prévaut dans le détroit d'Ormuz selon les Gardiens de la révolution ?",
+     "a": "Ils affirment que le passage par le détroit est totalement bloqué et sous leur contrôle exclusif, contredisant les déclarations de Donald Trump."
+    },
+    {
+     "q": "Quelles initiatives diplomatiques ont été rapportées pour apaiser la situation ?",
+     "a": "Le chef de l'armée pakistanaise s'est rendu à Téhéran comme médiateur, tandis que le Qatar a déclaré travailler avec Washington et Téhéran pour mettre fin à la guerre."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Israël · Iran · Hezbollah",
+   "fait": "Depuis la frontière nord, Benjamin Netanyahou a réaffirmé sa volonté de renverser le régime iranien et de frapper le Hezbollah en cas d'attaque.",
+   "questions": [
+    {
+     "q": "Quelles menaces Benjamin Netanyahou a-t-il mises en avant lors de son déplacement à Kiryat Shmona ?",
+     "a": "Il a averti le Hezbollah et l'Iran contre des tirs de missiles ou de drones, n'excluant pas une tentative d'attaque le jour même des élections israéliennes."
+    },
+    {
+     "q": "Avec quel dirigeant étranger Netanyahou a-t-il abordé la chute du pouvoir iranien ?",
+     "a": "Le Premier ministre a affirmé avoir discuté à plusieurs reprises du renversement du régime iranien avec le président américain Donald Trump, y compris l'avant-veille."
+    },
+    {
+     "q": "Quelle riposte le ministre de la Défense promet-il en cas de frappes contre le nord d'Israël ?",
+     "a": "Israël Katz a affirmé que tout tir contre les localités du nord entraînerait une riposte puissante contre le quartier de Dahieh à Beyrouth."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Autorité palestinienne · Chine",
+   "fait": "Une enquête révèle que des dizaines d'officiers de sécurité de l'Autorité palestinienne suivent des entraînements au maniement de blindés en Chine.",
+   "questions": [
+    {
+     "q": "Quels types de formations militaires les officiers palestiniens reçoivent-ils en Chine ?",
+     "a": "Les cursus portent notamment sur le commandement et le maniement de véhicules blindés, les armes antichars, le tir de précision, la navigation avancée et les opérations maritimes."
+    },
+    {
+     "q": "Quel cas individuel précis est mis en avant dans l'enquête ?",
+     "a": "L'officier palestinien Hassan Taha a terminé un cursus de commandement de compagnies blindées à l'académie militaire de Pékin en juillet 2026."
+    },
+    {
+     "q": "Quelle a été la réponse des services de sécurité israéliens ?",
+     "a": "Tsahal, le COGAT et le Shin Bet n'ont apporté aucune réponse sur le fond, et plusieurs ministres ont déclaré ignorer l'existence de ces entraînements."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Israël · Criminalité organisée",
+   "fait": "La police israélienne a saisi un arsenal militaire et de la cocaïne appartenant à l'organisation criminelle Abou Latif près du village de Rama.",
+   "questions": [
+    {
+     "q": "Quelles armes et matériels militaires ont été découverts dans la cache ?",
+     "a": "Les forces de l'ordre ont saisi 4 pistolets, 8 fusils (dont des M16 et Kalachnikov), des explosifs réglementaires de Tsahal, des détonateurs, des chargeurs et des gilets pare-balles."
+    },
+    {
+     "q": "Quelle quantité de stupéfiants a été retrouvée sur place ?",
+     "a": "Plus de 3 kg d'une substance suspectée d'être de la cocaïne ont été saisis par les enquêteurs."
+    },
+    {
+     "q": "Quelle est la valeur estimée de cette prise ?",
+     "a": "L'ensemble des armes, des stupéfiants et des équipements saisis est estimé à plusieurs millions de shekels sur le marché criminel."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Israël · Armée spatiale",
+   "fait": "Le ministre de la Défense Israël Katz a annoncé la création d'une brigade spatiale au sein de Tsahal pour renforcer la puissance militaire israélienne.",
+   "questions": [
+    {
+     "q": "Comment le ministre de la Défense a-t-il qualifié cette orientation stratégique ?",
+     "a": "Israël Katz a qualifié ce programme de « guerre des étoiles bleu et blanc »."
+    },
+    {
+     "q": "Quelles missions opérationnelles cette brigade spatiale devra-t-elle assurer ?",
+     "a": "Elle doit permettre de surveiller, défendre et frapper depuis l'espace des cibles situées sur de vastes territoires afin de renforcer la dissuasion d'Israël."
+    },
+    {
+     "q": "Quelles retombées économiques sont attendues par le gouvernement ?",
+     "a": "Le ministre prévoit une impulsion majeure pour l'économie israélienne dans la recherche, l'innovation, l'entrepreneuriat et la production technologique militaire et civile."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Israël · Hongrie",
+   "fait": "Le président israélien Isaac Herzog a effectué une visite officielle à Budapest pour rencontrer le nouveau Premier ministre hongrois Péter Magyar.",
+   "questions": [
+    {
+     "q": "En quoi ce voyage marquait-il un tournant dans les relations bilatérales ?",
+     "a": "Il s'agissait de la première rencontre officielle d'un dirigeant israélien avec le nouveau chef du gouvernement hongrois après le départ de Viktor Orbán."
+    },
+    {
+     "q": "Quelle suite a été donnée à cette rencontre diplomatique ?",
+     "a": "Le président Herzog a invité Péter Magyar à se rendre en visite officielle en Israël, une proposition qu'il a acceptée."
+    },
+    {
+     "q": "Quelle disposition inhabituelle a été prise concernant le cortège présidentiel ?",
+     "a": "Le convoi d'Isaac Herzog a été contraint de circuler sans drapeaux israéliens dans les rues hongroises pour des raisons de sécurité."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Royaume-Uni · Espionnage",
+   "fait": "La police antiterroriste britannique a arrêté deux binationaux iraniens soupçonnés d'espionnage au profit de Téhéran ciblant la base aérienne de Fairford.",
+   "questions": [
+    {
+     "q": "Quelle est l'identité administrative des suspects arrêtés ?",
+     "a": "Il s'agit de deux jeunes hommes âgés de 24 et 25 ans possédant la double nationalité britannique et iranienne."
+    },
+    {
+     "q": "Quel motif d'inculpation a été retenu à leur encontre ?",
+     "a": "Ils sont suspectés d'« assistance à un service de renseignement étranger » au bénéfice de l'Iran."
+    },
+    {
+     "q": "Quel site de défense était visé par leurs activités ?",
+     "a": "L'enquête porte sur un incident survenu sur la base militaire de la Royal Air Force (RAF) de Fairford."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Italie · Économie",
+   "fait": "Une grève des transporteurs routiers contre la flambée du prix du diesel entraîne de sévères pénuries de vivres et de carburant dans le sud de l'Italie.",
+   "questions": [
+    {
+     "q": "Quelles zones d'Italie connaissent des difficultés d'approvisionnement ?",
+     "a": "Des supermarchés dégarnis et des stations-service à sec sont rapportés à Naples, ainsi qu'en Sicile, en Calabre et dans les Pouilles."
+    },
+    {
+     "q": "Quelle hausse tarifaire est à l'origine de la contestation des chauffeurs ?",
+     "a": "Les prix du diesel ont augmenté d'environ 33 % depuis le début de la guerre en Iran."
+    },
+    {
+     "q": "Quelle solution d'urgence le gouvernement italien a-t-il présentée ?",
+     "a": "Le ministre Matteo Salvini a promis des crédits d'impôt pour amortir la hausse du carburant, avec de possibles premiers versements dès mercredi."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Judée-Samarie · Tsahal",
+   "fait": "Tsahal a déployé un vaste exercice militaire d'entraînement en Judée-Samarie et arrêté un suspect terroriste lors d'une opération près de Jénine.",
+   "questions": [
+    {
+     "q": "Quelle est la durée et la nature de l'exercice déclenché par Tsahal ?",
+     "a": "L'exercice a débuté mardi à la mi-journée pour s'achever mercredi à la mi-journée, impliquant des manœuvres aériennes, des véhicules blindés et des tirs simulés."
+    },
+    {
+     "q": "Où l'arrestation antiterroriste nocturne a-t-elle été effectuée ?",
+     "a": "Les unités d'infiltration de Magav et le Shin Bet ont encerclé puis capturé un individu recherché dans le village de Dan, près de Jénine."
+    },
+    {
+     "q": "Quel est le but des manœuvres selon l'état-major ?",
+     "a": "L'exercice vise à préparer les troupes aux missions de défense, de contre-terrorisme et à la gestion de scénarios complexes dans la division de Judée-Samarie."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Royaume-Uni · Antisémitisme",
+   "fait": "Trois femmes juives ont été agressées à Londres dans le quartier de Stamford Hill, entraînant l'arrestation d'un homme de trente-trois ans.",
+   "questions": [
+    {
+     "q": "Dans quelles circonstances l'agresseur présumé a-t-il été neutralisé ?",
+     "a": "Le suspect de 33 ans a été appréhendé après l'intervention sur place de bénévoles de l'organisation juive Shomrim."
+    },
+    {
+     "q": "Quelle circonstance aggrave l'agression subie par l'une des victimes ?",
+     "a": "L'une des trois femmes agressées circulait avec son bébé dans une poussette au moment de l'attaque."
+    },
+    {
+     "q": "Quelle orientation la police donne-t-elle à son enquête ?",
+     "a": "Les enquêteurs de la police londonienne examinent formellement la possibilité d'un mobile antisémite."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "États-Unis · Antisémitisme",
+   "fait": "Des dégradations antisémites ont visé un commerce casher dans le Queens et une agence bancaire à Manhattan revendiquée par Palestine Action.",
+   "questions": [
+    {
+     "q": "Quelle action judiciaire a été ouverte dans l'arrondissement du Queens ?",
+     "a": "Un individu de 22 ans a été inculpé pour crime de haine après avoir ciblé à deux reprises en mai un commerce casher arborant des drapeaux israéliens."
+    },
+    {
+     "q": "Quels tags ont été peints sur la façade de la banque à Manhattan ?",
+     "a": "Des inscriptions à la peinture rouge portaient les mentions « PAL ACTION » et « DROP ELBIT », visant l'entreprise d'armement israélienne Elbit Systems."
+    },
+    {
+     "q": "Qui a endossé la responsabilité des dégradations commises dans l'Upper East Side ?",
+     "a": "Le groupe pro-palestinien Palestine Action a revendiqué l'attaque contre l'agence bancaire."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Chine · États-Unis",
+   "fait": "L'armée chinoise a mobilisé des navires de guerre pour surveiller le bâtiment américain USS Charleston près du récif Sabina en mer de Chine méridionale.",
+   "questions": [
+    {
+     "q": "Où cette confrontation maritime s'est-elle produite ?",
+     "a": "L'incident s'est déroulé à proximité du récif contesté de Sabina, au sein de l'archipel des Spratleys."
+    },
+    {
+     "q": "Quelle infraction Pékin reproche-t-il au bâtiment de l'US Navy ?",
+     "a": "La marine chinoise accuse l'USS Charleston d'avoir pénétré sans son autorisation préalable dans des eaux territoriales qu'elle revendique."
+    },
+    {
+     "q": "Comment les États-Unis justifient-ils ces missions navales dans la zone ?",
+     "a": "Washington affirme mener régulièrement des patrouilles afin de faire respecter le principe de liberté de navigation dans cette région stratégique."
+    }
+   ]
+  },
+  {
+   "score": 4,
+   "topic": "France · Ordre public",
+   "fait": "Le centre commercial Créteil Soleil a été évacué préventivement par les forces de l'ordre après des alertes sur un possible pillage collectif.",
+   "questions": [
+    {
+     "q": "Des pillages ont-ils finalement été commis à l'intérieur du complexe ?",
+     "a": "Selon les informations recueillies, aucun pillage n'a été constaté et aucun attroupement n'a été confirmé sur place."
+    },
+    {
+     "q": "Qu'est-ce qui a motivé l'évacuation ordonnée par les autorités ?",
+     "a": "La décision d'évacuer et de fermer les boutiques a été prise à titre de précaution après des appels diffusés sur les réseaux sociaux annonçant un rassemblement de casseurs."
+    },
+    {
+     "q": "Quelles forces de sécurité ont été mobilisées sur le site ?",
+     "a": "Des compagnies de CRS ont été déployées pour verrouiller les accès et sécuriser l'ensemble du centre commercial."
+    }
+   ]
+  },
+  {
+   "score": 3,
+   "topic": "Israël · Faits divers",
+   "fait": "La directrice d'une crèche privée d'Ariel et une employée ont été arrêtées par la police israélienne pour des soupçons de maltraitance sur enfants.",
+   "questions": [
+    {
+     "q": "Quelle sanction administrative a frappé la garderie incriminée ?",
+     "a": "Les autorités ont ordonné la fermeture administrative complète de l'établissement pour une durée de 60 jours."
+    },
+    {
+     "q": "Combien d'arrestations ont été opérées dans cette affaire ?",
+     "a": "La police israélienne a interpellé deux nouvelles suspectes, dont la directrice de la structure."
+    },
+    {
+     "q": "Dans quelle ville ces faits présumés ont-ils eu lieu ?",
+     "a": "Les faits et l'établissement concerné sont situés dans la ville d'Ariel."
+    }
+   ]
+  }
  ]
 }
