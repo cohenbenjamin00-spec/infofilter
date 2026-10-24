@@ -16504,5 +16504,235 @@
     }
    ]
   }
+ ],
+ "2026-10-24": [
+  {
+   "score": 9,
+   "topic": "États-Unis · Iran",
+   "fait": "Washington évacue du personnel au Moyen-Orient face à des projets d'assassinats iraniens avancés ciblant des diplomates et responsables américains.",
+   "questions": [
+    {
+     "q": "Quels pays sont concernés par les réductions ou évacuations de personnel américain ?",
+     "a": "Les mesures concernent notamment la Jordanie, le Qatar, le Liban, les Émirats arabes unis et l'Arabie saoudite."
+    },
+    {
+     "q": "D'où proviennent ces informations sur les menaces iraniennes ?",
+     "a": "Ces révélations proviennent des médias américains Axios et Wall Street Journal, citant des notes et évaluations du renseignement américain."
+    },
+    {
+     "q": "Quelle action militaire les États-Unis envisagent-ils ?",
+     "a": "Les messages indiquent que Washington envisage de nouvelles opérations militaires offensives contre l'Iran."
+    }
+   ]
+  },
+  {
+   "score": 8,
+   "topic": "Arabie saoudite · Yémen",
+   "fait": "La coalition militaire dirigée par Riyad a intercepté et détruit un missile balistique tiré par les Houthis du Yémen vers la capitale saoudienne.",
+   "questions": [
+    {
+     "q": "Quelle était la cible exacte du tir de missile ?",
+     "a": "Le missile balistique a été tiré en direction de Riyad, la capitale de l'Arabie saoudite."
+    },
+    {
+     "q": "Y a-t-il eu d'autres alertes récentes dans le royaume ?",
+     "a": "Oui, cette interception fait suite à plusieurs jours d'attaques de drones et de missiles, ayant entraîné des alertes sécuritaires nocturnes dans plusieurs régions saoudiennes."
+    },
+    {
+     "q": "Le tir a-t-il fait des victimes ou des dégâts ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Turquie · Israël",
+   "fait": "Un tribunal d'Istanbul a ouvert un procès par contumace visant 35 responsables israéliens, dont Benjamin Netanyahou, pour des faits survenus en 2025.",
+   "questions": [
+    {
+     "q": "Quels sont les responsables israéliens poursuivis en Turquie ?",
+     "a": "Outre le Premier ministre Benjamin Netanyahou, la procédure vise notamment le ministre de la Défense Israël Katz, le ministre Itamar Ben Gvir et le chef d'état-major Eyal Zamir."
+    },
+    {
+     "q": "Quels faits motivent cette procédure judiciaire ?",
+     "a": "La justice turque reproche des crimes contre l'humanité, des tortures et des privations illégales de liberté lors de l'interception de la flottille Global Sumud en 2025."
+    },
+    {
+     "q": "Quelles décisions le tribunal a-t-il prises lors de l'audience ?",
+     "a": "Le tribunal a maintenu les mandats d'arrêt, ordonné l'examen d'éventuels avoirs en Turquie et fixé la prochaine audience au 30 mars 2027."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Nucléaire · Iran",
+   "fait": "Benjamin Netanyahou a affirmé que l'Iran a relancé son programme nucléaire, tandis que l'AIEA juge impossible tout accord sans inspections strictes.",
+   "questions": [
+    {
+     "q": "Qu'a affirmé le chef du gouvernement israélien ?",
+     "a": "Benjamin Netanyahou a déclaré que l'Iran avait repris son programme nucléaire."
+    },
+    {
+     "q": "Quelle est la position exprimée par le directeur général de l'AIEA Rafael Grossi ?",
+     "a": "Rafael Grossi a exclu tout accord diplomatique sans inspections de l'agence et estimé impossible de rétablir un protocole d'accord dans un court délai."
+    },
+    {
+     "q": "Des discussions diplomatiques sont-elles actuellement en cours ?",
+     "a": "Rafael Grossi a mentionné l'espoir que les négociations entre l'Iran et les États-Unis progressent."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Iran · États-Unis",
+   "fait": "Téhéran a annoncé qu'il n'autoriserait sous aucune condition l'entrée de navires de guerre américains dans les eaux du golfe Persique.",
+   "questions": [
+    {
+     "q": "Qui a diffusé cette position iranienne ?",
+     "a": "L'information a été rapportée par l'agence iranienne Tasnim, citant un haut responsable iranien."
+    },
+    {
+     "q": "Quels types de navires sont visés par cette interdiction ?",
+     "a": "L'avertissement concerne spécifiquement les navires militaires des États-Unis."
+    },
+    {
+     "q": "Comment les États-Unis ont-ils réagi à cette déclaration ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "France · Tensions",
+   "fait": "De très violents affrontements, dégradations et pillages ont éclaté dans plusieurs grandes métropoles françaises au cours d'une journée de mobilisations.",
+   "questions": [
+    {
+     "q": "Quelles villes françaises ont été touchées par ces heurts ?",
+     "a": "Des violences ont été rapportées à Paris, Lyon, Bordeaux, Nantes, Rennes, Grenoble et Nice."
+    },
+    {
+     "q": "Quels incidents spécifiques ont été relevés en province ?",
+     "a": "À Grenoble, un incendie d'immeuble et des pillages ont été signalés, tandis qu'à Nice, des affrontements ont opposé des militants d'extrême droite et d'extrême gauche."
+    },
+    {
+     "q": "Qu'est-il arrivé aux journalistes de CNews à Trappes ?",
+     "a": "Une équipe de CNews a été délogée alors qu'elle couvrait les suites d'une attaque qualifiée de terroriste et raciste."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Judée-Samarie · Tsahal",
+   "fait": "Les forces israéliennes ont mené une vaste opération antiterroriste dans 40 villages de Judée-Samarie, arrêtant une quarantaine de suspects.",
+   "questions": [
+    {
+     "q": "Quelles forces ont pris part à cette opération ?",
+     "a": "L'opération a été menée conjointement par l'armée israélienne, la police des frontières et le Shin Bet."
+    },
+    {
+     "q": "Quelles factions palestiniennes sont principalement visées ?",
+     "a": "Les suspects arrêtés sont notamment affiliés au Hamas et au Jihad islamique palestinien."
+    },
+    {
+     "q": "Quelles actions ont été menées par les forces israéliennes sur place ?",
+     "a": "Outre les arrestations, les forces ont détruit des monuments commémorant des terroristes, saisi des armes et effectué des démolitions dans plusieurs secteurs."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Gaza · Tsahal",
+   "fait": "L'armée israélienne a éliminé deux terroristes ayant franchi la ligne jaune lors de deux incidents distincts dans la bande de Gaza.",
+   "questions": [
+    {
+     "q": "Où se sont déroulés ces incidents ?",
+     "a": "Les franchissements ont eu lieu dans le nord et dans le sud de la bande de Gaza."
+    },
+    {
+     "q": "Dans quel cadre les forces israéliennes sont-elles déployées ?",
+     "a": "Les forces de Tsahal, sous le commandement sud, sont déployées dans la zone conformément à l'accord en vigueur."
+    },
+    {
+     "q": "À quel groupe appartenaient les individus éliminés ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Israël · Grèce",
+   "fait": "Les marines israélienne et grecque ont conduit un exercice naval militaire conjoint axé sur la neutralisation de menaces et de navires ennemis.",
+   "questions": [
+    {
+     "q": "En quoi consistaient les manœuvres conjointes ?",
+     "a": "L'exercice incluait la détection de menaces maritimes, la navigation en formation et la destruction d'un navire ennemi par des tirs de missiles."
+    },
+    {
+     "q": "À quel pays cet exercice s'adresse-t-il comme signal stratégique ?",
+     "a": "Cette coopération renforcée apparaît comme un message stratégique adressé à la Turquie dans un contexte de tensions régionales."
+    },
+    {
+     "q": "Où s'est déroulé précisément cet exercice naval ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 4,
+   "topic": "Israël · Politique",
+   "fait": "Le Shin Bet a placé l'ancien chef d'état-major Gadi Eisenkot sous protection rapprochée à 60 heures des élections législatives israéliennes.",
+   "questions": [
+    {
+     "q": "Quel rôle politique occupe Gadi Eisenkot ?",
+     "a": "Gadi Eisenkot est le président du parti Yashar!."
+    },
+    {
+     "q": "Comment sera assurée sa sécurité ?",
+     "a": "Le Shin Bet supervisera une société de sécurité privée chargée de protéger le dirigeant politique."
+    },
+    {
+     "q": "Quelles menaces précises justifient cette mesure de protection ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 4,
+   "topic": "États-Unis · Israël",
+   "fait": "Le département d'État américain a maintenu son avertissement aux voyageurs pour Israël au niveau d'alerte 3 en raison du terrorisme.",
+   "questions": [
+    {
+     "q": "Que signifie le niveau 3 pour les ressortissants américains ?",
+     "a": "Le niveau 3 recommande aux citoyens américains de reconsidérer tout voyage prévu dans le pays."
+    },
+    {
+     "q": "Existe-t-il des restrictions plus sévères selon les zones ?",
+     "a": "Oui, le niveau d'alerte 4 reste en vigueur pour certaines zones spécifiques, où tout déplacement est formellement déconseillé."
+    },
+    {
+     "q": "Quelles sont les zones israéliennes classées au niveau 4 ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 3,
+   "topic": "Israël · Sécurité",
+   "fait": "Tsahal a découvert trois ballons transportant des stupéfiants et du tabac près de la clôture d'une base militaire du sud d'Israël.",
+   "questions": [
+    {
+     "q": "Qui a repéré ces ballons suspects ?",
+     "a": "Les forces de sécurité de l'armée de l'air israélienne ont repéré les trois ballons."
+    },
+    {
+     "q": "Quel était le contenu des colis attachés aux ballons ?",
+     "a": "Les colis contenaient des substances suspectées d'être différentes sortes de drogues ainsi que des produits du tabac."
+    },
+    {
+     "q": "L'origine de l'envoi de ces ballons a-t-elle été identifiée ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour, l'incident faisant actuellement l'objet d'une enquête."
+    }
+   ]
+  }
  ]
 }
