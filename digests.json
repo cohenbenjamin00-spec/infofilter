@@ -16734,5 +16734,368 @@
     }
    ]
   }
+ ],
+ "2026-10-26": [
+  {
+   "score": 9,
+   "topic": "Israël · Iran",
+   "fait": "Le gouvernement israélien dément toute tentative d'attaque contre l'Iran avant les élections, rejetant les allégations de CNN sur des divergences internes.",
+   "questions": [
+    {
+     "q": "Qu'a affirmé la chaîne CNN concernant les intentions israéliennes vis-à-vis de l'Iran ?",
+     "a": "Selon CNN, des responsables israéliens et Benjamin Netanyahou auraient tenté d'obtenir une frappe contre l'Iran avant les élections, initiative à laquelle Washington se serait opposé."
+    },
+    {
+     "q": "Comment le gouvernement israélien a-t-il réagi à ces informations ?",
+     "a": "Le bureau de Netanyahou a formellement démenti, tandis que le ministre de la Défense Israël Katz a assuré qu'Israël n'a jamais eu l'intention d'attaquer avant le scrutin et qu'il n'y a aucun désaccord avec Tsahal."
+    },
+    {
+     "q": "Quels propos Benjamin Netanyahou a-t-il tenus au sujet d'un accord avec Téhéran ?",
+     "a": "Il a rejeté tout accord avec le régime iranien, le qualifiant de néonazi et comparant la situation au refus de Roosevelt et Churchill de négocier avec Hitler."
+    }
+   ]
+  },
+  {
+   "score": 8,
+   "topic": "Élections en Israël",
+   "fait": "Israël finalise ses préparatifs sécuritaires pour les élections, marquées par un appel direct de Donald Trump à voter pour Benjamin Netanyahou.",
+   "questions": [
+    {
+     "q": "Quel soutien Donald Trump a-t-il exprimé pour le Premier ministre israélien ?",
+     "a": "Donald Trump a appelé publiquement les Israéliens à voter pour Benjamin Netanyahou, le qualifiant de Premier ministre guerrier exceptionnel."
+    },
+    {
+     "q": "Quelles sollicitations Netanyahou aurait-il faites auprès de Donald Trump selon Newsmax ?",
+     "a": "Selon la chaîne Newsmax, Netanyahou l'aurait contacté à deux reprises en trois jours pour lui demander de renforcer son soutien public et d'accorder des interviews aux médias israéliens."
+    },
+    {
+     "q": "Quel dispositif de sécurité est mobilisé pour la journée électorale ?",
+     "a": "Environ 20 000 policiers, combattants de Magav et volontaires sont déployés à travers tout le pays pour assurer la sécurité."
+    }
+   ]
+  },
+  {
+   "score": 8,
+   "topic": "Brésil · Élection présidentielle",
+   "fait": "Luiz Inácio Lula da Silva est réélu président du Brésil face à Flávio Bolsonaro, qui conteste le résultat et demande l'annulation du scrutin.",
+   "questions": [
+    {
+     "q": "Quel est le score obtenu par Lula lors de ce second tour ?",
+     "a": "Lula a recueilli 51,8 % des suffrages, devançant son adversaire de près de 4,4 millions de voix pour obtenir un quatrième mandat historique."
+    },
+    {
+     "q": "Pourquoi Flávio Bolsonaro conteste-t-il le résultat ?",
+     "a": "Il refuse de reconnaître sa défaite et réclame l'annulation du scrutin en dénonçant la décision de la Cour suprême de prolonger le vote de deux heures."
+    },
+    {
+     "q": "À quelle date doit débuter le nouveau mandat présidentiel ?",
+     "a": "Lula doit commencer son quatrième mandat le 5 janvier 2027."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Tsahal · Gaza",
+   "fait": "Tsahal et le Shin Bet ont éliminé plusieurs cadres et combattants armés du Hamas et du Jihad islamique lors de frappes ciblées à Gaza.",
+   "questions": [
+    {
+     "q": "Quels hauts responsables ont été éliminés selon les communiqués militaires ?",
+     "a": "Mohammed Halawa, commandant du renseignement militaire du Hamas, et Ahmed Zahir Fouad Abou Odeh, commandant du génie du mouvement, ont été éliminés lors de frappes aériennes."
+    },
+    {
+     "q": "Quels autres membres armés ont été ciblés ?",
+     "a": "Deux combattants du Jihad islamique, un tireur d'élite du Hamas et un chef de cellule Nukhba ont également été tués dans diverses zones de la bande de Gaza."
+    },
+    {
+     "q": "Quel incident a eu lieu près d'un tunnel à Khan Younès ?",
+     "a": "Tsahal a frappé trois terroristes qui sortaient d'un puits de tunnel à Khan Younès, provoquant des explosions secondaires indiquant la présence d'armes."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Iran · Armement",
+   "fait": "Les Gardiens de la révolution iraniens affirment avoir testé avec succès le missile Fateh Hussein capable d'atteindre une portée de 11 000 kilomètres.",
+   "questions": [
+    {
+     "q": "Quel rôle la Corée du Nord a-t-elle joué selon des déclarations iraniennes ?",
+     "a": "Selon un responsable des Gardiens de la révolution, Pyongyang a refusé de fournir directement la technologie pour un missile de 15 000 km, mais a apporté une aide indirecte."
+    },
+    {
+     "q": "Quelle est la portée revendiquée pour le missile testé ?",
+     "a": "L'Iran affirme que son missile Fateh Hussein a atteint une portée de 11 000 kilomètres lors de son essai."
+    },
+    {
+     "q": "Quelle position l'Iran adopte-t-il sur les négociations nucléaires ?",
+     "a": "Un haut responsable iranien a déclaré que Téhéran refuse de négocier sur le nucléaire tant que les États-Unis n'auront pas satisfait à ses exigences."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "États-Unis · Espionnage",
+   "fait": "Un contractuel de la CIA est accusé d'avoir transmis à une journaliste des documents classifiés portant sur Israël et le Moyen-Orient.",
+   "questions": [
+    {
+     "q": "Qui est la personne accusée et quelles informations a-t-elle transmises ?",
+     "a": "Un sous-traitant nommé Brinksmann aurait divulgué des secrets sur Israël à sa compagne, la journaliste Aïda Chávez, après plus de 800 échanges relevés."
+    },
+    {
+     "q": "Quels types de documents confidentiels ont été compromis ?",
+     "a": "Les fuites évoquent des projets de bases américaines en Israël, des pressions israéliennes contre le responsable iranien Ghalibaf et des notes sur les risques de conflits internes en Israël."
+    },
+    {
+     "q": "Quelle peine le suspect encourt-il ?",
+     "a": "S'il est reconnu coupable, le sous-traitant de la CIA encourt jusqu'à 10 ans d'emprisonnement."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Jordanie · Terrorisme",
+   "fait": "Les forces de sécurité jordaniennes ont blessé et arrêté trois suspects impliqués dans l'attaque meurtrière perpétrée contre une église orthodoxe à Karak.",
+   "questions": [
+    {
+     "q": "Quel est le bilan de l'attaque survenue contre l'église ?",
+     "a": "L'attaque terroriste commise vendredi lors de funérailles avait fait 9 morts et 40 blessés."
+    },
+    {
+     "q": "Comment s'est déroulée l'opération de capture des suspects ?",
+     "a": "Réfugiés dans une maison abandonnée, ils ont ouvert le feu sur les forces de l'ordre avant d'être blessés et arrêtés sans faire de blessé parmi les policiers."
+    },
+    {
+     "q": "Un groupe a-t-il revendiqué cet attentat ?",
+     "a": "À ce stade, aucune organisation terroriste n'a revendiqué l'attaque."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Israël · Sécurité intérieure",
+   "fait": "Les forces israéliennes ont arrêté 36 personnes après la découverte d'un réseau souterrain clandestin reliant Al-Ram à Beit Hanina.",
+   "questions": [
+    {
+     "q": "Comment était dissimulé l'accès à ce passage souterrain ?",
+     "a": "L'entrée était aménagée directement à l'intérieur d'un utilitaire garé au-dessus d'une ouverture connectée aux réseaux d'égouts."
+    },
+    {
+     "q": "Combien de personnes ont été arrêtées lors du raid ?",
+     "a": "Les forces de sécurité ont interpellé 32 personnes entrées illégalement ainsi que 4 complices soupçonnés d'avoir organisé l'infiltration."
+    },
+    {
+     "q": "Quelles unités ont participé à cette intervention ?",
+     "a": "L'opération a été menée par les combattants de Magav, dont des unités d'infiltration de Jérusalem, aux côtés de soldats de la brigade Binyamin."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Liban · Hezbollah",
+   "fait": "Selon des sources sécuritaires, le Hezbollah aurait perçu plusieurs dizaines de millions de dollars d'Iran pour reconstituer ses moyens militaires.",
+   "questions": [
+    {
+     "q": "Quel montant l'Iran aurait-il transféré au Hezbollah ?",
+     "a": "Selon Reuters citant une source sécuritaire libanaise, plusieurs dizaines de millions de dollars ont été versés au cours des trois derniers mois."
+    },
+    {
+     "q": "Comment l'organisation libanaise a-t-elle réagi ?",
+     "a": "Le Hezbollah a affirmé que sa structure de commandement n'a pas été affectée et a revendiqué le droit légitime d'attaquer Israël."
+    },
+    {
+     "q": "Cette reprise d'activités s'accompagne-t-elle d'autres détails militaires ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Israël · Judée-Samarie",
+   "fait": "Tsahal poursuit ses opérations à Hébron et découvre une excavation souterraine de 15 mètres de profondeur près du domicile d'un assaillant.",
+   "questions": [
+    {
+     "q": "Dans quel contexte s'inscrit cette découverte à Hébron ?",
+     "a": "Elle fait suite à des fouilles sur plus de 500 sites après un affrontement vendredi ayant coûté la vie à deux soldats de Tsahal."
+    },
+    {
+     "q": "Quelles sont les caractéristiques de la cavité découverte ?",
+     "a": "L'excavation mesure environ 15 mètres de profondeur et 75 centimètres de large, sans issue vers l'extérieur et sans proximité avec une localité israélienne."
+    },
+    {
+     "q": "Qu'ont retrouvé les militaires à l'intérieur de la cavité ?",
+     "a": "Un appareil électronique a été saisi et remis aux services de renseignement pour analyse."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Israël · Corruption",
+   "fait": "La police israélienne a conclu une enquête ciblant 11 suspects, dont d'anciens cadres fiscaux, pour un détournement de plus de 80 millions de shekels.",
+   "questions": [
+    {
+     "q": "Qui sont les principaux suspects mis en cause par l'enquête ?",
+     "a": "L'affaire concerne 11 personnes, dont un ancien directeur adjoint et un ancien haut responsable de l'administration fiscale, ainsi qu'un expert-comptable."
+    },
+    {
+     "q": "Quels délits sont reprochés aux suspects ?",
+     "a": "Ils sont soupçonnés de corruption active et passive, fraude, abus de confiance et blanchiment d'argent."
+    },
+    {
+     "q": "À quel stade en est la procédure judiciaire ?",
+     "a": "Le dossier complet a été transmis au parquet avec les recommandations des enquêteurs de Lahav 433 pour décider des poursuites."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Israël · Sécurité intérieure",
+   "fait": "Une avocate israélienne a été mise en examen après son arrestation par le Shin Bet pour contacts illégaux avec un agent étranger.",
+   "questions": [
+    {
+     "q": "Quels sont les chefs d'accusation retenus contre cette avocate ?",
+     "a": "Elle est accusée d'avoir entretenu des contacts illégaux avec un agent étranger et d'avoir entravé le déroulement d'une enquête sécuritaire."
+    },
+    {
+     "q": "Quand l'avocate a-t-elle été interpellée ?",
+     "a": "Elle a été arrêtée environ deux semaines et demie plus tôt par le Shin Bet et la police."
+    },
+    {
+     "q": "Quels autres détails ont été divulgués par les autorités ?",
+     "a": "Les autres éléments du dossier sont protégés par une interdiction légale de publication."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Israël · Chypre",
+   "fait": "Israël et Chypre ont signé un accord militaire prévoyant la fourniture à Nicosie d'un navire de patrouille maritime avancé.",
+   "questions": [
+    {
+     "q": "Que prévoit l'accord signé entre Israël et Chypre ?",
+     "a": "Israël fournira à Chypre un navire de patrouille maritime doté de capacités avancées dans le cadre d'un partenariat de défense."
+    },
+    {
+     "q": "Quelles entreprises israéliennes développent cet équipement ?",
+     "a": "Le navire a été conçu et développé conjointement par Israel Shipyards et Rafael."
+    },
+    {
+     "q": "Quel est le montant financier de cette transaction militaire ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 4,
+   "topic": "Israël · Judée-Samarie",
+   "fait": "La nouvelle localité de Shalem a été fondée près d'Elon Moreh, accueillant ses premières familles à la veille des élections législatives.",
+   "questions": [
+    {
+     "q": "Où se situe précisément la nouvelle implantation de Shalem ?",
+     "a": "Elle a été établie à proximité de la localité d'Elon Moreh, dans la région de Samarie."
+    },
+    {
+     "q": "À quel programme d'aménagement ce projet est-il rattaché ?",
+     "a": "Il s'agit de la neuvième localité créée dans le cadre du « programme de connexion » du Conseil régional de Samarie."
+    },
+    {
+     "q": "Combien de familles s'y sont installées au départ ?",
+     "a": "Les messages indiquent l'installation des premières familles, sans en préciser le nombre exact."
+    }
+   ]
+  },
+  {
+   "score": 4,
+   "topic": "Israël · Criminalité",
+   "fait": "La police israélienne a saisi à Qalansawe un important dépôt d'armes et munitions volées à Tsahal, procédant à l'arrestation de deux suspects.",
+   "questions": [
+    {
+     "q": "Quels équipements ont été retrouvés lors de la perquisition à Qalansawe ?",
+     "a": "Les forces de l'ordre ont saisi 12 armes à feu, 6 grenades à fragmentation, 2 grenades assourdissantes, des gilets de protection et des milliers de munitions."
+    },
+    {
+     "q": "D'où provenait ce matériel militaire ?",
+     "a": "Selon les conclusions policières, les armes avaient été dérobées à l'armée israélienne."
+    },
+    {
+     "q": "Combien de personnes ont été interpellées dans cette affaire ?",
+     "a": "Deux suspects ont été arrêtés par les forces de sécurité."
+    }
+   ]
+  },
+  {
+   "score": 4,
+   "topic": "Israël · Cyberattaques",
+   "fait": "La chaîne israélienne Channel 14 affirme avoir repoussé plus de 1 900 attaques informatiques étrangères visant son site à la veille du scrutin.",
+   "questions": [
+    {
+     "q": "Quelle a été la cible des attaques informatiques signalées ?",
+     "a": "C'est le site internet de la chaîne israélienne C14 (Channel 14) qui a subi ces tentatives d'intrusion."
+    },
+    {
+     "q": "Qui est accusé d'avoir orchestré ces piratages ?",
+     "a": "La chaîne attribue ces tentatives de déstabilisation à des acteurs étrangers désireux de perturber son antenne."
+    },
+    {
+     "q": "Les cyberattaques ont-elles interrompu les programmes de la chaîne ?",
+     "a": "Channel 14 a affirmé qu'aucun acteur n'empêchera son fonctionnement et qu'elle poursuit son activité d'information."
+    }
+   ]
+  },
+  {
+   "score": 3,
+   "topic": "Syrie · Conflit",
+   "fait": "Une très puissante explosion a été signalée à Idlib dans le nord-ouest de la Syrie selon plusieurs médias régionaux.",
+   "questions": [
+    {
+     "q": "Où la déflagration a-t-elle eu lieu ?",
+     "a": "Elle s'est produite dans la ville ou le secteur d'Idlib, au nord-ouest de la Syrie."
+    },
+    {
+     "q": "L'origine de l'explosion a-t-elle été identifiée ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    },
+    {
+     "q": "Y a-t-il des victimes signalées ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 3,
+   "topic": "Gaza · Contrebande",
+   "fait": "Tsahal a intercepté dans le secteur de Nahal Oz un imposant drone de contrebande parti d'Israël en direction de Gaza.",
+   "questions": [
+    {
+     "q": "D'où provenait le drone abattu par Tsahal ?",
+     "a": "Le drone a été lancé depuis le territoire israélien et se dirigeait vers la bande de Gaza."
+    },
+    {
+     "q": "Dans quel secteur l'interception s'est-elle produite ?",
+     "a": "L'appareil a été abattu durant la nuit dans les environs de Nahal Oz."
+    },
+    {
+     "q": "Quelle était la cargaison transportée par l'appareil ?",
+     "a": "La nature de son éventuelle cargaison n'a pas été précisée."
+    }
+   ]
+  },
+  {
+   "score": 2,
+   "topic": "Israël · Santé",
+   "fait": "Le ministère de la Santé interdit la baignade sur la plage des Étoiles à Herzliya en raison de résultats microbiologiques anormaux.",
+   "questions": [
+    {
+     "q": "Quelle plage a fait l'objet d'un avertissement sanitaire ?",
+     "a": "L'avertissement vise la plage HaKokhavim (plage des Étoiles) située à Herzliya."
+    },
+    {
+     "q": "Quelle anomalie a provoqué cette décision ministérielle ?",
+     "a": "Des analyses de routine de la qualité de l'eau ont fait ressortir des résultats microbiologiques anormaux."
+    },
+    {
+     "q": "Quelle consigne générale le ministère de la Santé rappelle-t-il ?",
+     "a": "Il rappelle que la baignade n'est autorisée que sur les plages officiellement ouvertes et surveillées."
+    }
+   ]
+  }
  ]
 }
