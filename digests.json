@@ -17097,5 +17097,178 @@
     }
    ]
   }
+ ],
+ "2026-10-27": [
+  {
+   "score": 9,
+   "topic": "Élections · Israël",
+   "fait": "Plus de 5,4 millions d'Israéliens ont voté pour la 26e Knesset, sans qu'aucun bloc n'obtienne de majorité selon les premières estimations.",
+   "questions": [
+    {
+     "q": "Quel a été le niveau de participation au scrutin législatif ?",
+     "a": "Plus de 5,4 millions d'Israéliens ont voté. À 18h, la participation nationale atteignait 66,7 %, marquant une progression de 9 % par rapport aux législatives précédentes à la même heure."
+    },
+    {
+     "q": "Quelles tendances indiquent les premières estimations à la sortie des urnes ?",
+     "a": "Aucun des deux grands blocs n'obtient de majorité de 61 sièges pour bâtir une coalition, tandis que les partis arabes sont crédités d'environ 18 sièges."
+    },
+    {
+     "q": "Quels incidents ou soupçons de fraude ont été signalés au cours de la journée ?",
+     "a": "Le Likoud a affirmé avoir transmis 775 plaintes pour dysfonctionnements dans le secteur arabe, et trois suspects ont été arrêtés pour des soupçons d'achat de voix en faveur du parti Ra'am."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Économie · Brésil",
+   "fait": "La Bourse de São Paulo a chuté de 13,88 % et le dollar a bondi face au réal après la réélection de Lula au Brésil.",
+   "questions": [
+    {
+     "q": "Quelle a été l'ampleur du choc boursier à São Paulo ?",
+     "a": "L'indice Bovespa a clôturé sur une baisse de 13,88 % après avoir plongé jusqu'à 17,34 % en séance, déclenchant une interruption des cotations de 30 minutes, une mesure inédite depuis mars 2020."
+    },
+    {
+     "q": "Comment le marché des changes a-t-il réagi ?",
+     "a": "Le dollar américain a progressé de plus de 8 % face au réal brésilien, enregistrant sa plus forte hausse sur une seule journée depuis 1999."
+    },
+    {
+     "q": "Quelles sont les raisons de cette réaction des marchés ?",
+     "a": "Les investisseurs, dont une partie tablait sur une victoire de Flávio Bolsonaro, ont été surpris par la victoire de Lula et s'inquiètent de la dette, des dépenses publiques et de l'orientation économique future."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Russie · Iran",
+   "fait": "Vladimir Poutine et le président iranien Massoud Pezeshkian se sont rencontrés à Moscou pour consolider leur coopération stratégique, sécuritaire et énergétique.",
+   "questions": [
+    {
+     "q": "Quels sujets ont été mis en avant par le président iranien ?",
+     "a": "Massoud Pezeshkian a appelé à étendre la coopération stratégique dans les domaines de la sécurité, de l'énergie et de l'économie, tout en affirmant que la région peut régler ses différends sans les États-Unis."
+    },
+    {
+     "q": "Quelle position la Russie a-t-elle exprimée au sujet de ses partenariats avec Téhéran ?",
+     "a": "Vladimir Poutine a déclaré que la Russie respecte tous ses engagements bilatéraux, confirmant notamment la poursuite des travaux de construction de la centrale nucléaire de Bouchehr."
+    },
+    {
+     "q": "Un accord formel de défense a-t-il été signé lors de cette visite ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Iran · Israël",
+   "fait": "Les Gardiens de la révolution iraniens ont menacé de frapper Israël et des bases américaines avec des missiles encore non dévoilés.",
+   "questions": [
+    {
+     "q": "Quel type de menaces l'Iran a-t-il proféré ce mardi ?",
+     "a": "Le porte-parole des Gardiens de la révolution a affirmé que Téhéran dispose de missiles non encore dévoilés capables de frapper durement le territoire israélien et les bases américaines."
+    },
+    {
+     "q": "Quelles critiques ont été formulées à l'encontre des États-Unis ?",
+     "a": "Le porte-parole iranien s'en est pris au président Donald Trump et a qualifié les États-Unis de pays défaillant."
+    },
+    {
+     "q": "Quel était le contexte de cette déclaration ?",
+     "a": "Ces menaces sont intervenues le jour même de la tenue des élections législatives israéliennes pour la 26e Knesset."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Sécurité · Israël",
+   "fait": "Un individu porteur d'un grand couteau a été interpellé près du responsable politique Yaïr Golan lors d'un déplacement à Tel-Aviv.",
+   "questions": [
+    {
+     "q": "Comment l'interpellation s'est-elle déroulée ?",
+     "a": "Au parc HaMesila à Tel-Aviv, un individu s'est approché de façon menaçante de Yaïr Golan. Les agents de sécurité lui ont barré la route, provoquant la chute d'un couteau dissimulé, avant de le maîtriser."
+    },
+    {
+     "q": "Quelle est la version communiquée par la police israélienne ?",
+     "a": "La police a confirmé l'arrestation d'un habitant de Jérusalem âgé d'une vingtaine d'années en possession d'une arme blanche, tout en précisant qu'aucune tentative d'attaque au couteau n'a eu lieu."
+    },
+    {
+     "q": "Yaïr Golan ou des passants ont-ils été blessés ?",
+     "a": "Aucun blessé n'est à déplorer lors de l'incident."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Israël · Égypte",
+   "fait": "L'armée israélienne a arrêté un citoyen égyptien qui s'était infiltré en Israël après avoir franchi la clôture frontalière à Nitzana.",
+   "questions": [
+    {
+     "q": "Où et quand l'infiltration s'est-elle produite ?",
+     "a": "L'incident est survenu durant la nuit de lundi à mardi dans le secteur de Nitzana, le long de la frontière avec l'Égypte."
+    },
+    {
+     "q": "Comment l'individu a-t-il été neutralisé ?",
+     "a": "Repéré par les systèmes d'observation de Tsahal au moment où il franchissait la barrière de sécurité, le suspect a été rapidement intercepté par les forces militaires et remis aux services de sécurité."
+    },
+    {
+     "q": "L'homme était-il armé lors de son arrestation ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Tsahal · Gaza",
+   "fait": "Les forces israéliennes ont éliminé dans le sud de la bande de Gaza un individu armé ayant franchi la ligne jaune.",
+   "questions": [
+    {
+     "q": "Quel motif Tsahal donne-t-il pour cette intervention ?",
+     "a": "Les militaires ont repéré un suspect ayant franchi la ligne jaune et l'ont éliminé immédiatement afin d'écarter toute menace immédiate dans le secteur."
+    },
+    {
+     "q": "Quelle unité militaire a mené cette action ?",
+     "a": "L'opération a été menée par les forces déployées dans le sud de la bande de Gaza sous l'autorité du Commandement Sud."
+    },
+    {
+     "q": "Des victimes sont-elles à déplorer du côté israélien ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "États-Unis · Iran",
+   "fait": "Donald Trump a qualifié le cessez-le-feu avec l'Iran de perte de temps en affirmant que Téhéran dispose de missiles menaçant l'Europe.",
+   "questions": [
+    {
+     "q": "Que pense Donald Trump de l'accord de cessez-le-feu avec l'Iran ?",
+     "a": "Lors d'un meeting électoral, Donald Trump a déclaré qu'il considérait ce court cessez-le-feu comme une perte de temps et qu'il ne l'avait jamais apprécié."
+    },
+    {
+     "q": "Quelle menace balistique le président américain a-t-il évoquée ?",
+     "a": "Donald Trump a soutenu que l'Iran dispose d'un missile pouvant pratiquement atteindre l'Europe et que Téhéran aurait pu frapper des villes américaines comme San Diego et Los Angeles."
+    },
+    {
+     "q": "Quand ce cessez-le-feu avait-il été conclu ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 4,
+   "topic": "Faits divers · France",
+   "fait": "Le Parquet national antiterroriste a établi à un mort et sept blessés le bilan de l'attaque survenue à Trappes et La Verrière.",
+   "questions": [
+    {
+     "q": "Quels éléments matériels le parquet a-t-il précisés sur l'attaque de Trappes ?",
+     "a": "Le procureur a relevé huit scènes de crime distinctes et au moins 128 tirs. Le suspect de 39 ans ne nie pas avoir tiré mais conteste tout mobile raciste."
+    },
+    {
+     "q": "Quels sont les autres faits divers rapportés ce mardi en France ?",
+     "a": "Un commerçant est décédé des suites d'une agression à Saint-Gaudens, un homme a été tué au couteau à Échirolles, des appartements ont essuyé des tirs à Toulouse et un chauffeur VTC a été poignardé à Colomiers."
+    },
+    {
+     "q": "Le parquet antiterroriste s'est-il saisi des affaires de Saint-Gaudens ou d'Échirolles ?",
+     "a": "Cette information n'apparait pas dans les messages du jour."
+    }
+   ]
+  }
  ]
 }
