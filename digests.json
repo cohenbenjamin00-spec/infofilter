@@ -17270,5 +17270,201 @@
     }
    ]
   }
+ ],
+ "2026-10-29": [
+  {
+   "score": 9,
+   "topic": "Israël · Législatives",
+   "fait": "Le dépouillement complet des législatives place le Likoud en tête avec 27 sièges, sans qu'aucun bloc ne dispose d'une majorité absolue.",
+   "questions": [
+    {
+     "q": "Quelle est la répartition des sièges entre les différents blocs ?",
+     "a": "Le bloc pro-Netanyahou compte 53 sièges, le bloc du changement en compte 48 et les partis arabes disposent de 19 sièges."
+    },
+    {
+     "q": "Quel score a obtenu le Likoud par rapport aux autres partis ?",
+     "a": "Le Likoud arrive en tête avec 27 sièges, suivi de Yashar avec 21 sièges et de Beyahad avec 12 sièges."
+    },
+    {
+     "q": "Quelles initiatives politiques ont été amorcées dès la fin du dépouillement ?",
+     "a": "Gadi Eisenkot et Naftali Bennett se sont rencontrés à Raanana pour discuter d'une formation gouvernementale, tandis que Yaïr Lapid et Yaïr Golan se sont également concertés."
+    }
+   ]
+  },
+  {
+   "score": 9,
+   "topic": "Israël · Élections",
+   "fait": "Le Shin Bet et la police israélienne enquêtent sur des soupçons d'ingérence étrangère et de corruption électorale, donnant lieu à trois interpellations.",
+   "questions": [
+    {
+     "q": "Sur quels éléments portent les investigations du Shin Bet ?",
+     "a": "Le Shin Bet vérifie des circuits financiers en provenance du Qatar et de Turquie soupçonnés d'avoir financé de l'influence électorale ou de l'achat de voix."
+    },
+    {
+     "q": "Quelles arrestations ont été confirmées par les autorités ?",
+     "a": "Trois suspects des localités bédouines de Segev Shalom et d'Arara ont été arrêtés dans le Néguev avec des enveloppes d'argent liquide destinées à acheter des voix pour Ra'am."
+    },
+    {
+     "q": "Quelle est la position du président de la Commission électorale centrale et du Shin Bet ?",
+     "a": "Le Shin Bet souligne que l'enquête est ciblée et toujours en cours, tandis que la Commission électorale a qualifié les accusations d'atteinte systématique au scrutin de non fondées tout en examinant les informations classifiées reçues."
+    }
+   ]
+  },
+  {
+   "score": 8,
+   "topic": "États-Unis · Iran",
+   "fait": "Le commandement américain a présenté des plans de frappes contre l'Iran à Donald Trump dans un climat de renforcement militaire massif au Moyen-Orient.",
+   "questions": [
+    {
+     "q": "Qui a soumis ces options militaires à la Maison-Blanche ?",
+     "a": "L'amiral Brad Cooper, commandant du CENTCOM, a présenté les plans en présence du secrétaire à la Défense Pete Hegseth et du général Dan Caine."
+    },
+    {
+     "q": "Quels mouvements militaires américains ont été observés dans la région ?",
+     "a": "Les États-Unis ont mobilisé 190 ravitailleurs, des porte-avions, des destroyers et fait atterrir huit avions de transport militaire dans le sud d'Israël."
+    },
+    {
+     "q": "Quelle décision a touché l'état-major américain au même moment ?",
+     "a": "Pete Hegseth a limogé le lieutenant-général Brett Sylvia, responsable de la stratégie et des plans au sein de l'état-major interarmées."
+    },
+    {
+     "q": "Quel montant financier le Pentagone a-t-il attribué aux opérations contre l'Iran ?",
+     "a": "Le coût des opérations militaires s'élève à 47,1 milliards de dollars selon un bilan transmis au Congrès américain."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Israël · Espionnage",
+   "fait": "Un militaire israélien a été inculpé pour avoir transmis pendant près d'un an des renseignements sensibles à des agents iraniens contre rémunération.",
+   "questions": [
+    {
+     "q": "Quelles informations sensibles le militaire a-t-il communiquées ?",
+     "a": "Il a transmis des données sur son unité et des bases militaires, et a photographié des missiles intercepteurs ainsi que des avions ravitailleurs américains."
+    },
+    {
+     "q": "Quelle offre financière supplémentaire lui avait été proposée ?",
+     "a": "Les agents iraniens lui auraient proposé une somme de 200 000 dollars s'il acceptait de se rendre directement en Iran."
+    },
+    {
+     "q": "Depuis combien de temps le soldat collaborait-il avec ces agents ?",
+     "a": "La transmission d'informations confidentielles durait depuis près d'un an."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Iran · Sécurité maritime",
+   "fait": "L'armée iranienne affirme maintenir le détroit d'Ormuz fermé et avoir abattu un drone de reconnaissance américain MQ-1 dans le secteur.",
+   "questions": [
+    {
+     "q": "Sous quelles conditions l'Iran envisage-t-il de rouvrir le détroit d'Ormuz ?",
+     "a": "L'armée iranienne a affirmé que le détroit resterait sous son contrôle tant que la totalité des exigences formulées par l'Iran ne serait pas satisfaite."
+    },
+    {
+     "q": "Quel type d'appareil américain l'Iran affirme-t-il avoir abattu ?",
+     "a": "Les Gardiens de la révolution ont affirmé avoir intercepté et détruit un drone américain de type MQ-1."
+    },
+    {
+     "q": "Où l'interception de l'appareil s'est-elle produite ?",
+     "a": "L'appareil aurait été neutralisé dans le secteur oriental du détroit d'Ormuz au moyen d'un système antiaérien iranien."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Ukraine · Russie",
+   "fait": "Des bombardements russes ont tué au moins 19 civils en Ukraine, dont 14 personnes sur le quai de la gare centrale de Dnipro.",
+   "questions": [
+    {
+     "q": "Quelles localités ukrainiennes ont été ciblées par ces frappes ?",
+     "a": "Les frappes ont touché Dnipro, Tchernihiv et un immeuble résidentiel à Krementchouk."
+    },
+    {
+     "q": "Quel bilan humain a été dressé à la gare de Dnipro ?",
+     "a": "Une attaque de drone a fait au moins 14 morts alors qu'un train de voyageurs s'apprêtait à partir pour Zaporijjia."
+    },
+    {
+     "q": "Un cessez-le-feu était-il en vigueur lors de ces bombardements ?",
+     "a": "Un cessez-le-feu humanitaire localisé existait uniquement dans la région de Kherson, sans s'étendre aux autres zones frappées."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Mer Noire · Sécurité maritime",
+   "fait": "Un porte-conteneurs affilié à la compagnie maritime israélienne ZIM a été attaqué par des drones navals au large des côtes de Bulgarie.",
+   "questions": [
+    {
+     "q": "Quel est le sort de l'équipage du navire attaqué ?",
+     "a": "Les 18 membres d'équipage ont tous été secourus sains et saufs."
+    },
+    {
+     "q": "Que contenait le cargo au moment de l'attaque ?",
+     "a": "Le navire transportait 421 conteneurs, dont certains renfermaient des matières dangereuses."
+    },
+    {
+     "q": "Les auteurs de l'attaque ont-ils été identifiés ?",
+     "a": "L'identité des auteurs de l'agression maritime reste pour le moment inconnue."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Israël · Police",
+   "fait": "La police israélienne a dispersé à coups de grenades assourdissantes et à cheval des manifestations d'ultraorthodoxes bloquant l'axe de Geha et Bnei Brak.",
+   "questions": [
+    {
+     "q": "Quels moyens ont été déployés pour rétablir la circulation ?",
+     "a": "Les forces de l'ordre ont utilisé des grenades assourdissantes au carrefour de Geha et fait intervenir des brigades équestres à Bnei Brak."
+    },
+    {
+     "q": "Quelle a été la réaction du ministre Itamar Ben Gvir ?",
+     "a": "Itamar Ben Gvir a vivement attaqué le chef de la police Daniel Levy, lui reprochant d'agir illégalement contre les ultraorthodoxes pour complaire à la gauche."
+    },
+    {
+     "q": "Que reproche le ministre à Daniel Levy ?",
+     "a": "Il l'accuse d'avoir changé de comportement dès le lendemain des élections afin de chercher les faveurs du prochain pouvoir politique."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Iran · Cyberdéfense",
+   "fait": "Des révélations de presse affirment que l'Iran préparait des cyberattaques et des recrutements d'agents pour déstabiliser les scrutins israélien et américain.",
+   "questions": [
+    {
+     "q": "Quel était le but attribué aux projets d'ingérence iraniens ?",
+     "a": "L'objectif était d'accentuer les divisions internes au sein des sociétés israélienne et américaine plutôt que d'avantager un candidat précis."
+    },
+    {
+     "q": "Quels mécanismes de perturbation Téhéran prévoyait-il d'utiliser ?",
+     "a": "Téhéran prévoyait d'infiltrer les systèmes électoraux via le recrutement d'agents et la mise sur pied d'équipes de cyberattaquants."
+    },
+    {
+     "q": "Quelle échéance électorale américaine immédiate était visée ?",
+     "a": "L'Iran préparait des perturbations ciblant les élections américaines de mi-mandat prévues la semaine suivante."
+    }
+   ]
+  },
+  {
+   "score": 4,
+   "topic": "Israël · Économie",
+   "fait": "Le prix du litre d'essence sans-plomb 95 en libre-service va baisser de 46 agorot en Israël pour atteindre 7,35 shekels.",
+   "questions": [
+    {
+     "q": "De combien diminue le prix du carburant ?",
+     "a": "Le tarif de l'essence enregistre une baisse de 46 agorot par litre."
+    },
+    {
+     "q": "À quel moment cette réduction entre-t-elle en application ?",
+     "a": "Cette baisse tarifaire s'applique dans la nuit de samedi à dimanche."
+    },
+    {
+     "q": "Quel sera le tarif final à la pompe après la diminution ?",
+     "a": "Le litre de sans-plomb 95 en libre-service s'établira à 7,35 shekels."
+    }
+   ]
+  }
  ]
 }
