@@ -17466,5 +17466,235 @@
     }
    ]
   }
+ ],
+ "2026-10-30": [
+  {
+   "score": 9,
+   "topic": "Iran · États-Unis",
+   "fait": "Des tirs ont opposé les forces américaines et les Gardiens de la révolution dans le sud de l'Iran et le détroit d'Ormuz.",
+   "questions": [
+    {
+     "q": "Quels affrontements ont eu lieu dans le sud de l'Iran et à Ormuz ?",
+     "a": "Quatre missiles ont touché une base navale iranienne près du port de Jask lors d'une attaque attribuée aux États-Unis, tandis que les Gardiens de la révolution ont tiré sur des navires dans le détroit d'Ormuz."
+    },
+    {
+     "q": "Quelle tactique navale l'Iran utilise-t-il désormais ?",
+     "a": "L'Iran a recours à des mines ventouses, des engins explosifs qui se fixent directement sur la coque des navires dans le détroit d'Ormuz."
+    },
+    {
+     "q": "Quelles déclarations belliqueuses ont été formulées côté iranien ?",
+     "a": "Le haut responsable des Gardiens de la révolution Reifi Pour a appelé à attaquer préventivement les sites de stationnement des avions de combat américains afin de neutraliser leurs installations."
+    }
+   ]
+  },
+  {
+   "score": 8,
+   "topic": "Bande de Gaza · Tsahal",
+   "fait": "Tsahal a éliminé plusieurs terroristes du Hamas, dont un geôlier d'otages, et détruit deux dépôts d'armes dans la bande de Gaza.",
+   "questions": [
+    {
+     "q": "Quel cadre du Hamas lié aux otages a été tué ?",
+     "a": "Ihab Jamil Abou Takia, commandant d'une cellule de la branche armée du Hamas impliqué dans la détention de nombreux otages au début de la guerre, a été éliminé à Nousseirat."
+    },
+    {
+     "q": "Quels autres membres du Hamas ont été ciblés ?",
+     "a": "Ibrahim Abou Aïshiba a été tué à Nousseirat, Mohammed Aliyan Bayouk à Khan Younès, ainsi que trois cadres dont Hammam Abou Labda à Rafah."
+    },
+    {
+     "q": "Quelles infrastructures ont été détruites par l'armée israélienne ?",
+     "a": "Deux dépôts d'armes contenant des roquettes, des lance-roquettes RPG, des fusils Kalachnikov et des explosifs ont été détruits dans les secteurs d'Al-Bureij et de Gaza ville."
+    }
+   ]
+  },
+  {
+   "score": 8,
+   "topic": "Iran · Armement",
+   "fait": "Une enquête révèle que l'Iran s'appuie sur plus de 5 000 entités écrans pour importer illégalement des milliards de dollars d'équipements militaires.",
+   "questions": [
+    {
+     "q": "Comment ce réseau clandestin est-il structuré ?",
+     "a": "Plus de 5 000 entités identifiées par le préfixe « MOD » sont enregistrées à la même adresse que le ministère iranien de la Défense à Téhéran."
+    },
+    {
+     "q": "Quels volumes et matériels ont été acheminés ?",
+     "a": "Plus de 2 milliards de dollars d'importations ont eu lieu depuis début 2025, incluant des produits chimiques pour carburant de missiles, 93 tonnes de titane chinois, des camions et des pièces de moteurs."
+    },
+    {
+     "q": "Comment ces transactions financières sont-elles réglées ?",
+     "a": "97 % des transactions ont été effectuées sans transfert bancaire transfrontalier, grâce à des intermédiaires qui mobilisent des fonds déjà situés à l'étranger."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Judée-Samarie · Tsahal",
+   "fait": "Tsahal a détruit à Hébron les domiciles de deux terroristes responsables de la mort de deux soldats israéliens une semaine plus tôt.",
+   "questions": [
+    {
+     "q": "Pourquoi ces habitations ont-elles été démolies ?",
+     "a": "Les terroristes concernés avaient tué deux combattants israéliens, le sergent-chef Ron Yonatan Roitman et le sergent Yuval Shay Suilem, lors d'un affrontement au carrefour de Judée."
+    },
+    {
+     "q": "En quoi cette mesure est-elle inhabituelle selon Tsahal ?",
+     "a": "L'armée a souligné que la destruction des habitations est intervenue une semaine seulement après l'attaque, un délai qualifié de sans précédent."
+    },
+    {
+     "q": "Quelles autres actions ont été menées sur place ?",
+     "a": "Tsahal a également détruit trois monuments commémoratifs dédiés à des terroristes et servant à l'incitation à la violence dans le même secteur."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Iran · Diplomatie",
+   "fait": "Des médiateurs qataris se sont rendus à Téhéran pour tenter de négocier un accord avec Washington sur le nucléaire et les sanctions.",
+   "questions": [
+    {
+     "q": "Qui participe à ces négociations indirectes ?",
+     "a": "Des médiateurs qataris mènent les discussions à Téhéran en coordination étroite avec Washington."
+    },
+    {
+     "q": "Sur quels sujets portent les désaccords entre l'Iran et les États-Unis ?",
+     "a": "Les deux pays restent profondément divisés sur le programme nucléaire iranien, les sanctions américaines et le blocus maritime."
+    },
+    {
+     "q": "Un projet d'accord a-t-il été validé lors de cette visite ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Israël · Armée",
+   "fait": "Tsahal recherche un véhicule Hummer volé sur la base de Julis, craignant qu'il ne serve à des infiltrations d'installations militaires.",
+   "questions": [
+    {
+     "q": "Comment la disparition du véhicule a-t-elle été constatée ?",
+     "a": "Le véhicule manquait lors d'une inspection d'un dépôt d'équipements appartenant à une unité de réservistes sur la base de Julis."
+    },
+    {
+     "q": "Quelles recherches ont été entreprises pour le retrouver ?",
+     "a": "Des fouilles dans la base et aux alentours ont été menées avec des drones, les caméras ont été analysées et le bataillon a été temporairement consigné."
+    },
+    {
+     "q": "Quelle menace redoute le commandement militaire ?",
+     "a": "Tsahal craint que le Hummer ne soit utilisé pour s'introduire dans des bases militaires ou des zones d'entraînement de l'armée."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Israël · Accident",
+   "fait": "Le conducteur d'un autobus transportant des enfants a été tué et 23 personnes blessées lors d'un accident dans le sud d'Israël.",
+   "questions": [
+    {
+     "q": "Comment l'accident s'est-il produit ?",
+     "a": "Un autobus transportant des enfants a percuté l'arrière d'un tracteur sur la route 25, à proximité du carrefour Gadi."
+    },
+    {
+     "q": "Quel est le bilan humain de la collision ?",
+     "a": "Le chauffeur du bus a trouvé la mort, trois personnes ont été modérément blessées et vingt autres ont été légèrement blessées."
+    },
+    {
+     "q": "Combien d'enfants se trouvaient à bord du véhicule ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Judée-Samarie · Sécurité",
+   "fait": "Tsahal a arrêté quatre terroristes à Jénine et la police a saisi un important stock d'armes et de munitions à Qalqilya.",
+   "questions": [
+    {
+     "q": "Quel est le profil des suspects arrêtés à Jénine ?",
+     "a": "Il s'agit de quatre trafiquants d'armes, anciens membres de l'organisation terroriste locale, qui préparaient de nouvelles attaques."
+    },
+    {
+     "q": "Quel matériel a été confisqué à Qalqilya ?",
+     "a": "Les forces de l'ordre ont saisi plusieurs armes à feu de différents types, des pistolets, 67 chargeurs et plus de 2 300 cartouches, et ont arrêté deux suspects."
+    },
+    {
+     "q": "Quelles forces ont opéré à Jénine ?",
+     "a": "L'opération a été menée par l'unité Duvdevan et la brigade des parachutistes, sous le commandement de la brigade de Menashe et la direction du Shin Bet."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Israël · Politique",
+   "fait": "Benjamin Netanyahou a rencontré Itamar Ben Gvir afin de tenter d'empêcher la formation d'un gouvernement minoritaire par l'opposition.",
+   "questions": [
+    {
+     "q": "Quel était le but de l'entretien entre Netanyahou et Ben Gvir ?",
+     "a": "Le Premier ministre a cherché à bloquer la formation d'un gouvernement minoritaire par le bloc du changement."
+    },
+    {
+     "q": "Quelle est la position du parti Judaïsme unifié de la Torah ?",
+     "a": "Le parti de Yaakov Asher a démenti avoir reçu des consignes, indiquant ne pas avoir consulté les autorités rabbiniques depuis les élections."
+    },
+    {
+     "q": "Un compromis a-t-il été trouvé entre Netanyahou et Ben Gvir ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 4,
+   "topic": "Aviation · Israël",
+   "fait": "La compagnie Flydubai a prolongé la suspension de ses liaisons avec Tel-Aviv jusqu'au 30 novembre 2026.",
+   "questions": [
+    {
+     "q": "Depuis quand les vols de Flydubai sont-ils interrompus ?",
+     "a": "Les liaisons reliant Dubaï et Tel-Aviv sont suspendues depuis le 30 septembre."
+    },
+    {
+     "q": "Quelle est la cause de cette interruption prolongée ?",
+     "a": "Cette décision fait suite à un grave incident survenu à bord d'un avion de la compagnie émiratie."
+    },
+    {
+     "q": "Quels sont les détails de l'incident à bord ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 4,
+   "topic": "États-Unis · Politique",
+   "fait": "JD Vance a averti qu'une victoire démocrate au Congrès risquerait de freiner ou d'inverser les réalisations de l'administration républicaine.",
+   "questions": [
+    {
+     "q": "Qu'a affirmé JD Vance au sujet des prochaines élections au Congrès ?",
+     "a": "Il a prévenu que si les démocrates reprennent le Sénat et la Chambre des représentants, une grande partie des accomplissements des deux dernières années sera ralentie, stoppée ou inversée."
+    },
+    {
+     "q": "Quels accomplissements précis JD Vance a-t-il mentionnés ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour."
+    },
+    {
+     "q": "À quel titre JD Vance s'exprimait-il ?",
+     "a": "Il s'exprimait en tant que vice-président des États-Unis en réponse à la question d'un journaliste."
+    }
+   ]
+  },
+  {
+   "score": 3,
+   "topic": "France · Faits divers",
+   "fait": "L'auteur présumé de l'attaque de Trappes a été mis en examen pour assassinat et tentatives d'assassinat à caractère terroriste.",
+   "questions": [
+    {
+     "q": "Quels éléments motivent les poursuites terroristes à Trappes ?",
+     "a": "L'homme de 39 ans, soupçonné d'avoir tué une personne et blessé sept autres, a reconnu avoir choisi ses cibles selon leur origine ou religion supposée, bien qu'il nie l'intention terroriste."
+    },
+    {
+     "q": "Quelles autres affaires judiciaires françaises sont signalées ?",
+     "a": "Une information judiciaire a été ouverte après une mort en garde à vue à Saint-Ouen, et l'IGPN a été saisie après la blessure grave d'un manifestant à Toulouse."
+    },
+    {
+     "q": "Quelles circonstances entourent le décès survenu à Saint-Ouen ?",
+     "a": "L'autopsie a montré des infiltrations hémorragiques sans lésion expliquant directement la mort, tandis que la famille accuse des violences policières."
+    }
+   ]
+  }
  ]
 }
