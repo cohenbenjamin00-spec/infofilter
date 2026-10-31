@@ -17696,5 +17696,205 @@
     }
    ]
   }
+ ],
+ "2026-10-31": [
+  {
+   "score": 9,
+   "topic": "Iran · États-Unis",
+   "fait": "Donald Trump envisagerait des frappes contre l'Iran dès le 4 novembre, tandis que Téhéran menace d'élargir le conflit et met à jour ses cibles.",
+   "questions": [
+    {
+     "q": "Quelle échéance est évoquée pour d'éventuelles frappes américaines ?",
+     "a": "Selon une information attribuée à la chaîne MS NOW, Donald Trump envisagerait de reprendre les attaques dès le 4 novembre, au lendemain des élections de mi-mandat aux États-Unis."
+    },
+    {
+     "q": "Quel serait l'objectif militaire poursuivi par Washington ?",
+     "a": "L'objectif serait de forcer l'Iran à signer un accord sur son programme nucléaire ou, à défaut, d'anéantir ses installations nucléaires."
+    },
+    {
+     "q": "Quelle a été la réponse des autorités iraniennes ?",
+     "a": "Les responsables militaires iraniens ont mis à jour leur liste de cibles potentielles contre les États-Unis et Israël, affirmant être au niveau maximal d'alerte et prévenant que la guerre s'étendrait à un territoire bien plus vaste en cas d'attaque."
+    },
+    {
+     "q": "Quel rôle jouent les médiateurs qataris ?",
+     "a": "Des médiateurs qataris poursuivent des discussions à Doha avec le vice-ministre iranien des Affaires étrangères, en liaison permanente avec la Maison-Blanche, bien qu'aucun accord de négociation directe n'ait encore abouti."
+    }
+   ]
+  },
+  {
+   "score": 8,
+   "topic": "Russie · Menace terroriste",
+   "fait": "L'ambassade américaine à Moscou et le FSB ont alerté sur un risque imminent d'attentat de grande ampleur dans la capitale russe.",
+   "questions": [
+    {
+     "q": "Qui a diffusé l'alerte concernant un projet d'attaque ?",
+     "a": "L'ambassade des États-Unis à Moscou a communiqué l'information, précisant qu'elle disposait de renseignements faisant état d'un risque d'attaque pouvant causer de nombreuses victimes."
+    },
+    {
+     "q": "Les services russes ont-ils confirmé ces avertissements ?",
+     "a": "Oui, le FSB a confirmé avoir reçu des renseignements de la part des Américains et a indiqué avoir pris plusieurs mesures en réponse."
+    },
+    {
+     "q": "Quelle coopération a été mise en place ?",
+     "a": "Les équipes de l'ambassade américaine ont précisé coopérer avec les autorités russes afin de faire face à cette menace."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Israël · Politique intérieure",
+   "fait": "Gadi Eisenkot et Yaïr Lapid se sont concertés pour former une majorité à la Knesset, dénonçant de fortes pressions exercées par le Likoud.",
+   "questions": [
+    {
+     "q": "Quel est l'objectif des discussions entre Gadi Eisenkot et Yaïr Lapid ?",
+     "a": "Ils se sont rencontrés pour coordonner leurs prochaines démarches politiques, affirmer leur volonté d'utiliser la majorité parlementaire et éviter de nouvelles élections législatives."
+    },
+    {
+     "q": "De quoi le parti de Gadi Eisenkot accuse-t-il le Likoud ?",
+     "a": "Le parti Yashar! accuse des ministres et députés du Likoud de céder à la panique en multipliant les appels téléphoniques vers ses membres pour tenter d'enrayer leur défaite."
+    },
+    {
+     "q": "Quelle position a exprimée Avigdor Liberman ?",
+     "a": "Avigdor Liberman a affirmé avoir décliné les propositions qui lui ont été faites pour occuper la présidence de la Knesset."
+    },
+    {
+     "q": "Quelle position adopte Ahmed Tibi pour les votes à venir ?",
+     "a": "Ahmed Tibi a annoncé son soutien au remplacement du président de la Knesset et à une commission d'enquête nationale, tout en refusant de s'associer à une motion de défiance constructive du Likoud."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "France · Sécurité intérieure",
+   "fait": "Soixante-dix mille membres des forces de l'ordre ont été mobilisés en France lors de manifestations marquées par des heurts à Paris et Marseille.",
+   "questions": [
+    {
+     "q": "Pourquoi ce dispositif sécuritaire exceptionnel a-t-il été déployé ?",
+     "a": "Le ministre de l'Intérieur, Laurent Nuñez, a évoqué un risque très élevé de troubles, redoutant des dégradations facilitées par des personnes masquées à l'occasion d'Halloween et des manifestations."
+    },
+    {
+     "q": "Quels incidents notables ont éclaté pendant les rassemblements ?",
+     "a": "Des affrontements et des charges policières ont eu lieu à Marseille, tandis qu'à Paris, un policier a été blessé par un jet de cocktail Molotov."
+    },
+    {
+     "q": "Combien d'interpellations ont eu lieu lors des manifestations du 31 octobre ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Liban · Frappes israéliennes",
+   "fait": "L'aviation israélienne a bombardé des infrastructures du Hezbollah dans le sud du Liban, où un drone a également explosé à Mayfadoun.",
+   "questions": [
+    {
+     "q": "Quelles localités du sud du Liban ont été ciblées par Tsahal ?",
+     "a": "L'armée de l'air israélienne a frappé des infrastructures du Hezbollah dans les secteurs de Tibnit et de Braachit."
+    },
+    {
+     "q": "Où l'explosion d'un drone a-t-elle été signalée ?",
+     "a": "Un drone a explosé sur le toit d'une installation présentée comme une infrastructure terroriste dans la localité de Mayfadoun."
+    },
+    {
+     "q": "Le Hezbollah a-t-il revendiqué des tirs en riposte ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Israël · Soupçons de fraude",
+   "fait": "Le Mossad doit assister le Shin Bet dans une enquête sur des soupçons de financements étrangers et d'achats de voix électorales en Israël.",
+   "questions": [
+    {
+     "q": "Quels services sont mobilisés sur ce dossier ?",
+     "a": "Le service de renseignement extérieur (Mossad) doit apporter son concours au service de sécurité intérieure (Shin Bet)."
+    },
+    {
+     "q": "Sur quoi portent précisément les investigations ?",
+     "a": "L'enquête porte sur des soupçons d'achats de voix et de financements d'origine étrangère dans le cadre des élections israéliennes."
+    },
+    {
+     "q": "Des personnalités politiques ont-elles été arrêtées ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Italie · Menace terroriste",
+   "fait": "Un homme de vingt-deux ans a été interpellé à Milan, soupçonné d'avoir planifié un attentat contre une synagogue locale.",
+   "questions": [
+    {
+     "q": "Quel était le lieu visé par l'attaque projetée ?",
+     "a": "Le suspect prévoyait de commettre un attentat contre une synagogue située à Milan."
+    },
+    {
+     "q": "Quel est le profil de la personne interpellée ?",
+     "a": "Les messages précisent uniquement qu'il s'agit d'un jeune homme âgé de 22 ans arrêté pour des soupçons liés à l'antisémitisme."
+    },
+    {
+     "q": "Des armes ou des explosifs ont-ils été découverts chez lui ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Syrie · Conflit armé",
+   "fait": "Le chef de la diplomatie syrienne a affirmé qu'Israël a mené plus de mille frappes sur le territoire syrien en moins de deux ans.",
+   "questions": [
+    {
+     "q": "Qui est à l'origine de cette déclaration ?",
+     "a": "C'est le ministre syrien des Affaires étrangères, Assad al-Chaibani, qui a formulé cette accusation."
+    },
+    {
+     "q": "Quel est le bilan humain ou matériel présenté par la Syrie ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour."
+    },
+    {
+     "q": "Israël a-t-il confirmé ce nombre d'opérations ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 4,
+   "topic": "Israël · Sécurité nord",
+   "fait": "Des munitions non explosées ont été découvertes sur la crête de Ramim, entraînant l'isolement de ce secteur frontalier du nord d'Israël.",
+   "questions": [
+    {
+     "q": "Où ces munitions ont-elles été trouvées ?",
+     "a": "Les engins ont été repérés dans le secteur de la crête de Ramim, dans le nord d'Israël."
+    },
+    {
+     "q": "Quelles dispositions ont été prises sur place ?",
+     "a": "La zone a été déclarée zone militaire fermée pour interdire l'accès aux civils, tandis que des démineurs et la police militaire s'occupent de neutraliser les engins."
+    },
+    {
+     "q": "Quelle est la provenance exacte des munitions ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 4,
+   "topic": "France · Faits divers",
+   "fait": "Plusieurs crimes graves ont touché l'Hexagone et un réseau ayant expédié trois tonnes de cannabis vers l'Espagne a été démantelé.",
+   "questions": [
+    {
+     "q": "Quel mode opératoire utilisait le réseau de stupéfiants démantelé ?",
+     "a": "Le réseau expédiait du cannabis via des colis postaux, notamment en passant par le réseau Mondial Relay, pour un volume estimé à trois tonnes."
+    },
+    {
+     "q": "Quelles affaires criminelles récentes ont été signalées en province ?",
+     "a": "Un père de famille a été tué par balle en Côte-d'Or et deux drames distincts impliquant des cyclistes percutées mortellement ont donné lieu à des gardes à vue ou mises en examen en Seine-Maritime et en Saône-et-Loire."
+    },
+    {
+     "q": "Quel est l'état de la femme agressée à l'arme blanche à Paris ?",
+     "a": "Hospitalisée après avoir été poignardée dans le XIXe arrondissement, ses jours ne sont plus en danger."
+    }
+   ]
+  }
  ]
 }
