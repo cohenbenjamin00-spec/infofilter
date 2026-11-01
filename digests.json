@@ -17896,5 +17896,292 @@
     }
    ]
   }
+ ],
+ "2026-11-01": [
+  {
+   "score": 9,
+   "topic": "Guerre · Bande de Gaza",
+   "fait": "L'ancien chef d'état-major Herzi Halevi a révélé à New York que des bombardements israéliens avaient tué des otages à Gaza sans le savoir.",
+   "questions": [
+    {
+     "q": "Dans quel cadre Herzi Halevi a-t-il fait cette déclaration ?",
+     "a": "Il s'est exprimé à New York lors de la conférence de l'organisation Shurat HaDin."
+    },
+    {
+     "q": "Qu'a affirmé Herzi Halevi à propos de l'offensive terrestre ?",
+     "a": "Il a expliqué qu'il avait fallu beaucoup de temps pour convaincre les responsables politiques et que, sans cette pression militaire, les otages n'auraient pas pu être libérés."
+    },
+    {
+     "q": "Tsahal savait-elle que des otages se trouvaient sur les sites visés ?",
+     "a": "Non, l'ancien chef d'état-major a précisé que l'armée ignorait la présence d'otages aux endroits ciblés par les frappes."
+    }
+   ]
+  },
+  {
+   "score": 8,
+   "topic": "Iran · Détroit d'Ormuz",
+   "fait": "Les Gardiens de la révolution iraniens auraient attaqué et coulé un navire porte-conteneurs qatari dans le détroit d'Ormuz pendant le Chabbat.",
+   "questions": [
+    {
+     "q": "Quelle justification les Gardiens de la révolution avancent-ils pour cette attaque ?",
+     "a": "Ils affirment que le porte-conteneurs avait pénétré dans une zone interdite à la navigation."
+    },
+    {
+     "q": "De quelle nationalité était le porte-conteneurs visé ?",
+     "a": "Il s'agissait d'un navire qatari."
+    },
+    {
+     "q": "Des victimes ont-elles été signalées parmi les membres d'équipage ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 8,
+   "topic": "États-Unis · Iran",
+   "fait": "Les États-Unis ont renforcé leur présence à l'aéroport israélien Ramon avec trente ravitailleurs aériens et lancé un exercice conjoint en Jordanie.",
+   "questions": [
+    {
+     "q": "Combien d'avions ravitailleurs américains supplémentaires ont été déployés à l'aéroport Ramon ?",
+     "a": "Dix appareils supplémentaires sont arrivés récemment, portant leur nombre total à trente sur ce seul site."
+    },
+    {
+     "q": "Quel est l'objectif des manœuvres conjointes américano-jordaniennes ?",
+     "a": "L'exercice vise à renforcer la protection des bases militaires accueillant des forces américaines face à d'éventuelles attaques."
+    },
+    {
+     "q": "Donald Trump a-t-il arrêté une décision concernant une frappe militaire contre l'Iran ?",
+     "a": "Selon Marco Rubio, Donald Trump n'a pas encore décidé s'il frapperait l'Iran et privilégie encore la porte diplomatique."
+    }
+   ]
+  },
+  {
+   "score": 8,
+   "topic": "Tsahal · Bande de Gaza",
+   "fait": "Des frappes israéliennes à Khan Younès et à Gaza ont tué huit membres du Hamas, dont un haut responsable policier, Mohammed Al-Jamal.",
+   "questions": [
+    {
+     "q": "Où ont eu lieu les deux frappes israéliennes signalées ?",
+     "a": "Une frappe a visé un poste de police à Al-Mawasi près de Khan Younès, et une seconde a touché la rue Al-Thawra à Gaza."
+    },
+    {
+     "q": "Qui a été tué lors de la frappe à Khan Younès ?",
+     "a": "Cinq policiers du Hamas ont été tués, parmi lesquels Mohammed Al-Jamal, âgé de 44 ans et plus haut gradé du groupe."
+    },
+    {
+     "q": "Combien de victimes au total ont été dénombrées lors de ces deux attaques ?",
+     "a": "Huit membres du Hamas auraient été éliminés au cours de ces frappes menées en une heure."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Tsahal · Liban-Sud",
+   "fait": "Une frappe aérienne israélienne sur Al-Qusayr a interrompu la conférence de presse d'une ministre libanaise dans le sud du Liban.",
+   "questions": [
+    {
+     "q": "Quelle responsable politique libanaise a dû écourter son intervention ?",
+     "a": "Il s'agit de la ministre libanaise des Affaires sociales, Hanine El-Sayed."
+    },
+    {
+     "q": "Qu'a découvert Tsahal lors de fouilles à Al-Khiam ?",
+     "a": "Les militaires ont saisi des roquettes, des armes d'assaut, des gilets tactiques, détruit un dépôt de drones explosifs et fouillé une maison portant des symboles du Hezbollah."
+    },
+    {
+     "q": "Y a-t-il eu des victimes civiles signalées lors du raid sur Al-Qusayr ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Russie · États-Unis",
+   "fait": "Le FSB russe a arrêté à Moscou un mineur projetant un attentat de masse à Tsaritsyno, grâce à une alerte des États-Unis.",
+   "questions": [
+    {
+     "q": "Quel site était visé par le projet d'attentat à Moscou ?",
+     "a": "Le projet visait le complexe du musée et du parc Tsaritsyno."
+    },
+    {
+     "q": "Comment le suspect a-t-il été identifié en ligne ?",
+     "a": "Il s'affichait sur TikTok vêtu d'une tenue tactique avec une arme automatique et avait diffusé des images du lieu en déclarant avoir trouvé une cible."
+    },
+    {
+     "q": "Quel rôle ont joué les États-Unis dans l'arrestation ?",
+     "a": "Les autorités américaines ont transmis un renseignement précis aux services russes quelques heures avant l'interpellation."
+    }
+   ]
+  },
+  {
+   "score": 7,
+   "topic": "Iran · Royaume-Uni",
+   "fait": "Téhéran a désigné le MI6, la Royal Navy et la Royal Air Force comme organisations hostiles et terroristes en représailles aux sanctions britanniques.",
+   "questions": [
+    {
+     "q": "Quelles institutions britanniques sont précisément visées par l'Iran ?",
+     "a": "Le service de renseignement extérieur MI6 est déclaré hostile, tandis que la Royal Navy et la Royal Air Force sont classées terroristes."
+    },
+    {
+     "q": "Pour quelle raison l'Iran prend-il ces mesures ?",
+     "a": "Téhéran riposte à la désignation des Gardiens de la révolution comme organisation terroriste par Londres et dénonce l'aide britannique fournie à Israël et aux États-Unis."
+    },
+    {
+     "q": "Des sanctions économiques spécifiques accompagnent-elles cette décision ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Israël · Élections",
+   "fait": "La police israélienne a découvert des enveloppes de billets estampillées « Mouvement islamique » et des bulletins du parti Ra'am dans un véhicule.",
+   "questions": [
+    {
+     "q": "Que soupçonnent les enquêteurs après cette saisie ?",
+     "a": "La police soupçonne que ces fonds étaient destinés à acheter des voix pour les élections."
+    },
+    {
+     "q": "Quelle justification a donné le suspect interpellé ?",
+     "a": "Le suspect a prétendu que les sommes d'argent devaient être remises à des familles démunies."
+    },
+    {
+     "q": "Quelle a été la réaction du ministre Itamar Ben Gvir ?",
+     "a": "Il a réclamé des peines de prison ferme contre les responsables et la tenue immédiate de nouvelles élections si la fraude électorale était confirmée."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Iran · Diplomatie",
+   "fait": "Le ministre iranien Abbas Araghchi a annoncé que les négociations au Qatar sur un plan de deux jours progressent sans accord définitif.",
+   "questions": [
+    {
+     "q": "Quel est le sujet des discussions en cours à Doha ?",
+     "a": "Les pourparlers portent sur la mise en œuvre d'un plan de deux jours négocié entre la délégation iranienne et des médiateurs."
+    },
+    {
+     "q": "Quelle condition l'Iran pose-t-il pour parvenir à un accord ?",
+     "a": "Le ministre a indiqué que l'aboutissement dépendra des réponses fournies par l'autre partie aux questions de Téhéran."
+    },
+    {
+     "q": "Quelles sont les autres délégations présentes aux pourparlers du Qatar ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 6,
+   "topic": "Tsahal · Judée-Samarie",
+   "fait": "Le ministre Israël Katz a autorisé la fin prochaine de l'opération « Rugissement de Juda » à Hébron sous conditions spécifiques.",
+   "questions": [
+    {
+     "q": "Quel était le nom de cette opération militaire ?",
+     "a": "L'opération menée en Judée-Samarie s'intitule « Rugissement de Juda »."
+    },
+    {
+     "q": "Quelles conditions ont été fixées pour lever l'opération ?",
+     "a": "Il faut établir un dispositif pour évacuer des habitants et avertir l'Autorité palestinienne qu'une récidive terroriste entraînera une offensive de plus grande ampleur."
+    },
+    {
+     "q": "Combien de temps a duré cette opération sur le terrain ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Jérusalem · Société",
+   "fait": "Des manifestants ultra-orthodoxes ont bloqué le tramway et protesté devant un bureau de recrutement à Jérusalem contre la conscription et des arrestations.",
+   "questions": [
+    {
+     "q": "Pourquoi des ultra-orthodoxes ont-ils bloqué le tramway de Jérusalem ?",
+     "a": "Ils protestaient contre l'arrestation d'un déserteur de l'armée israélienne."
+    },
+    {
+     "q": "Que contestait le rassemblement tenu rue Rachi à Jérusalem ?",
+     "a": "Les manifestants s'opposaient à une journée de recrutement d'ultra-orthodoxes organisée par Tsahal."
+    },
+    {
+     "q": "Y a-t-il eu des heurts ou des blessés signalés sur place ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 5,
+   "topic": "Israël · Politique",
+   "fait": "Le président Herzog a appelé les partis au compromis pour éviter de nouvelles élections, sur fond de vives tensions politiques.",
+   "questions": [
+    {
+     "q": "Quel message Isaac Herzog a-t-il adressé aux dirigeants des partis ?",
+     "a": "Il leur a demandé de venir aux consultations avec un esprit et un cœur ouverts pour élaborer des solutions afin d'éviter un nouveau scrutin."
+    },
+    {
+     "q": "Quelle critique le Likoud a-t-il portée contre Gadi Eisenkot ?",
+     "a": "Le Likoud l'accuse de renier ses engagements en cherchant à former une coalition avec des partis soutenant le terrorisme et en abandonnant la conscription des ultra-orthodoxes."
+    },
+    {
+     "q": "Quelle réunion politique doit se tenir entre les partis arabes ?",
+     "a": "Les dirigeants de Ra'am et de la Liste commune ont convenu de se réunir pour accorder leurs positions face au bloc du changement."
+    }
+   ]
+  },
+  {
+   "score": 4,
+   "topic": "Néguev · Sécurité intérieure",
+   "fait": "Les forces de sécurité israéliennes ont saisi des armes de guerre, des munitions militaires volées et du haschisch dans le Néguev.",
+   "questions": [
+    {
+     "q": "Quelles armes ont été retrouvées lors de cette opération ?",
+     "a": "La police a saisi trois fusils d'assaut M16, quatre pistolets, une arme artisanale ainsi que des centaines de cartouches et des chargeurs."
+    },
+    {
+     "q": "Quelle quantité de drogue a été confisquée ?",
+     "a": "Vingt-cinq kilogrammes de haschisch ont été saisis lors des perquisitions."
+    },
+    {
+     "q": "Quelles unités de police ont participé aux opérations dans le secteur sud ?",
+     "a": "L'opération a mobilisé les policiers du district sud, la Garde nationale de la police des frontières et les unités Sahar et Yoav."
+    }
+   ]
+  },
+  {
+   "score": 4,
+   "topic": "Israël · Justice",
+   "fait": "Le juge Noam Solberg, David Zini et la procureure générale Gali Baharav-Miara se sont entretenus pendant six heures au sujet d'enquêtes.",
+   "questions": [
+    {
+     "q": "Quel différend a été soulevé par David Zini au cours de l'entretien ?",
+     "a": "Il s'est plaint que le conseiller juridique de son organisme l'ait empêché de mener à son terme une enquête sur les faits examinés."
+    },
+    {
+     "q": "Combien de temps ont duré les échanges entre les trois personnalités ?",
+     "a": "La réunion entre le juge Solberg, David Zini et la procureure générale a duré six heures."
+    },
+    {
+     "q": "Sur quels dossiers ou soupçons précis portait cette enquête ?",
+     "a": "Cette information n'apparaît pas dans les messages du jour."
+    }
+   ]
+  },
+  {
+   "score": 4,
+   "topic": "États-Unis · Élections",
+   "fait": "Donald Trump a salué le ralliement au candidat républicain au Sénat dans le Michigan de l'élue démocrate sortante Haley Stevens.",
+   "questions": [
+    {
+     "q": "Quel candidat républicain au Sénat bénéficie du soutien de Haley Stevens ?",
+     "a": "Elle a apporté son appui au candidat républicain Mike Rogers."
+    },
+    {
+     "q": "Contre qui Haley Stevens avait-elle concouru lors de la primaire démocrate ?",
+     "a": "Elle aurait perdu de justesse la primaire face à Abdul Mohamed El-Sayed."
+    },
+    {
+     "q": "Quelle prédiction le président de la Chambre Mike Johnson a-t-il exprimée ?",
+     "a": "Il a prédit que les républicains célébreraient une victoire historique mardi soir, affirmant que les sondages se trompent."
+    }
+   ]
+  }
  ]
 }
